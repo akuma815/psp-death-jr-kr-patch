@@ -1,14 +1,16 @@
 {
-  "src": "assets/screenshots/psp-death-jr-kr-patch.png",
-  "caption": "한글 영상 자막 · 미리보기",
-  "kind": "video",
-  "width": 480,
-  "height": 272,
-  "source": "Games/Death Jr/workspace/video/subtitled_001_kyobo24/qa/GAMEINTRO_005.png",
-  "sourceSHA256": "6a792e67220625d5ed6df418014b6b6355bf6da10ae5637322d2b18e6007e4b1",
-  "assetSHA256": "6a792e67220625d5ed6df418014b6b6355bf6da10ae5637322d2b18e6007e4b1",
-  "pixelSHA256": "f4e59bea47704413958832adda6d5dc5aee1cf313e8f7abc1ec1f529ad0ef2ea",
-  "sourceNote": "자막 삽입 영상의 QA 프레임. 에뮬레이터 실행 캡처가 아닙니다.",
-  "readmeAsset": "img/preview.png",
-  "displayNote": "자막 삽입 영상의 QA 프레임. 에뮬레이터 실행 캡처가 아닙니다."
+  "src": "assets/screenshots/psp-death-jr-kr-patch-title-20261016.png",
+  "caption": "타이틀 · 한글 시작 안내",
+  "kind": "runtime",
+  "width": 4800,
+  "height": 2720,
+  "source": "Games/Death Jr/qa/public_title_20261016/title.png",
+  "sourceSHA256": "fd7facda823630344c209d1d41cb99fae401f10d101e2b7a051a03d20e2671b6",
+  "assetSHA256": "fd7facda823630344c209d1d41cb99fae401f10d101e2b7a051a03d20e2671b6",
+  "pixelSHA256": "6ff7a5783c2911d272332df042ffbd40ee0779ec03d3c945e6c93c8ddcdeb23e",
+  "sourceNote": "기존 PPSSPP 타이틀 캡처. 로고는 원문이며 시작 안내는 한글입니다. 촬영 당시 버전과 최종 배포본의 일치 여부는 확인하지 않았습니다.",
+  "originalCapturePath": "H:\\ppsspp\\memstick\\PSP\\SCREENSHOT\\ULUS10027_00000.png",
+  "preservation": "Original PNG copied unchanged; no crop, rescale, retouch or format conversion.",
+  "readmeAsset": "img/title-20261016.png",
+  "displayNote": "기존 PPSSPP 타이틀 캡처. 로고는 원문이며 시작 안내는 한글입니다. 촬영 당시 버전과 최종 배포본의 일치 여부는 확인하지 않았습니다."
 }
