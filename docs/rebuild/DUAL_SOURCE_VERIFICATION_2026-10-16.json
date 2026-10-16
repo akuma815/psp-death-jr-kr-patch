@@ -1,0 +1,29 @@
+{
+  "release": "final-20261016",
+  "archive_sha256": "7ce28fb59828fe02a7a0f8487b18d6c6f2ff704d25c9208da0dc518c65e1f3f1",
+  "archive_bytes": 76846911,
+  "zip_crc_and_member_hashes": "passed",
+  "rom_free_package": true,
+  "results": [
+    {
+      "label": "PSN",
+      "source_sha256": "625c03e32b6757eb4e1ac382f43592d86778b3c943d4f26b95f1134ceee85ea3",
+      "output_sha256": "c1ed1625cd3f9dac362655af0d332d49470fdab592c23cb5d81b778f4d52b842",
+      "apply_ps1_from_zip": true,
+      "apply_cmd_in_korean_path": true,
+      "existing_output_refused": true
+    },
+    {
+      "label": "USA",
+      "source_sha256": "644a57ff208d17ee4ec22ff06546f6d1e66bb3c88ca5f6ea91abb9e8edc22ff1",
+      "output_sha256": "c1ed1625cd3f9dac362655af0d332d49470fdab592c23cb5d81b778f4d52b842",
+      "apply_ps1_from_zip": true,
+      "apply_cmd_in_korean_path": true,
+      "existing_output_refused": true
+    }
+  ],
+  "unsupported_input_refused": true,
+  "originals_unchanged": true,
+  "new_runtime_testing": false,
+  "source_rebuild_input": "canonical PSN only; unchanged"
+}

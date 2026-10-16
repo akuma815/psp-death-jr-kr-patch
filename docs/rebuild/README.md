@@ -46,3 +46,9 @@ python -X utf8 -B scripts/rebuild_final.py --source-iso "지원 원본의 절대
 ## 검증 범위
 
 [VERIFICATION_2026-10-16.json](VERIFICATION_2026-10-16.json)에 실제 적용·재빌드 결과를 기록합니다. CPU 1,422건은 텍스트·포맷·재배치·글리프·정점 처리 검사이며 PSP GPU나 실제 장면 검증이 아닙니다. 새 에뮬레이터 영상 재생·장면·전체 플레이 검수는 수행하지 않았습니다. 원본 ISO·복호화 ELF·PMF·MP4·원본 폰트 파일은 Git에 포함하지 않습니다.
+
+## 2026-10-16 원본 호환성 업데이트
+
+배포 패치 `final-20261016`은 원본 ISO 2종을 자동 구분하여 동일한 최종 ISO를 생성합니다. 이 문서의 소스 재빌드 절차는 기존 정규 입력인 PSN 원본(`625c03e3…`)만 지원합니다. 동영상 자산 복구에 사용하는 `final-20260926` 릴리즈의 URL과 해시는 변경하지 않았습니다. 패치 적용 지원과 소스 재빌드 입력 범위는 구분합니다.
+
+배포 재생성: `python scripts/package_dual_release.py --psn <PSN원본> --usa <USA원본> --target <검증된최종ISO> --old-package <기존배포폴더> --output <새배포폴더>`
