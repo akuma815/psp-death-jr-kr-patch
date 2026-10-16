@@ -1,0 +1,656 @@
+{
+  "csv_sha256": "6667f45e7d6b6bf2ad5d71e09eee108a88bbaeb80650f7cf07083723ec24953e",
+  "font": "G:\\Downloads\\Korean Traslate Project\\Font\\KyoboHandwriting2019.ttf",
+  "font_sha256": "92ed8baae0b00321994560281650f7a6ade89dcef6f8848fa511391720ce9aa5",
+  "font_family": [
+    "Kyobo Handwriting 2019",
+    "Regular"
+  ],
+  "font_px": 24,
+  "resolution": [
+    480,
+    272
+  ],
+  "fps": "30000/1001",
+  "style": "white centered text; black alpha 180/255 box; bottom margin 10 px; 30 px line spacing",
+  "timing": "CSV exact milliseconds; active on frame PTS >= start and < end; no duration extension",
+  "ffmpeg": "C:\\Users\\akuma\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "pillow": "12.3.0",
+  "files": [
+    {
+      "file": "GAMEEND.mp4",
+      "source_sha256": "6edbe5736e29c1ed55548d0ccfeb6ad6ce34380c6a14dfdc199df700ce17d206",
+      "output_sha256": "9e5ec304420512bed0eb7603f49282917a393330e59263709ce2d5dd7c9c029f",
+      "frames": 1865,
+      "cues": 3,
+      "decode": "PASS",
+      "audio_packet_hash": "SHA256=89cb6cd2c8c28eb77a8e44512c79691c43deaefdee14b3f3a91c88221cb55df9",
+      "cue_layout": [
+        {
+          "id": "GAMEEND_001",
+          "lines": [
+            "몰록을 물리칠 열쇠를 찾았어."
+          ],
+          "start_ms": 39000,
+          "end_ms": 41000,
+          "visible_frames": 60,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEEND_002",
+          "lines": [
+            "세상에서 가장 강력한 무기야!"
+          ],
+          "start_ms": 41200,
+          "end_ms": 43000,
+          "visible_frames": 54,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEEND_003",
+          "lines": [
+            "아, 젠장."
+          ],
+          "start_ms": 46320,
+          "end_ms": 47720,
+          "visible_frames": 42,
+          "review_status": "needs_review"
+        }
+      ]
+    },
+    {
+      "file": "GAMEINTRO.mp4",
+      "source_sha256": "299ac0fef830653cd51034c15f7493111cd875fda0204375f72fd9a57b65518f",
+      "output_sha256": "d45c32b683d1931a4352eda1de8996003bce1347edb47a6e42c9612414d834bc",
+      "frames": 5478,
+      "cues": 48,
+      "decode": "PASS",
+      "audio_packet_hash": "SHA256=be837750ed7fa9f26319d9c514a098e1e3be67cabfee73518b34d64c7d035030",
+      "cue_layout": [
+        {
+          "id": "GAMEINTRO_001",
+          "lines": [
+            "얘들아, 줄 서서 들어가. 보고서는 오늘 안에 내고."
+          ],
+          "start_ms": 6060,
+          "end_ms": 9920,
+          "visible_frames": 116,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_002",
+          "lines": [
+            "서둘러, 몰리."
+          ],
+          "start_ms": 10000,
+          "end_ms": 10940,
+          "visible_frames": 28,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_003",
+          "lines": [
+            "아이고, 맙소사."
+          ],
+          "start_ms": 15020,
+          "end_ms": 16090,
+          "visible_frames": 32,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_004",
+          "lines": [
+            "자료실부터 둘러보자."
+          ],
+          "start_ms": 17400,
+          "end_ms": 18560,
+          "visible_frames": 35,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_005",
+          "lines": [
+            "베키, 맥스 그만 때려."
+          ],
+          "start_ms": 18980,
+          "end_ms": 20240,
+          "visible_frames": 38,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_006",
+          "lines": [
+            "안녕!"
+          ],
+          "start_ms": 26500,
+          "end_ms": 27200,
+          "visible_frames": 21,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_007",
+          "lines": [
+            "반 애들이랑 같이 가야 해."
+          ],
+          "start_ms": 29020,
+          "end_ms": 30840,
+          "visible_frames": 55,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_008",
+          "lines": [
+            "젠장."
+          ],
+          "start_ms": 31840,
+          "end_ms": 32220,
+          "visible_frames": 11,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_009",
+          "lines": [
+            "괜히 긴장되잖아."
+          ],
+          "start_ms": 32760,
+          "end_ms": 33680,
+          "visible_frames": 28,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_010",
+          "lines": [
+            "봤지?"
+          ],
+          "start_ms": 34880,
+          "end_ms": 35280,
+          "visible_frames": 12,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_011",
+          "lines": [
+            "얘들아, 좀!"
+          ],
+          "start_ms": 36060,
+          "end_ms": 37080,
+          "visible_frames": 31,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_012",
+          "lines": [
+            "그럼 난 뭘 보고 보고서를 쓰라고?"
+          ],
+          "start_ms": 37320,
+          "end_ms": 39420,
+          "visible_frames": 63,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_013",
+          "lines": [
+            "오늘 못 배운 거라도 쓰라는 거야?"
+          ],
+          "start_ms": 39780,
+          "end_ms": 41120,
+          "visible_frames": 40,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_014",
+          "lines": [
+            "넌 진짜 별로야, 스티그마사."
+          ],
+          "start_ms": 41660,
+          "end_ms": 42820,
+          "visible_frames": 35,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_015",
+          "lines": [
+            "데드 구피는 겁도 안 먹잖아."
+          ],
+          "start_ms": 43160,
+          "end_ms": 44460,
+          "visible_frames": 39,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_016",
+          "lines": [
+            "내가 뭐 어때서!"
+          ],
+          "start_ms": 46360,
+          "end_ms": 47780,
+          "visible_frames": 42,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_017",
+          "lines": [
+            "이러다 또 잡혀갈 거야."
+          ],
+          "start_ms": 48040,
+          "end_ms": 50000,
+          "visible_frames": 59,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_018",
+          "lines": [
+            "그 입 좀 막아."
+          ],
+          "start_ms": 50560,
+          "end_ms": 51620,
+          "visible_frames": 32,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_019",
+          "lines": [
+            "이미 마개가 꽂혀 있는데."
+          ],
+          "start_ms": 52100,
+          "end_ms": 53740,
+          "visible_frames": 49,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_020",
+          "lines": [
+            "으, 더러워!"
+          ],
+          "start_ms": 54130,
+          "end_ms": 54860,
+          "visible_frames": 22,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_021",
+          "lines": [
+            "역겨워!"
+          ],
+          "start_ms": 54860,
+          "end_ms": 55850,
+          "visible_frames": 29,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_022",
+          "lines": [
+            "이 얘기도 지겹군."
+          ],
+          "start_ms": 56470,
+          "end_ms": 57550,
+          "visible_frames": 32,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_023",
+          "lines": [
+            "우리 조 보고서는 네가 쓰겠다고 했잖아, 마티."
+          ],
+          "start_ms": 57770,
+          "end_ms": 59870,
+          "visible_frames": 63,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_024",
+          "lines": [
+            "불평해 봐야 소용없어."
+          ],
+          "start_ms": 60070,
+          "end_ms": 61070,
+          "visible_frames": 30,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_025",
+          "lines": [
+            "좀 더 흥미로운 놀 거리를 찾아보자."
+          ],
+          "start_ms": 61510,
+          "end_ms": 63970,
+          "visible_frames": 74,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_026",
+          "lines": [
+            "저런 거!"
+          ],
+          "start_ms": 66060,
+          "end_ms": 67090,
+          "visible_frames": 31,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_027",
+          "lines": [
+            "이런!"
+          ],
+          "start_ms": 69940,
+          "end_ms": 70560,
+          "visible_frames": 18,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_028",
+          "lines": [
+            "수천 년 된 것으로 추정되는 유물."
+          ],
+          "start_ms": 72320,
+          "end_ms": 75680,
+          "visible_frames": 101,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_029",
+          "lines": [
+            "개봉 시도는 모두 실패했다."
+          ],
+          "start_ms": 76100,
+          "end_ms": 77660,
+          "visible_frames": 47,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_030",
+          "lines": [
+            "그 비밀은 영영 밝혀지지 않을지도 모른다."
+          ],
+          "start_ms": 78060,
+          "end_ms": 79960,
+          "visible_frames": 57,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_031",
+          "lines": [
+            "오, 끝내주는데."
+          ],
+          "start_ms": 80220,
+          "end_ms": 81120,
+          "visible_frames": 27,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_032",
+          "lines": [
+            "그만해, 판도라."
+          ],
+          "start_ms": 84140,
+          "end_ms": 85580,
+          "visible_frames": 43,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_033",
+          "lines": [
+            "누가 잠갔든 다시 열리길 바라진 않았을 거야."
+          ],
+          "start_ms": 86040,
+          "end_ms": 88960,
+          "visible_frames": 88,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_034",
+          "lines": [
+            "안 열려!"
+          ],
+          "start_ms": 91960,
+          "end_ms": 93480,
+          "visible_frames": 45,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_035",
+          "lines": [
+            "이상하네. 난 뭐든 열 수 있는데."
+          ],
+          "start_ms": 94460,
+          "end_ms": 96820,
+          "visible_frames": 71,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_036",
+          "lines": [
+            "재미없어. 그냥 시시한 상자잖아."
+          ],
+          "start_ms": 97400,
+          "end_ms": 99400,
+          "visible_frames": 60,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_037",
+          "lines": [
+            "마티, 가자!"
+          ],
+          "start_ms": 99760,
+          "end_ms": 100480,
+          "visible_frames": 22,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_038",
+          "lines": [
+            "그러든가. 가자."
+          ],
+          "start_ms": 101240,
+          "end_ms": 102380,
+          "visible_frames": 34,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_039",
+          "lines": [
+            "이러다 외출 금지당할 거야."
+          ],
+          "start_ms": 104860,
+          "end_ms": 106820,
+          "visible_frames": 59,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_040",
+          "lines": [
+            "그래, 알 게 뭐야. 담배 있는 사람?"
+          ],
+          "start_ms": 107140,
+          "end_ms": 108660,
+          "visible_frames": 46,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_041",
+          "lines": [
+            "널 보러 다시 올게."
+          ],
+          "start_ms": 111800,
+          "end_ms": 113780,
+          "visible_frames": 59,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_042",
+          "lines": [
+            "이랴!"
+          ],
+          "start_ms": 114140,
+          "end_ms": 114840,
+          "visible_frames": 21,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_043",
+          "lines": [
+            "A 받고 싶으면 나 좀 내버려 둬."
+          ],
+          "start_ms": 115760,
+          "end_ms": 118060,
+          "visible_frames": 69,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_044",
+          "lines": [
+            "야, DJ."
+          ],
+          "start_ms": 119000,
+          "end_ms": 120520,
+          "visible_frames": 45,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_045",
+          "lines": [
+            "방금 무슨 소리야?"
+          ],
+          "start_ms": 126180,
+          "end_ms": 127420,
+          "visible_frames": 37,
+          "review_status": "needs_review"
+        },
+        {
+          "id": "GAMEINTRO_046",
+          "lines": [
+            "뭐?"
+          ],
+          "start_ms": 127660,
+          "end_ms": 128000,
+          "visible_frames": 11,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_047",
+          "lines": [
+            "나 아니야."
+          ],
+          "start_ms": 128320,
+          "end_ms": 129280,
+          "visible_frames": 29,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "GAMEINTRO_048",
+          "lines": [
+            "앗, 이번엔 나야."
+          ],
+          "start_ms": 131480,
+          "end_ms": 133260,
+          "visible_frames": 53,
+          "review_status": "asr_compared"
+        }
+      ]
+    },
+    {
+      "file": "REUNITED.mp4",
+      "source_sha256": "ae5b1dba0ef263725503c39703e373593d6238d7f4fe6087239e1523f08a73bf",
+      "output_sha256": "73de8461d1bb626ee8ddec619c0d04c34f38ea3753ffba6100b4e0f2ca2feb41",
+      "frames": 381,
+      "cues": 7,
+      "decode": "PASS",
+      "audio_packet_hash": "SHA256=bc0bd89f9a4027a7f3a1b8062910b00e1cd420259fd4266fbc0cc09d518e4d11",
+      "cue_layout": [
+        {
+          "id": "REUNITED_001",
+          "lines": [
+            "DJ!"
+          ],
+          "start_ms": 110,
+          "end_ms": 820,
+          "visible_frames": 21,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "REUNITED_002",
+          "lines": [
+            "어! 그게... 와!"
+          ],
+          "start_ms": 1240,
+          "end_ms": 3680,
+          "visible_frames": 73,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "REUNITED_003",
+          "lines": [
+            "널 찾아 온통 뒤지고 다녔어."
+          ],
+          "start_ms": 4400,
+          "end_ms": 6160,
+          "visible_frames": 53,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "REUNITED_004",
+          "lines": [
+            "화장실 칸 안에서."
+          ],
+          "start_ms": 6160,
+          "end_ms": 7540,
+          "visible_frames": 41,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "REUNITED_005",
+          "lines": [
+            "안에 들어가서 문 잠그고."
+          ],
+          "start_ms": 8780,
+          "end_ms": 9580,
+          "visible_frames": 24,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "REUNITED_006",
+          "lines": [
+            "어쨌든 널 찾고는 있었어."
+          ],
+          "start_ms": 9720,
+          "end_ms": 11200,
+          "visible_frames": 44,
+          "review_status": "asr_compared"
+        },
+        {
+          "id": "REUNITED_007",
+          "lines": [
+            "정말 반갑다."
+          ],
+          "start_ms": 11940,
+          "end_ms": 12600,
+          "visible_frames": 20,
+          "review_status": "asr_compared"
+        }
+      ]
+    },
+    {
+      "file": "TITLES.mp4",
+      "source_sha256": "db094edcc0fc2ec26e4ed49a9864a6eae2289e2f7133a2996e812d43ad97b199",
+      "output_sha256": "1665605bd8a7ec4a35a73f7c0aeafdd7f93ec372ab898d539125c91fc72c9a68",
+      "frames": 768,
+      "cues": 1,
+      "decode": "PASS",
+      "audio_packet_hash": "SHA256=9946f6316b514c600c94c7598ce2000cee67e8533a039b73316af7d7641c795a",
+      "cue_layout": [
+        {
+          "id": "TITLES_001",
+          "lines": [
+            "DJ, 버스 왔어."
+          ],
+          "start_ms": 17340,
+          "end_ms": 19220,
+          "visible_frames": 57,
+          "review_status": "asr_compared"
+        }
+      ]
+    }
+  ],
+  "script_sha256": "463d5f2b17a8de31573737e03510fef53ac810e984c07730c39134c89d6ad58f"
+}

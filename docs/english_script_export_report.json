@@ -1,0 +1,389 @@
+{
+  "rows": 708,
+  "unique_originals": 597,
+  "categories": {
+    "combo_and_cheat": 58,
+    "weapon_name": 17,
+    "title": 1,
+    "cheat_notification": 26,
+    "level_name": 31,
+    "save_description": 1,
+    "options": 13,
+    "npc_dialogue": 87,
+    "upgrade_dialogue_tutorial": 25,
+    "boss_name": 3,
+    "upgrade_notification": 27,
+    "dialogue_tutorial": 235,
+    "result": 3,
+    "menu": 59,
+    "upgrade_menu": 117,
+    "level_embedded_dialogue": 2,
+    "title_menu": 3
+  },
+  "csv_sha256": "e1597292413fd41eada49fd27cb3bfee0904ba47b80871521fe01cbc41b2114e",
+  "source_sha256": {
+    "EBOOT.decrypted.elf": "e521c889dd57db58fe0b081a8c653a750f8c5bf9db6cf184f3714be4d44057f1",
+    "PSP_GAME/USRDIR/STREAMS/UI_BINARY.STR": "66d6a95aa3e6ede9203adbc69b652a7b2247e0adce172f8287dd1f85ea5e2ec9",
+    "PSP_GAME/USRDIR/STREAMS/SCHOOL_D2.STR": "ecc7bd42f1811969f4883a3fe160912e16c6ab7f4c4789287e1347055073929a"
+  },
+  "validation": {
+    "csv_readback": "PASS",
+    "original_token_bytes_roundtrip": "PASS",
+    "source_ranges": "PASS",
+    "unique_ids": "PASS",
+    "artifact_spreadsheet_all_cells_roundtrip": "PASS"
+  },
+  "scope": "Reviewed stored English text pools and two UI template arrays; not a proven complete audiovisual script.",
+  "unresolved": [
+    "PMF voiced dialogue and image lettering have not been transcribed.",
+    "STR scan is heuristic, not a complete serialized-object parser.",
+    "Dialogue event/line ordering and all runtime consumers are not yet mapped.",
+    "Full Hangul encoding and reinsertion remain to be implemented."
+  ],
+  "file_inventory": [
+    {
+      "path": "PSP_GAME/ICON0.PNG",
+      "bytes": 20904
+    },
+    {
+      "path": "PSP_GAME/ICON1.PMF",
+      "bytes": 253952
+    },
+    {
+      "path": "PSP_GAME/PARAM.SFO",
+      "bytes": 472
+    },
+    {
+      "path": "PSP_GAME/PIC1.PNG",
+      "bytes": 212371
+    },
+    {
+      "path": "PSP_GAME/SYSDIR/BOOT.BIN",
+      "bytes": 2434281
+    },
+    {
+      "path": "PSP_GAME/SYSDIR/EBOOT.BIN",
+      "bytes": 2434624
+    },
+    {
+      "path": "PSP_GAME/SYSDIR/UPDATE/DATA.BIN",
+      "bytes": 10149424
+    },
+    {
+      "path": "PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN",
+      "bytes": 3737904
+    },
+    {
+      "path": "PSP_GAME/SYSDIR/UPDATE/PARAM.SFO",
+      "bytes": 1580
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/ASSIST_EXTEND.PMF",
+      "bytes": 536576
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/CREDITS.PMF",
+      "bytes": 39086080
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/DJ_TEST.PMF",
+      "bytes": 2410496
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/ELECTRIC_BOSS.PMF",
+      "bytes": 1318912
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/FIRE_BOSS.PMF",
+      "bytes": 628736
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/GAMEEND.PMF",
+      "bytes": 6610944
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/GAMEINTRO.PMF",
+      "bytes": 26030080
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/GUPPYFLASHBACK.PMF",
+      "bytes": 2082816
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/GUPPYFREED.PMF",
+      "bytes": 724992
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/GUPPYPORTALS.PMF",
+      "bytes": 968704
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/HEALTH_EXTEND.PMF",
+      "bytes": 536576
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/MARTYFLASHBACK.PMF",
+      "bytes": 2273280
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/MARTYFREED.PMF",
+      "bytes": 1067008
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/MARTYPORTALS.PMF",
+      "bytes": 976896
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/MOLOCH.PMF",
+      "bytes": 2267136
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/REUNITED.PMF",
+      "bytes": 1478656
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/SAVE_GAME.PMF",
+      "bytes": 139264
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/SAVE_GAME_BKG.PNG",
+      "bytes": 213923
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/SEEPFLASHBACK.PMF",
+      "bytes": 2781184
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/SEEPFREED.PMF",
+      "bytes": 1005568
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/SEEPPORTALS.PMF",
+      "bytes": 972800
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/SOUL_PIECE.PMF",
+      "bytes": 548864
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/STARTUP.PMF",
+      "bytes": 1630208
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/TITLES.PMF",
+      "bytes": 2793472
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/UMD_MOVIE.PMF",
+      "bytes": 253952
+    },
+    {
+      "path": "PSP_GAME/USRDIR/FMV/WEAPON_UPGRADE.PMF",
+      "bytes": 540672
+    },
+    {
+      "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+      "bytes": 627016
+    },
+    {
+      "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+      "bytes": 1152712
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/AUDIOCODEC.PRX",
+      "bytes": 3232
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/IFHANDLE.PRX",
+      "bytes": 10832
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/LIBATRAC3PLUS.PRX",
+      "bytes": 19524
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/LIBFONT.PRX",
+      "bytes": 43188
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/LIBNETCNF.PRX",
+      "bytes": 20748
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/MEMAB.PRX",
+      "bytes": 15216
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/MPEG.PRX",
+      "bytes": 39624
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/MPEGBASE.PRX",
+      "bytes": 9552
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/PSPNET.PRX",
+      "bytes": 60256
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/PSPNET_APCTL.PRX",
+      "bytes": 45196
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/PSPNET_INET.PRX",
+      "bytes": 247248
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/SC_SASCORE.PRX",
+      "bytes": 5920
+    },
+    {
+      "path": "PSP_GAME/USRDIR/MODULES/VIDEOCODEC.PRX",
+      "bytes": 3808
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_DEADPIMP.AT3",
+      "bytes": 648924
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_DEADPIMP_V02.AT3",
+      "bytes": 648924
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_DEADPIMP_V03.AT3",
+      "bytes": 648924
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_DOVE.AT3",
+      "bytes": 496676
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_KOOKY.AT3",
+      "bytes": 648644
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_MOLROCK.AT3",
+      "bytes": 374180
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_SKINMASK.AT3",
+      "bytes": 445644
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_SNOOPED.AT3",
+      "bytes": 604616
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_TCB.AT3",
+      "bytes": 505508
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/BGM_UNEARTHED.AT3",
+      "bytes": 488804
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/UIM_BASEMENT.AT3",
+      "bytes": 520100
+    },
+    {
+      "path": "PSP_GAME/USRDIR/SOUNDS/MUSIC/UIM_PARLORTRICKS.AT3",
+      "bytes": 386844
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/ASYLUM_F1.STR",
+      "bytes": 16199680
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/ASYLUM_F2.STR",
+      "bytes": 15775744
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/ASYLUM_F3.STR",
+      "bytes": 3592192
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/C1.STR",
+      "bytes": 19132416
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/C2.STR",
+      "bytes": 15048704
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/C3.STR",
+      "bytes": 23203840
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/DOWNTOWN_E1.STR",
+      "bytes": 19539968
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/DOWNTOWN_E2.STR",
+      "bytes": 22024192
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/DOWNTOWN_E3.STR",
+      "bytes": 3342336
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/GLOBAL_BINARY.STR",
+      "bytes": 765952
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/MUSEUM_ADV.STR",
+      "bytes": 8681472
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/MUSEUM_BASIC.STR",
+      "bytes": 4220928
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/MUSEUM_G1.STR",
+      "bytes": 25298944
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/MUSEUM_G2.STR",
+      "bytes": 4284416
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/MUSEUM_LOWER.STR",
+      "bytes": 4880384
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/MUSEUM_ZZ.STR",
+      "bytes": 6590464
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/SCHOOL_D1.STR",
+      "bytes": 13926400
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/SCHOOL_D2.STR",
+      "bytes": 19675136
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/SCHOOL_D3.STR",
+      "bytes": 11980800
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/SUBURBIA1.STR",
+      "bytes": 15177728
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/SUBURBIA2.STR",
+      "bytes": 15761408
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/SUBURBIA3.STR",
+      "bytes": 7403520
+    },
+    {
+      "path": "PSP_GAME/USRDIR/STREAMS/UI_BINARY.STR",
+      "bytes": 1298432
+    },
+    {
+      "path": "UMD_DATA.BIN",
+      "bytes": 48
+    }
+  ]
+}

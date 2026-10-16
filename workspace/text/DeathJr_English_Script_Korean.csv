@@ -1,0 +1,709 @@
+﻿id,translation,original,category,status,notes,source_file,file_offset_hex,original_bytes,fixed_buffer_bytes,tokens,evidence,raw_hex
+ELF_001C2578,없음,none,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2578,4,,,reviewed_text_pool,6e6f6e65
+ELF_001C2580,베기!,Slash!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2580,6,,,reviewed_text_pool,536c61736821
+ELF_001C2588,초특급,duper,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2588,5,,,reviewed_text_pool,6475706572
+ELF_001C2590,대박,major,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2590,5,,,reviewed_text_pool,6d616a6f72
+ELF_001C2598,화려찬란,razzamatazz,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2598,11,,,reviewed_text_pool,72617a7a616d6174617a7a
+ELF_001C25A4,진짜,true,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25A4,4,,,reviewed_text_pool,74727565
+ELF_001C25AC,스페셜,special,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25AC,7,,,reviewed_text_pool,7370656369616c
+ELF_001C25B4,명중!,Hit!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25B4,4,,,reviewed_text_pool,48697421
+ELF_001C25BC,낫 점프!,Scythe Hop!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25BC,11,,,reviewed_text_pool,53637974686520486f7021
+ELF_001C25C8,절벽 잡기!,Ledge Grab!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25C8,11,,,reviewed_text_pool,4c65646765204772616221
+ELF_001C25D4,벽 타기!,Wall Slide!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25D4,11,,,reviewed_text_pool,57616c6c20536c69646521
+ELF_001C25E0,벽 점프!,Wall Jump!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25E0,10,,,reviewed_text_pool,57616c6c204a756d7021
+ELF_001C25EC,서까래 스윙!,Rafter Swing!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25EC,13,,,reviewed_text_pool,526166746572205377696e6721
+ELF_001C25FC,와이어 슬라이드!,Wire Slide!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C25FC,11,,,reviewed_text_pool,5769726520536c69646521
+ELF_001C2608,훅 스윙!,Hook Swing!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2608,11,,,reviewed_text_pool,486f6f6b205377696e6721
+ELF_001C2614,탄환 반사!,Shot Reflected!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2614,15,,,reviewed_text_pool,53686f74205265666c656374656421
+ELF_001C2624,처치!,Kill!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2624,5,,,reviewed_text_pool,4b696c6c21
+ELF_001C262C,되받아치기!,Back-At-Ya!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C262C,11,,,reviewed_text_pool,4261636b2d41742d596121
+ELF_001C2638,피범벅!,Gory!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2638,5,,,reviewed_text_pool,476f727921
+ELF_001C2640,산산조각!,Shattered!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2640,10,,,reviewed_text_pool,53686174746572656421
+ELF_001C264C,불탔다!,Torched!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C264C,8,,,reviewed_text_pool,546f726368656421
+ELF_001C2658,연속 처치!,Multi-Kill!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2658,11,,,reviewed_text_pool,4d756c74692d4b696c6c21
+ELF_001C2664,활활 타라!,Burn Baby Burn!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2664,15,,,reviewed_text_pool,4275726e2042616279204275726e21
+ELF_001C2674,짜릿해!,Shocking!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2674,9,,,reviewed_text_pool,53686f636b696e6721
+ELF_001C2680,파괴!,Destruction!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2680,12,,,reviewed_text_pool,4465737472756374696f6e21
+ELF_001C2690,역점프!,Reverse Jump!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2690,13,,,reviewed_text_pool,52657665727365204a756d7021
+ELF_001C26A0,회피!,Dodge!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26A0,6,,,reviewed_text_pool,446f64676521
+ELF_001C26A8,보너스 영혼!,Bonus Souls!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26A8,12,,,reviewed_text_pool,426f6e757320536f756c7321
+ELF_001C26B8,낫 치트,Scythe Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26B8,12,,,reviewed_text_pool,536379746865204368656174
+ELF_001C26C8,치트쟁이,Cheaty McCheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26C8,14,,,reviewed_text_pool,436865617479204d634368656174
+ELF_001C26D8,깡충 치트,Hopping Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26D8,13,,,reviewed_text_pool,486f7070696e67204368656174
+ELF_001C26E8,매달리기 치트,Grabbing Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26E8,14,,,reviewed_text_pool,4772616262696e67204368656174
+ELF_001C26F8,치트 슬라이드,Cheat Slide,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C26F8,11,,,reviewed_text_pool,436865617420536c696465
+ELF_001C2704,멕시칸 점핑 치트,Mexican Jumping Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2704,21,,,reviewed_text_pool,4d65786963616e204a756d70696e67204368656174
+ELF_001C271C,사기꾼 스윙,Cheater Swing,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C271C,13,,,reviewed_text_pool,43686561746572205377696e67
+ELF_001C272C,미끄럼 치트,Slip-Sliding Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C272C,18,,,reviewed_text_pool,536c69702d536c6964696e67204368656174
+ELF_001C2740,스윙 치트,Swingin' Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2740,14,,,reviewed_text_pool,5377696e67696e27204368656174
+ELF_001C2750,치트 트치,Cheat teahC,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2750,11,,,reviewed_text_pool,4368656174207465616843
+ELF_001C275C,멋진 처치... 치트,Nice Kill... Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C275C,18,,,reviewed_text_pool,4e696365204b696c6c2e2e2e204368656174
+ELF_001C2770,되받아치기... 치트,Back-At-Ya... Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2770,19,,,reviewed_text_pool,4261636b2d41742d59612e2e2e204368656174
+ELF_001C2784,징그러운 치트,Gross Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2784,11,,,reviewed_text_pool,47726f7373204368656174
+ELF_001C2790,냉동 치트,Frozen Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2790,12,,,reviewed_text_pool,46726f7a656e204368656174
+ELF_001C27A0,화염 치트,Flaming Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C27A0,13,,,reviewed_text_pool,466c616d696e67204368656174
+ELF_001C27B0,멀티 치트,Multi-Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C27B0,11,,,reviewed_text_pool,4d756c74692d4368656174
+ELF_001C27BC,"타라, 치트쟁이!",Burn Cheater Burn,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C27BC,17,,,reviewed_text_pool,4275726e2043686561746572204275726e
+ELF_001C27D0,1.21기가 치트,1.21 Giga-Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C27D0,15,,,reviewed_text_pool,312e323120476967612d4368656174
+ELF_001C27E0,파괴왕 치트,Destructo-Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C27E0,15,,,reviewed_text_pool,44657374727563746f2d4368656174
+ELF_001C27F0,공중회전 치트,Flipping Cheat,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C27F0,14,,,reviewed_text_pool,466c697070696e67204368656174
+ELF_001C2800,회피 치트쟁이,Dodge Cheater,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2800,13,,,reviewed_text_pool,446f6467652043686561746572
+ELF_001C2810,보너스 치트,Bonus Cheats,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2810,12,,,reviewed_text_pool,426f6e757320436865617473
+ELF_001C2820,휴고틱!,Hugotastic!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2820,11,,,reviewed_text_pool,4875676f74617374696321
+ELF_001C282C,위키원더풀!,Wikiwonderful!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C282C,14,,,reviewed_text_pool,57696b69776f6e64657266756c21
+ELF_001C283C,제드타큘러!,Jedtacular!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C283C,11,,,reviewed_text_pool,4a6564746163756c617221
+ELF_001C2848,토머리픽!,Tomeriffic!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2848,11,,,reviewed_text_pool,546f6d6572696666696321
+ELF_001C2854,피터내추럴!,Peternatural!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2854,13,,,reviewed_text_pool,50657465726e61747572616c21
+ELF_001C2864,크리스블리스!,Chrisbliss!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2864,11,,,reviewed_text_pool,4368726973626c69737321
+ELF_001C2870,짐빌리버블!,Jimbelievable!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2870,14,,,reviewed_text_pool,4a696d62656c69657661626c6521
+ELF_001C2880,미치매니아!,Mitchmania!,combo_and_cheat,untranslated,,EBOOT.decrypted.elf,0x001C2880,11,,,reviewed_text_pool,4d697463686d616e696121
+ELF_001C29BC,페레즈 피스톨,Perez Pistols,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C29BC,13,,,reviewed_text_pool,506572657a20506973746f6c73
+ELF_001C29CC,찰라 칠러,Charla Chiller,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C29CC,14,,,reviewed_text_pool,436861726c61204368696c6c6572
+ELF_001C29DC,설리번 샷건,Sullivan Shotgun,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C29DC,16,,,reviewed_text_pool,53756c6c6976616e2053686f7467756e
+ELF_001C29F0,버지스 배머,Burgess Bammer,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C29F0,14,,,reviewed_text_pool,427572676573732042616d6d6572
+ELF_001C2A00,루소 로켓,Russo Rockets,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A00,13,,,reviewed_text_pool,527573736f20526f636b657473
+ELF_001C2A10,벤더 볼트,Bender Bolt,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A10,11,,,reviewed_text_pool,42656e64657220426f6c74
+ELF_001C2A1C,미카 멜터,Mika Melter,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A1C,11,,,reviewed_text_pool,4d696b61204d656c746572
+ELF_001C2A28,"올드리지, 어... 햄스터","Aldridge, uh, Hamster",weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A28,21,,,reviewed_text_pool,416c6472696467652c2075682c2048616d73746572
+ELF_001C2A40,불명,Unknown,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A40,7,,,reviewed_text_pool,556e6b6e6f776e
+ELF_001C2A48,쌍권총,Twin Pistols,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A48,12,,,reviewed_text_pool,5477696e20506973746f6c73
+ELF_001C2A58,냉동총,Freeze Gun,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A58,10,,,reviewed_text_pool,467265657a652047756e
+ELF_001C2A64,샷건,Shotgun,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A64,7,,,reviewed_text_pool,53686f7467756e
+ELF_001C2A6C,체인건,Chain Gun,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A6C,9,,,reviewed_text_pool,436861696e2047756e
+ELF_001C2A78,로켓 런처,Rocket Launcher,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A78,15,,,reviewed_text_pool,526f636b6574204c61756e63686572
+ELF_001C2A88,전기총,Electric Gun,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A88,12,,,reviewed_text_pool,456c6563747269632047756e
+ELF_001C2A98,화염방사기,Flamethrower,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2A98,12,,,reviewed_text_pool,466c616d657468726f776572
+ELF_001C2AA8,C4 햄스터,C4 Hamsters,weapon_name,untranslated,,EBOOT.decrypted.elf,0x001C2AA8,11,,,reviewed_text_pool,43342048616d7374657273
+ELF_001C3194,데스 주니어,"Death, Jr.",title,untranslated,,EBOOT.decrypted.elf,0x001C3194,10,,,reviewed_text_pool,44656174682c204a722e
+ELF_001C3378,무기 업그레이드,Weapons Upgraded,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3378,16,,,reviewed_text_pool,576561706f6e73205570677261646564
+ELF_001C338C,당장 뛰는 게 좋을걸,Better Start Running,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C338C,20,,,reviewed_text_pool,4265747465722053746172742052756e6e696e67
+ELF_001C33A4,날 못 건드려,Can't Touch This,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C33A4,16,,,reviewed_text_pool,43616e277420546f7563682054686973
+ELF_001C33B8,무기 이름 = 평범,Weapon names = normal,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C33B8,21,,,reviewed_text_pool,576561706f6e206e616d6573203d206e6f726d616c
+ELF_001C33D0,무기 이름 = 완전 끝내줌,Weapon names = totally sweet,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C33D0,28,,,reviewed_text_pool,576561706f6e206e616d6573203d20746f74616c6c79207377656574
+ELF_001C33F0,탄약 제한 (아쉽),Limited ammo (awww),cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C33F0,19,,,reviewed_text_pool,4c696d6974656420616d6d6f20286177777729
+ELF_001C3404,탄약 무제한 (파티!),Unlimited ammo (party!),cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3404,23,,,reviewed_text_pool,556e6c696d6974656420616d6d6f202870617274792129
+ELF_001C341C,기본 데칼,Normal decals,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C341C,13,,,reviewed_text_pool,4e6f726d616c20646563616c73
+ELF_001C342C,친구 데칼,Buddy decals,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C342C,12,,,reviewed_text_pool,427564647920646563616c73
+ELF_001C343C,기본 머리,Normal heads,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C343C,12,,,reviewed_text_pool,4e6f726d616c206865616473
+ELF_001C344C,머리가 이상해,My head feels funny,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C344C,19,,,reviewed_text_pool,4d792068656164206665656c732066756e6e79
+ELF_001C3460,기본 낫,Normal Scythe,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3460,13,,,reviewed_text_pool,4e6f726d616c20536379746865
+ELF_001C3470,거대 칼날!,Giant Blade!,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3470,12,,,reviewed_text_pool,4769616e7420426c61646521
+ELF_001C3480,김샜네,Harshed,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3480,7,,,reviewed_text_pool,48617273686564
+ELF_001C3488,색깔 맛이 느껴져!,I can taste the colors!,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3488,23,,,reviewed_text_pool,492063616e2074617374652074686520636f6c6f727321
+ELF_001C34A0,제드가 슬퍼하잖아.,You make Jed sad.,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C34A0,17,,,reviewed_text_pool,596f75206d616b65204a6564207361642e
+ELF_001C34B4,이건 제드 아이디어야!,This was Jed's idea!,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C34B4,20,,,reviewed_text_pool,5468697320776173204a65642773206964656121
+ELF_001C34CC,아이도어 고체화 복구.,Eyedoor solidity reinstated.,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C34CC,28,,,reviewed_text_pool,457965646f6f7220736f6c6964697479207265696e7374617465642e
+ELF_001C34EC,아이도어 고체화 의심!,Eyedoor solidity questionable!,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C34EC,30,,,reviewed_text_pool,457965646f6f7220736f6c6964697479207175657374696f6e61626c6521
+ELF_001C350C,난 초록색이 좋아.,I like green.,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C350C,13,,,reviewed_text_pool,49206c696b6520677265656e2e
+ELF_001C351C,초록색은 이제 지겨워!,I'm tired of green!,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C351C,19,,,reviewed_text_pool,49276d207469726564206f6620677265656e21
+ELF_001C3530,와우! 공짜 위젯!,W00t! Free widget!,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3530,18,,,reviewed_text_pool,573030742120467265652077696467657421
+ELF_001C3544,탄약 보충 (최고),Ammo refilled (awesome),cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3544,23,,,reviewed_text_pool,416d6d6f20726566696c6c65642028617765736f6d6529
+ELF_001C355C,체력 증가,Health Increased,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C355C,16,,,reviewed_text_pool,4865616c746820496e63726561736564
+ELF_001C3570,조금 더 도움,A Little More Help,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3570,18,,,reviewed_text_pool,41204c6974746c65204d6f72652048656c70
+ELF_001C3584,1달러면 사겠어,I'd buy that for a dollar,cheat_notification,untranslated,,EBOOT.decrypted.elf,0x001C3584,25,,,reviewed_text_pool,49276420627579207468617420666f72206120646f6c6c6172
+ELF_001C35AC,십의 동네,Seep's Hood,level_name,untranslated,,EBOOT.decrypted.elf,0x001C35AC,11,,,reviewed_text_pool,53656570277320486f6f64
+ELF_001C35B8,구멍가게,The Corner Store,level_name,untranslated,,EBOOT.decrypted.elf,0x001C35B8,16,,,reviewed_text_pool,54686520436f726e65722053746f7265
+ELF_001C35CC,우리 집,My House,level_name,untranslated,,EBOOT.decrypted.elf,0x001C35CC,8,,,reviewed_text_pool,4d7920486f757365
+ELF_001C35D8,젖소 대소동,Udder Madness,level_name,untranslated,,EBOOT.decrypted.elf,0x001C35D8,13,,,reviewed_text_pool,5564646572204d61646e657373
+ELF_001C35E8,소가 스테이크가 되는 법,How a Cow Becomes a Steak,level_name,untranslated,,EBOOT.decrypted.elf,0x001C35E8,25,,,reviewed_text_pool,486f77206120436f77204265636f6d6573206120537465616b
+ELF_001C3604,버거 트램,The Burger Tram,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3604,15,,,reviewed_text_pool,54686520427572676572205472616d
+ELF_001C3614,고등 교육,Higher Learning,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3614,15,,,reviewed_text_pool,486967686572204c6561726e696e67
+ELF_001C3624,폭풍 성장,Growth Spurt,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3624,12,,,reviewed_text_pool,47726f777468205370757274
+ELF_001C3634,낙제생,Bottom of the Bell Curve,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3634,24,,,reviewed_text_pool,426f74746f6d206f66207468652042656c6c204375727665
+ELF_001C3650,작은 다운타운의 큰 소동,Big Trouble in Little Downtown,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3650,30,,,reviewed_text_pool,4269672054726f75626c6520696e204c6974746c6520446f776e746f776e
+ELF_001C3670,위로 올라가자,Moving On Up,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3670,12,,,reviewed_text_pool,4d6f76696e67204f6e205570
+ELF_001C3680,불태워 버려,Burn It Down,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3680,12,,,reviewed_text_pool,4275726e20497420446f776e
+ELF_001C3690,해피 트레일 정신병원,Happy Trails Insanitarium,level_name,untranslated,,EBOOT.decrypted.elf,0x001C3690,25,,,reviewed_text_pool,486170707920547261696c7320496e73616e6974617269756d
+ELF_001C36AC,내면의 광기,Inner Madness,level_name,untranslated,,EBOOT.decrypted.elf,0x001C36AC,13,,,reviewed_text_pool,496e6e6572204d61646e657373
+ELF_001C36BC,전기 충격 치료,Shock Treatment,level_name,untranslated,,EBOOT.decrypted.elf,0x001C36BC,15,,,reviewed_text_pool,53686f636b2054726561746d656e74
+ELF_001C36CC,상자 속으로,Into the Box,level_name,untranslated,,EBOOT.decrypted.elf,0x001C36CC,12,,,reviewed_text_pool,496e746f2074686520426f78
+ELF_001C36DC,최종 결전,Final Battle,level_name,untranslated,,EBOOT.decrypted.elf,0x001C36DC,12,,,reviewed_text_pool,46696e616c20426174746c65
+ELF_001C36EC,박물관,The Museum,level_name,untranslated,,EBOOT.decrypted.elf,0x001C36EC,10,,,reviewed_text_pool,546865204d757365756d
+ELF_001C36F8,고급 훈련,Advanced Training,level_name,untranslated,,EBOOT.decrypted.elf,0x001C36F8,17,,,reviewed_text_pool,416476616e63656420547261696e696e67
+ELF_001C370C,기초 훈련,Basic Training,level_name,untranslated,,EBOOT.decrypted.elf,0x001C370C,14,,,reviewed_text_pool,426173696320547261696e696e67
+ELF_001C371C,지하실,The Basement,level_name,untranslated,,EBOOT.decrypted.elf,0x001C371C,12,,,reviewed_text_pool,54686520426173656d656e74
+ELF_001C37AB,수집한 무기 위젯: %d,Weapon Widgets Collected: %d,save_description,untranslated,,EBOOT.decrypted.elf,0x001C37AB,28,,%d,reviewed_text_pool,576561706f6e205769646765747320436f6c6c65637465643a202564
+ELF_001C37F8,조준 반전: 켬,Invert Aiming: ON,options,untranslated,,EBOOT.decrypted.elf,0x001C37F8,17,,,reviewed_text_pool,496e766572742041696d696e673a204f4e
+ELF_001C380C,조준 반전: 끔,Invert Aiming: OFF,options,untranslated,,EBOOT.decrypted.elf,0x001C380C,18,,,reviewed_text_pool,496e766572742041696d696e673a204f4646
+ELF_001C3820,록온: 수동,Lock On: MANUAL,options,untranslated,,EBOOT.decrypted.elf,0x001C3820,15,,,reviewed_text_pool,4c6f636b204f6e3a204d414e55414c
+ELF_001C3830,록온: 끔,Lock On: OFF,options,untranslated,,EBOOT.decrypted.elf,0x001C3830,12,,,reviewed_text_pool,4c6f636b204f6e3a204f4646
+ELF_001C3840,록온: 자동,Lock On: AUTO,options,untranslated,,EBOOT.decrypted.elf,0x001C3840,13,,,reviewed_text_pool,4c6f636b204f6e3a204155544f
+ELF_001C3850,자유 시점: DJ,Free Look: DJ,options,untranslated,,EBOOT.decrypted.elf,0x001C3850,13,,,reviewed_text_pool,46726565204c6f6f6b3a20444a
+ELF_001C3860,자유 시점: 카메라,Free Look: Camera,options,untranslated,,EBOOT.decrypted.elf,0x001C3860,17,,,reviewed_text_pool,46726565204c6f6f6b3a2043616d657261
+ELF_001C3874,DJ 독백: 켬,DJ Monologue: ON,options,untranslated,,EBOOT.decrypted.elf,0x001C3874,16,,,reviewed_text_pool,444a204d6f6e6f6c6f6775653a204f4e
+ELF_001C3888,DJ 독백: 끔,DJ Monologue: OFF,options,untranslated,,EBOOT.decrypted.elf,0x001C3888,17,,,reviewed_text_pool,444a204d6f6e6f6c6f6775653a204f4646
+ELF_001C389C,%s%d,%s%d,options,untranslated,,EBOOT.decrypted.elf,0x001C389C,4,,%s %d,reviewed_text_pool,25732564
+ELF_001C38A4,음악 음량: ,Music Volume: ,options,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001C38A4,14,,,reviewed_text_pool,4d7573696320566f6c756d653a20
+ELF_001C38B4,효과음 음량: ,Sound Volume: ,options,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001C38B4,14,,,reviewed_text_pool,536f756e6420566f6c756d653a20
+ELF_001C38C4,밝기: ,Brightness: ,options,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001C38C4,12,,,reviewed_text_pool,4272696768746e6573733a20
+ELF_001C3BE4,DJ가 조각들을 모두,DJ must find all of,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3BE4,19,,,reviewed_text_pool,444a206d7573742066696e6420616c6c206f66
+ELF_001C3BF8,찾아야 그들을 구할 수 있어.,the Pieces to save them.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3BF8,24,,,reviewed_text_pool,7468652050696563657320746f2073617665207468656d2e
+ELF_001C3C14,그리고 우린 전부 환각 중이지.,and we`re all hallucinating.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3C14,28,,,reviewed_text_pool,616e6420776560726520616c6c2068616c6c7563696e6174696e672e
+ELF_001C3C34,웨스턴 생각엔 그게,Weston thinks it was the,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3C34,24,,,reviewed_text_pool,576573746f6e207468696e6b732069742077617320746865
+ELF_001C3C50,썩은 파인애플 가스래.,gas from a rotting pineapple,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3C50,28,,,reviewed_text_pool,6761732066726f6d206120726f7474696e672070696e656170706c65
+ELF_001C3C70,밀폐된 상자 안에,left in the airtight box,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3C70,24,,,reviewed_text_pool,6c65667420696e2074686520616972746967687420626f78
+ELF_001C3C8C,수백 년간 있던 거 말이야.,hundreds of years ago.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3C8C,22,,,reviewed_text_pool,68756e6472656473206f662079656172732061676f2e
+ELF_001C3CA4,내 생각엔 이,I think it was this,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3CA4,19,,,reviewed_text_pool,49207468696e6b206974207761732074686973
+ELF_001C3CB8,"고대의 악의 존재,",ancient evil being named,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3CB8,24,,,reviewed_text_pool,616e6369656e74206576696c206265696e67206e616d6564
+ELF_001C3CD4,"""몰록""이 원인이야.","""Moloch,"" who was trapped",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3CD4,25,,,reviewed_text_pool,224d6f6c6f63682c222077686f207761732074726170706564
+ELF_001C3CF0,아득한 옛날 상자에 갇혔지.,in a box eons ago.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3CF0,18,,,reviewed_text_pool,696e206120626f7820656f6e732061676f2e
+ELF_001C3D04,우린 이 문제를,We`ve researched the,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D04,20,,,reviewed_text_pool,5765607665207265736561726368656420746865
+ELF_001C3D1C,조사해서 두 가지,problem and come to two,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D1C,23,,,reviewed_text_pool,70726f626c656d20616e6420636f6d6520746f2074776f
+ELF_001C3D34,그럴듯한 가설을 세웠어.,plausible hypotheses.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D34,21,,,reviewed_text_pool,706c61757369626c65206879706f7468657365732e
+ELF_001C3D4C,하급 악마들을,We`ve been interrogating the,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D4C,28,,,reviewed_text_pool,5765607665206265656e20696e746572726f676174696e6720746865
+ELF_001C3D6C,심문해 봤는데,lesser demons,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D6C,13,,,reviewed_text_pool,6c65737365722064656d6f6e73
+ELF_001C3D7C,"세상에, 정말 멍청하더라.","and man, are they stupid.",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D7C,25,,,reviewed_text_pool,616e64206d616e2c206172652074686579207374757069642e
+ELF_001C3D98,공압관으로 그걸,tube system to try to acquire,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3D98,29,,,reviewed_text_pool,747562652073797374656d20746f2074727920746f2061637175697265
+ELF_001C3DB8,가져오려 하고 있어. 몰록에게,it. He thinks you can use it,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3DB8,28,,,reviewed_text_pool,69742e204865207468696e6b7320796f752063616e20757365206974
+ELF_001C3DD8,쓸 수 있을 거라더군.,against Moloch.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3DD8,15,,,reviewed_text_pool,616761696e7374204d6f6c6f63682e
+ELF_001C3DE8,DJ가 획득한 무기:,DJ received the,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3DE8,15,,,reviewed_text_pool,444a20726563656976656420746865
+ELF_001C3DF8,그럼 더 강한,Then you're going to need,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3DF8,25,,,reviewed_text_pool,5468656e20796f7527726520676f696e6720746f206e656564
+ELF_001C3E14,화력이 필요하겠네.,a lot more firepower.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E14,21,,,reviewed_text_pool,61206c6f74206d6f72652066697265706f7765722e
+ELF_001C3E2C,이걸 써 봐.,Try this.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E2C,9,,,reviewed_text_pool,54727920746869732e
+ELF_001C3E38,말도 안 돼! 아빠가 알면 안 돼!,No way! Dad can't find out!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E38,27,,,reviewed_text_pool,4e6f2077617921204461642063616e27742066696e64206f757421
+ELF_001C3E54,나 진짜 엄청 혼날 거야!,I'd be in SO MUCH TROUBLE!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E54,26,,,reviewed_text_pool,49276420626520696e20534f204d5543482054524f55424c4521
+ELF_001C3E70,네 아버지를,You might consider,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E70,18,,,reviewed_text_pool,596f75206d6967687420636f6e7369646572
+ELF_001C3E84,부르는 것도 생각해 봐.,calling in your father.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E84,23,,,reviewed_text_pool,63616c6c696e6720696e20796f7572206661746865722e
+ELF_001C3E9C,그러니까 다들,So I guess everyone hid,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3E9C,23,,,reviewed_text_pool,536f20492067756573732065766572796f6e6520686964
+ELF_001C3EB4,좋아하는 곳에 숨었나 봐.,in their favorite places.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3EB4,25,,,reviewed_text_pool,696e207468656972206661766f7269746520706c616365732e
+ELF_001C3ED0,DJ는 일부 물체를,DJ can knock some objects,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3ED0,25,,,reviewed_text_pool,444a2063616e206b6e6f636b20736f6d65206f626a65637473
+ELF_001C3EEC,낫으로 쳐서,around by hitting them,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3EEC,22,,,reviewed_text_pool,61726f756e642062792068697474696e67207468656d
+ELF_001C3F04,밀어낼 수 있다.,with his Scythe.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F04,16,,,reviewed_text_pool,7769746820686973205363797468652e
+ELF_001C3F18,"으, 만지기만 해도","Ugh, I feel nasty",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F18,17,,,reviewed_text_pool,5567682c2049206665656c206e61737479
+ELF_001C3F2C,찝찝해.,just touching it.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F2C,17,,,reviewed_text_pool,6a75737420746f756368696e672069742e
+ELF_001C3F40,DJ는 카미카제도,DJ can knock Kamikazes,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F40,22,,,reviewed_text_pool,444a2063616e206b6e6f636b204b616d696b617a6573
+ELF_001C3F58,낫으로 날려 버릴 수 있다.,around with his Scythe.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F58,23,,,reviewed_text_pool,61726f756e64207769746820686973205363797468652e
+ELF_001C3F70,햄스터의 희생은 헛되지 않아.,No Hamster dies in vain.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F70,24,,,reviewed_text_pool,4e6f2048616d73746572206469657320696e207661696e2e
+ELF_001C3F8C,그건 됐고!,Never mind that!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3F8C,16,,,reviewed_text_pool,4e65766572206d696e64207468617421
+ELF_001C3FA0,엄청난 발견이야!,It's an amazing discovery!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3FA0,26,,,reviewed_text_pool,4974277320616e20616d617a696e6720646973636f7665727921
+ELF_001C3FBC,C4 햄스터들이,The C4 Hamsters have,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3FBC,20,,,reviewed_text_pool,5468652043342048616d73746572732068617665
+ELF_001C3FD4,우리 편이 되기로 했어.,agreed to aid our cause.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C3FD4,24,,,reviewed_text_pool,61677265656420746f20616964206f75722063617573652e
+ELF_001C5058,위젯 %d개 필요 (보유 %d),Costs %d Widgets (%d total),upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5058,27,,%d %d,reviewed_text_pool,436f73747320256420576964676574732028256420746f74616c29
+ELF_001C5074,끝내주는데!,Sweet!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5074,6,,,reviewed_text_pool,537765657421
+ELF_001C507C,제대로 박살 내겠어!,That'll do some serious damage!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C507C,31,,,reviewed_text_pool,54686174276c6c20646f20736f6d6520736572696f75732064616d61676521
+ELF_001C509C,"이건 천재적이야, 진짜로.","That one is genius, I tell you.",upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C509C,31,,,reviewed_text_pool,54686174206f6e652069732067656e6975732c20492074656c6c20796f752e
+ELF_001C50BC,천재다!,GENIUS!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C50BC,7,,,reviewed_text_pool,47454e49555321
+ELF_001C50C4,이용해 주셔서 감사합니다.,Thanks for using,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C50C4,16,,,reviewed_text_pool,5468616e6b7320666f72207573696e67
+ELF_001C50D8,스미스와 웨스턴의,Smith and Weston's upgrade,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C50D8,26,,,reviewed_text_pool,536d69746820616e6420576573746f6e27732075706772616465
+ELF_001C50F4,업그레이드 서비스. 완전 파괴,service. Total devastation,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C50F4,26,,,reviewed_text_pool,736572766963652e20546f74616c206465766173746174696f6e
+ELF_001C5110,아니면 환불!,or your money back!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5110,19,,,reviewed_text_pool,6f7220796f7572206d6f6e6579206261636b21
+ELF_001C5124,이거면 악마 살점을,This will rip through some,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5124,26,,,reviewed_text_pool,546869732077696c6c20726970207468726f75676820736f6d65
+ELF_001C5140,제대로 찢어 놓겠어.,serious demon flesh.,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5140,20,,,reviewed_text_pool,736572696f75732064656d6f6e20666c6573682e
+ELF_001C5158,우리가 할 수 있는 최상급이야.,That's as good as we can make,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5158,29,,,reviewed_text_pool,54686174277320617320676f6f642061732077652063616e206d616b65
+ELF_001C5178,그러니까 엄청 좋다는 뜻이지.,"it, which is damn good.",upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5178,23,,,reviewed_text_pool,69742c2077686963682069732064616d6e20676f6f642e
+ELF_001C5190,"좋아, 이 녀석이면","There, that puppy will kick",upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5190,27,,,reviewed_text_pool,54686572652c20746861742070757070792077696c6c206b69636b
+ELF_001C51AC,악마 엉덩이를 제대로 차주겠어.,some serious demon ass.,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C51AC,23,,,reviewed_text_pool,736f6d6520736572696f75732064656d6f6e206173732e
+ELF_001C51C4,이거 마음에 들걸!,You'll like this one!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C51C4,21,,,reviewed_text_pool,596f75276c6c206c696b652074686973206f6e6521
+ELF_001C51DC,이걸 보고도,Tell me this one doesn't,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C51DC,24,,,reviewed_text_pool,54656c6c206d652074686973206f6e6520646f65736e2774
+ELF_001C51F8,놀라 자빠지지 않나 보자.,blow your socks off.,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C51F8,20,,,reviewed_text_pool,626c6f7720796f757220736f636b73206f66662e
+ELF_001C5210,"기억해, 가만히 서서 {BYTE_89}","Remember, hold {BYTE_89}",upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5210,16,,{BYTE_89},reviewed_text_pool,52656d656d6265722c20686f6c642089
+ELF_001C5224,누르고 있어.,while standing still.,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5224,21,,,reviewed_text_pool,7768696c65207374616e64696e67207374696c6c2e
+ELF_001C523C,"더 센 피해, 더 큰 재미!",More damage is more fun!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C523C,24,,,reviewed_text_pool,4d6f72652064616d616765206973206d6f72652066756e21
+ELF_001C5258,타이밍이 까다로워.,The timing is tricky.,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5258,21,,,reviewed_text_pool,5468652074696d696e6720697320747269636b792e
+ELF_001C5270,조심해!,Be careful!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5270,11,,,reviewed_text_pool,4265206361726566756c21
+ELF_001C527C,집을 지켜!,Defend your House!,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C527C,18,,,reviewed_text_pool,446566656e6420796f757220486f75736521
+ELF_001C5290,임무 실패,Mission Failed,upgrade_dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001C5290,14,,,reviewed_text_pool,4d697373696f6e204661696c6564
+ELF_001C5800,몰록,Moloch,boss_name,untranslated,,EBOOT.decrypted.elf,0x001C5800,6,,,reviewed_text_pool,4d6f6c6f6368
+ELF_001C5C54,화염 악마!,Flame Demon!,boss_name,untranslated,,EBOOT.decrypted.elf,0x001C5C54,12,,,reviewed_text_pool,466c616d652044656d6f6e21
+ELF_001C62D4,전기 악마!,Electric Demon!,boss_name,untranslated,,EBOOT.decrypted.elf,0x001C62D4,15,,,reviewed_text_pool,456c6563747269632044656d6f6e21
+ELF_001C704C,교외,Suburbia,level_name,untranslated,,EBOOT.decrypted.elf,0x001C704C,8,,,reviewed_text_pool,5375627572626961
+ELF_001C7058,미트 월드,Meat World,level_name,untranslated,,EBOOT.decrypted.elf,0x001C7058,10,,,reviewed_text_pool,4d65617420576f726c64
+ELF_001C7064,소가,How a Cow,level_name,untranslated,,EBOOT.decrypted.elf,0x001C7064,9,,,reviewed_text_pool,486f77206120436f77
+ELF_001C7070,스테이크가 되는 법,Becomes a Steak,level_name,untranslated,,EBOOT.decrypted.elf,0x001C7070,15,,,reviewed_text_pool,4265636f6d6573206120537465616b
+ELF_001C7080,학교,School,level_name,untranslated,,EBOOT.decrypted.elf,0x001C7080,6,,,reviewed_text_pool,5363686f6f6c
+ELF_001C7088,다운타운,Downtown,level_name,untranslated,,EBOOT.decrypted.elf,0x001C7088,8,,,reviewed_text_pool,446f776e746f776e
+ELF_001C7094,작은 다운타운의,Big Trouble in,level_name,untranslated,,EBOOT.decrypted.elf,0x001C7094,14,,,reviewed_text_pool,4269672054726f75626c6520696e
+ELF_001C70A4,큰 소동,Little Downtown,level_name,untranslated,,EBOOT.decrypted.elf,0x001C70A4,15,,,reviewed_text_pool,4c6974746c6520446f776e746f776e
+ELF_001C70B4,정신병원,The Asylum,level_name,untranslated,,EBOOT.decrypted.elf,0x001C70B4,10,,,reviewed_text_pool,546865204173796c756d
+ELF_001C70C0,몰록의 영역,Moloch's Realm,level_name,untranslated,,EBOOT.decrypted.elf,0x001C70C0,14,,,reviewed_text_pool,4d6f6c6f63682773205265616c6d
+ELF_001C83A0,지금은 안 돼!,Not now!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C83A0,8,,,reviewed_text_pool,4e6f74206e6f7721
+ELF_001C83AC,보고서 쓰는 중이야.,I`m writing the report.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C83AC,23,,,reviewed_text_pool,49606d2077726974696e6720746865207265706f72742e
+ELF_001C83C4,"""A""를 받고 싶으면,","If you want an ""A,""",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C83C4,19,,,reviewed_text_pool,496620796f752077616e7420616e2022412c22
+ELF_001C83D8,그만 좀,you have to stop,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C83D8,16,,,reviewed_text_pool,796f75206861766520746f2073746f70
+ELF_001C83EC,방해해!,bugging me!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C83EC,11,,,reviewed_text_pool,62756767696e67206d6521
+ELF_001C83F8,네가 직접,Do YOU want to,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C83F8,14,,,reviewed_text_pool,446f20594f552077616e7420746f
+ELF_001C8408,보고서 쓸래???,write the report???,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8408,19,,,reviewed_text_pool,777269746520746865207265706f72743f3f3f
+ELF_001C841C,이 생각부터,I gotta finish,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C841C,14,,,reviewed_text_pool,4920676f7474612066696e697368
+ELF_001C842C,마저 써야 해.,this thought.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C842C,13,,,reviewed_text_pool,746869732074686f756768742e
+ELF_001C843C,"""용감무쌍""은",How do you spell,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C843C,16,,,reviewed_text_pool,486f7720646f20796f75207370656c6c
+ELF_001C8450,어떻게 쓰더라?,"""intrepid""?",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8450,11,,,reviewed_text_pool,22696e747265706964223f
+ELF_001C845C,으! DJ! 너 뭐,Ew! DJ! Did you step,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C845C,20,,,reviewed_text_pool,45772120444a212044696420796f752073746570
+ELF_001C8474,밟고 왔어?,in something?,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8474,13,,,reviewed_text_pool,696e20736f6d657468696e673f
+ELF_001C849C,"십, 여기서 기다려!","Seep, wait here!",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C849C,16,,,reviewed_text_pool,536565702c2077616974206865726521
+ELF_001C84B0,도와주러 올께.,I`ll bring back help.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C84B0,21,,,reviewed_text_pool,49606c6c206272696e67206261636b2068656c702e
+ELF_001C84C8,그냥 둥둥 떠 있어...,He`s just floating...,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C84C8,21,,,reviewed_text_pool,48656073206a75737420666c6f6174696e672e2e2e
+ELF_001C84E0,적어도 움직이긴 하고,At least he's moving,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C84E0,20,,,reviewed_text_pool,4174206c656173742068652773206d6f76696e67
+ELF_001C84F8,여전히 말은 안 하네!,and still not talking!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C84F8,22,,,reviewed_text_pool,616e64207374696c6c206e6f742074616c6b696e6721
+ELF_001C8510,"가자, 십, 가자!","Go, Seep, go!",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8510,13,,,reviewed_text_pool,476f2c20536565702c20676f21
+ELF_001C8520,넌 할 수 있어!,You can do it!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8520,14,,,reviewed_text_pool,596f752063616e20646f20697421
+ELF_001C8530,"버텨, 십.","Keep fighting, Seep.",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8530,20,,,reviewed_text_pool,4b656570206669676874696e672c20536565702e
+ELF_001C8548,데드 구피가 죽었어!,Dead Guppy's DEAD!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8548,18,,,reviewed_text_pool,446561642047757070792773204445414421
+ELF_001C855C,아... 맞다.,Oh... right.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C855C,12,,,reviewed_text_pool,4f682e2e2e2072696768742e
+ELF_001C856C,안색이 창백해.,He's looking pale.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C856C,18,,,reviewed_text_pool,48652773206c6f6f6b696e672070616c652e
+ELF_001C8580,데드 구피가,Looks like Dead Guppy,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8580,21,,,reviewed_text_pool,4c6f6f6b73206c696b652044656164204775707079
+ELF_001C8598,살 의욕을 잃은 것 같아.,lost his will to live.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8598,22,,,reviewed_text_pool,6c6f7374206869732077696c6c20746f206c6976652e
+ELF_001C85B0,"말 좀 해, 데드 구피!","Talk to me, Dead Guppy!",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C85B0,23,,,reviewed_text_pool,54616c6b20746f206d652c204465616420477570707921
+ELF_001C85C8,"아직 움직이진 않지만,","He`s still not moving,",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C85C8,22,,,reviewed_text_pool,48656073207374696c6c206e6f74206d6f76696e672c
+ELF_001C85E0,좀 나아 보여...,but he looks better...,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C85E0,22,,,reviewed_text_pool,627574206865206c6f6f6b73206265747465722e2e2e
+ELF_001C85F8,엄청 달라졌어!,What a huge difference!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C85F8,23,,,reviewed_text_pool,576861742061206875676520646966666572656e636521
+ELF_001C8610,그런 것 같아...,I think...,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8610,10,,,reviewed_text_pool,49207468696e6b2e2e2e
+ELF_001C861C,"버텨, 구피!","Hang on, Guppy!",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C861C,15,,,reviewed_text_pool,48616e67206f6e2c20477570707921
+ELF_001C862C,이젠 썩은 생선,He doesn't smell like,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C862C,21,,,reviewed_text_pool,486520646f65736e277420736d656c6c206c696b65
+ELF_001C8644,냄새가 안 나.,rotted fish anymore.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8644,20,,,reviewed_text_pool,726f74746564206669736820616e796d6f72652e
+ELF_001C865C,"말 좀 해, 구피!","Speak to me, Guppy!",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C865C,19,,,reviewed_text_pool,537065616b20746f206d652c20477570707921
+ELF_001C8670,얘 왜 이래?,What's wrong with her?,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8670,22,,,reviewed_text_pool,5768617427732077726f6e672077697468206865723f
+ELF_001C8688,숨은 쉬고 있어...,She's breathing...,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8688,18,,,reviewed_text_pool,536865277320627265617468696e672e2e2e
+ELF_001C869C,"좋아, 이제 움직인다.","Well, she`s moving now.",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C869C,23,,,reviewed_text_pool,57656c6c2c207368656073206d6f76696e67206e6f772e
+ELF_001C86B4,꿈틀거려!,She's twitching!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C86B4,16,,,reviewed_text_pool,536865277320747769746368696e6721
+ELF_001C86C8,"몸이 더 따뜻해졌어,","She seems warmer,",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C86C8,17,,,reviewed_text_pool,536865207365656d73207761726d65722c
+ELF_001C86DC,더 살아 있는 것 같아!,more alive!,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C86DC,11,,,reviewed_text_pool,6d6f726520616c69766521
+ELF_001C86E8,아직 더 해야 해.,Still more work to do.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C86E8,22,,,reviewed_text_pool,5374696c6c206d6f726520776f726b20746f20646f2e
+ELF_001C8700,"더 버텨, 마티.","Fight harder, Marty.",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8700,20,,,reviewed_text_pool,4669676874206861726465722c204d617274792e
+ELF_001C8718,거의 다 왔어.,You're almost there.,npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8718,20,,,reviewed_text_pool,596f7527726520616c6d6f73742074686572652e
+ELF_001C8730,"힘내, 마티!","Fight the power, Marty!",npc_dialogue,untranslated,,EBOOT.decrypted.elf,0x001C8730,23,,,reviewed_text_pool,46696768742074686520706f7765722c204d6172747921
+ELF_001C8748,업그레이드 가능!,Upgrades Available!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8748,19,,,reviewed_text_pool,557067726164657320417661696c61626c6521
+ELF_001C875C,위젯 x %d,Widgets x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C875C,12,,%d,reviewed_text_pool,576964676574732078202564
+ELF_001C876C,방어막 구입!,Shield Purchased!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C876C,17,,,reviewed_text_pool,536869656c642050757263686173656421
+ELF_001C8780,방어막  비용 x %d,Defensive Shield  Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8780,27,,%d,reviewed_text_pool,446566656e7369766520536869656c642020436f73742078202564
+ELF_001C879C,낫 업그레이드!,Scythe Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C879C,16,,,reviewed_text_pool,53637974686520557067726164656421
+ELF_001C87B0,새 낫 기술  비용 x %d,New Scythe Moves  Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C87B0,27,,%d,reviewed_text_pool,4e657720536379746865204d6f7665732020436f73742078202564
+ELF_001C87CC,낫 반사  비용 x %d,Scythe Reflection  Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C87CC,28,,%d,reviewed_text_pool,536379746865205265666c656374696f6e2020436f73742078202564
+ELF_001C87EC,선택 {BYTE_A4},select {BYTE_A4},upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C87EC,8,,{BYTE_A4},reviewed_text_pool,73656c65637420a4
+ELF_001C87F8,뒤로 {BYTE_BA},back {BYTE_BA},upgrade_notification,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001C87F8,6,,{BYTE_BA},reviewed_text_pool,6261636b20ba
+ELF_001C8800,추가 업그레이드 가능!,More Upgrades Available!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8800,24,,,reviewed_text_pool,4d6f726520557067726164657320417661696c61626c6521
+ELF_001C881C,권총 업그레이드!,Pistols Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C881C,17,,,reviewed_text_pool,506973746f6c7320557067726164656421
+ELF_001C8830,권총 비용 x %d,Pistols Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8830,17,,%d,reviewed_text_pool,506973746f6c7320436f73742078202564
+ELF_001C8844,냉동총 업그레이드!,Freeze Gun Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8844,20,,,reviewed_text_pool,467265657a652047756e20557067726164656421
+ELF_001C885C,냉동총 비용 x %d,Freeze Gun Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C885C,20,,%d,reviewed_text_pool,467265657a652047756e20436f73742078202564
+ELF_001C8874,? ? ? ? ? ? ? ? ?,? ? ? ? ? ? ? ? ?,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8874,17,,,reviewed_text_pool,3f203f203f203f203f203f203f203f203f
+ELF_001C8888,샷건 업그레이드!,Shotgun Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8888,17,,,reviewed_text_pool,53686f7467756e20557067726164656421
+ELF_001C889C,샷건 비용 x %d,Shotgun Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C889C,17,,%d,reviewed_text_pool,53686f7467756e20436f73742078202564
+ELF_001C88B0,체인건 업그레이드!,Chain Gun Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C88B0,19,,,reviewed_text_pool,436861696e2047756e20557067726164656421
+ELF_001C88C4,체인건 비용 x %d,Chain Gun Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C88C4,19,,%d,reviewed_text_pool,436861696e2047756e20436f73742078202564
+ELF_001C88D8,로켓 업그레이드!,Rockets Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C88D8,17,,,reviewed_text_pool,526f636b65747320557067726164656421
+ELF_001C88EC,로켓 비용 x %d,Rockets Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C88EC,17,,%d,reviewed_text_pool,526f636b65747320436f73742078202564
+ELF_001C8900,전기총 업그레이드!,Electric Gun Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8900,22,,,reviewed_text_pool,456c6563747269632047756e20557067726164656421
+ELF_001C8918,전기총 비용 x %d,Electric Gun Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8918,22,,%d,reviewed_text_pool,456c6563747269632047756e20436f73742078202564
+ELF_001C8930,화염방사기 업그레이드!,Flamethrower Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8930,22,,,reviewed_text_pool,466c616d657468726f77657220557067726164656421
+ELF_001C8948,화염방사기 비용 x %d,Flamethrower Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8948,22,,%d,reviewed_text_pool,466c616d657468726f77657220436f73742078202564
+ELF_001C8960,C4 햄스터 업그레이드!,C4 Hamsters Upgraded!,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8960,21,,,reviewed_text_pool,43342048616d737465727320557067726164656421
+ELF_001C8978,C4 햄스터 비용 x %d,C4 Hamsters Cost x %d,upgrade_notification,untranslated,,EBOOT.decrypted.elf,0x001C8978,21,,%d,reviewed_text_pool,43342048616d737465727320436f73742078202564
+ELF_001CAA4C,계속...    x%d,Continue...    x%d,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAA4C,18,,%d,reviewed_text_pool,436f6e74696e75652e2e2e20202020782564
+ELF_001CAA6C,어시스트 레벨 1 획득!,Assist Level 1 Gained!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAA6C,22,,,reviewed_text_pool,417373697374204c6576656c2031204761696e656421
+ELF_001CAA84,어시스트 레벨 2 획득!,Assist Level 2 Gained!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAA84,22,,,reviewed_text_pool,417373697374204c6576656c2032204761696e656421
+ELF_001CAA9C,%d/%d,%d/%d,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAA9C,5,,%d %d,reviewed_text_pool,25642f2564
+ELF_001CAAA4,체력 확장 4개를 모으면,Pick up 4 Health Extenders to,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAAA4,29,,,reviewed_text_pool,5069636b2075702034204865616c746820457874656e6465727320746f
+ELF_001CAAC4,피해 저항이 증가한다!,increase damage resistance!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAAC4,27,,,reviewed_text_pool,696e6372656173652064616d61676520726573697374616e636521
+ELF_001CAAE0,{BYTE_A4} 점프!,Press {BYTE_A4} to jump!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAAE0,16,,{BYTE_A4},reviewed_text_pool,507265737320a420746f206a756d7021
+ELF_001CAAF4,{BYTE_7F} 낫 사용.,Press {BYTE_7F} to use the Scythe.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAAF4,26,,{BYTE_7F},reviewed_text_pool,5072657373207f20746f2075736520746865205363797468652e
+ELF_001CAB10,{BYTE_BA} 무기 발사.,Press {BYTE_BA} to fire a weapon.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAB10,25,,{BYTE_BA},reviewed_text_pool,507265737320ba20746f2066697265206120776561706f6e2e
+ELF_001CAB2C,이동 중 {BYTE_89}를 눌러,Press {BYTE_89} while moving,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAB2C,20,,{BYTE_89},reviewed_text_pool,50726573732089207768696c65206d6f76696e67
+ELF_001CAB44,회피한다.,to Dodge.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAB44,9,,,reviewed_text_pool,746f20446f6467652e
+ELF_001CAB50,어시스트 확장 4개를 모으면,Pick up 4 Assist Extenders,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAB50,26,,,reviewed_text_pool,5069636b20757020342041737369737420457874656e64657273
+ELF_001CAB6C,어시스트 스톡이 늘어난다!,to get more Assist Stocks!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAB6C,26,,,reviewed_text_pool,746f20676574206d6f7265204173736973742053746f636b7321
+ELF_001CAB88,해골은 DJ의 체력을 회복!,Skulls give DJ Health!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAB88,22,,,reviewed_text_pool,536b756c6c73206769766520444a204865616c746821
+ELF_001CABA0,무기 위젯을 모아,Pick up Weapon Widgets,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CABA0,22,,,reviewed_text_pool,5069636b20757020576561706f6e2057696467657473
+ELF_001CABB8,무기를 강화하자!,to improve your weapons!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CABB8,24,,,reviewed_text_pool,746f20696d70726f766520796f757220776561706f6e7321
+ELF_001CABD4,정신 조각이다!,A Psyche Piece!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CABD4,15,,,reviewed_text_pool,412050737963686520506965636521
+ELF_001CABE4,이건 DJ 친구들의,These are fragments,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CABE4,19,,,reviewed_text_pool,54686573652061726520667261676d656e7473
+ELF_001CABF8,정신 조각이다!,of DJ's friends!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CABF8,16,,,reviewed_text_pool,6f6620444a277320667269656e647321
+ELF_001CAC0C,"어시스트가 저장돼 있다면,","If you have an Assist stored,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAC0C,29,,,reviewed_text_pool,496620796f75206861766520616e204173736973742073746f7265642c
+ELF_001CAC2C,{BYTE_89}와 {BYTE_BA}를 동시에 눌러,Press {BYTE_89} and {BYTE_BA} simultaneously,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAC2C,28,,{BYTE_89} {BYTE_BA},reviewed_text_pool,5072657373208920616e6420ba2073696d756c74616e656f75736c79
+ELF_001CAC4C,판도라의 도움을 부른다!,to summon Pandora's help!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAC4C,25,,,reviewed_text_pool,746f2073756d6d6f6e2050616e646f726127732068656c7021
+ELF_001CAC68,"서까래에 매달리려면,","To swing on a rafter,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAC68,21,,,reviewed_text_pool,546f207377696e67206f6e2061207261667465722c
+ELF_001CAC80,점프 중 {BYTE_7F} 또는 {BYTE_A4}.,press {BYTE_7F} or {BYTE_A4} while jumping.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAC80,27,,{BYTE_7F} {BYTE_A4},reviewed_text_pool,7072657373207f206f7220a4207768696c65206a756d70696e672e
+ELF_001CAC9C,벽을 향해 점프한 뒤,"Jump towards a wall, then",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAC9C,25,,,reviewed_text_pool,4a756d7020746f776172647320612077616c6c2c207468656e
+ELF_001CACB8,미끄러지는 중 다시 점프.,jump again while sliding.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CACB8,25,,,reviewed_text_pool,6a756d7020616761696e207768696c6520736c6964696e672e
+ELF_001CACD4,점프 중 버튼을 누른 뒤,"While jumping, press and",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CACD4,24,,,reviewed_text_pool,5768696c65206a756d70696e672c20707265737320616e64
+ELF_001CACF0,{BYTE_A4}를 계속 누르면 활공한다.,hold {BYTE_A4} to Hover across.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CACF0,23,,{BYTE_A4},reviewed_text_pool,686f6c6420a420746f20486f766572206163726f73732e
+ELF_001CAD08,"절벽을 잡으려면,","To Ledge Grab,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD08,14,,,reviewed_text_pool,546f204c6564676520477261622c
+ELF_001CAD18,점프 후 {BYTE_7F}를 눌러,jump and press {BYTE_7F},dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD18,16,,{BYTE_7F},reviewed_text_pool,6a756d7020616e64207072657373207f
+ELF_001CAD2C,절벽을 향한다.,while facing a ledge.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD2C,21,,,reviewed_text_pool,7768696c6520666163696e672061206c656467652e
+ELF_001CAD44,"훅 스윙은,","To Hook Swing,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD44,14,,,reviewed_text_pool,546f20486f6f6b205377696e672c
+ELF_001CAD54,점프 후 {BYTE_7F} 또는 {BYTE_A4}로,jump and press {BYTE_7F} or {BYTE_A4} to hit,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD54,28,,{BYTE_7F} {BYTE_A4},reviewed_text_pool,6a756d7020616e64207072657373207f206f7220a420746f20686974
+ELF_001CAD74,DJ의 낫을 훅에 건다.,a hook with DJ's Scythe.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD74,24,,,reviewed_text_pool,6120686f6f6b207769746820444a2773205363797468652e
+ELF_001CAD90,"와이어 슬라이드는,","To Wire Slide,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAD90,14,,,reviewed_text_pool,546f205769726520536c6964652c
+ELF_001CADA0,DJ의 낫을 와이어에 건다.,a wire with DJ's Scythe.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CADA0,24,,,reviewed_text_pool,612077697265207769746820444a2773205363797468652e
+ELF_001CADBC,무슨 일이지?,What happened?,dialogue_tutorial,user_display_confirmed,,EBOOT.decrypted.elf,0x001CADBC,14,,,reviewed_text_pool,576861742068617070656e65643f
+ELF_001CADCC,다들 어디 갔지?,Where is everybody?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CADCC,19,,,reviewed_text_pool,5768657265206973206576657279626f64793f
+ELF_001CADE0,"와, 여기 인테리어","Hey, I love what you've",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CADE0,23,,,reviewed_text_pool,4865792c2049206c6f7665207768617420796f75277665
+ELF_001CADF8,완전 마음에 드는데.,done with the place.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CADF8,20,,,reviewed_text_pool,646f6e6520776974682074686520706c6163652e
+ELF_001CAE10,좀 효과가 있었나...,That seems to have helped...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAE10,28,,,reviewed_text_pool,54686174207365656d7320746f20686176652068656c7065642e2e2e
+ELF_001CAE30,"여보세요, 들려?","Hello, are you there?",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAE30,21,,,reviewed_text_pool,48656c6c6f2c2061726520796f752074686572653f
+ELF_001CAE48,됐나? 젠장.,Did that work? Darn.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAE48,20,,,reviewed_text_pool,446964207468617420776f726b3f204461726e2e
+ELF_001CAE60,데드 구피가 꼭 죽은거 같아!,Dead Guppy looks so lifeless!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAE60,29,,,reviewed_text_pool,44656164204775707079206c6f6f6b7320736f206c6966656c65737321
+ELF_001CAE80,아직도 안 움직여.,"He's still not moving,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAE80,22,,,reviewed_text_pool,48652773207374696c6c206e6f74206d6f76696e672c
+ELF_001CAE98,나 두고 포기하면,Don't you dare give up,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAE98,22,,,reviewed_text_pool,446f6e277420796f7520646172652067697665207570
+ELF_001CAEB0,"안 돼, 구피!","on me, Guppy!",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAEB0,13,,,reviewed_text_pool,6f6e206d652c20477570707921
+ELF_001CAEC0,십이 움직이지도 말하지도 못해.,Seep can't move or talk.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAEC0,24,,,reviewed_text_pool,536565702063616e2774206d6f7665206f722074616c6b2e
+ELF_001CAEDC,끝내주네...,Awesome...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAEDC,10,,,reviewed_text_pool,417765736f6d652e2e2e
+ELF_001CAEE8,거품이 보여. 제발,I see bubbles. I hope,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAEE8,21,,,reviewed_text_pool,492073656520627562626c65732e204920686f7065
+ELF_001CAF00,숨 쉬는 거였으면!,that means he's breathing!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAF00,26,,,reviewed_text_pool,74686174206d65616e73206865277320627265617468696e6721
+ELF_001CAF1C,좀 섬뜩한데.,That's kind of disturbing.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAF1C,26,,,reviewed_text_pool,546861742773206b696e64206f662064697374757262696e672e
+ELF_001CAF38,십이 박물관 어딘가에,Seep discovered that there is,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAF38,29,,,reviewed_text_pool,5365657020646973636f76657265642074686174207468657265206973
+ELF_001CAF58,강력한 무기가 전시돼 있단 걸,a powerful weapon on display,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAF58,28,,,reviewed_text_pool,6120706f77657266756c20776561706f6e206f6e20646973706c6179
+ELF_001CAF78,"알아냈고, 지금","in the museum somewhere,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAF78,24,,,reviewed_text_pool,696e20746865206d757365756d20736f6d6577686572652c
+ELF_001CAF94,공압관을 이용하고 있어.,and is using the pneumatic,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAF94,26,,,reviewed_text_pool,616e64206973207573696e672074686520706e65756d61746963
+ELF_001CAFB0,십 말로는 그 무기가,Seep believes the weapon he,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAFB0,27,,,reviewed_text_pool,536565702062656c69657665732074686520776561706f6e206865
+ELF_001CAFCC,엄청나게 강력하대.,is searching for is terribly,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAFCC,28,,,reviewed_text_pool,697320736561726368696e6720666f72206973207465727269626c79
+ELF_001CAFEC,우리가 조사해 봤는데;,potent. We've done research;,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CAFEC,28,,,reviewed_text_pool,706f74656e742e20576527766520646f6e652072657365617263683b
+ELF_001CB00C,확실히 쓸 만해 보여.,"indeed, it looks promising.",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB00C,27,,,reviewed_text_pool,696e646565642c206974206c6f6f6b732070726f6d6973696e672e
+ELF_001CB028,십은 아직도 그,Seep is still looking for,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB028,25,,,reviewed_text_pool,53656570206973207374696c6c206c6f6f6b696e6720666f72
+ELF_001CB044,멍청한 최종병기를 찾는 중이야.,that stupid doomsday weapon.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB044,28,,,reviewed_text_pool,746861742073747570696420646f6f6d7364617920776561706f6e2e
+ELF_001CB064,거의 찾았대.,Says he's getting close.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB064,24,,,reviewed_text_pool,5361797320686527732067657474696e6720636c6f73652e
+ELF_001CB080,저 악마들보다 훨씬 큰 뭔가가,Something bigger than these,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB080,27,,,reviewed_text_pool,536f6d657468696e6720626967676572207468616e207468657365
+ELF_001CB09C,분명 그 상자에서,demons definitely came from,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB09C,27,,,reviewed_text_pool,64656d6f6e7320646566696e6974656c792063616d652066726f6d
+ELF_001CB0B8,나왔어.,that box.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB0B8,9,,,reviewed_text_pool,7468617420626f782e
+ELF_001CB0C4,"우와, 여긴 어디야?","Whoa, where am I?",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB0C4,17,,,reviewed_text_pool,57686f612c20776865726520616d20493f
+ELF_001CB0D8,십의 동네잖아!!?!,Seep's neighborhood!!?!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB0D8,23,,,reviewed_text_pool,536565702773206e65696768626f72686f6f6421213f21
+ELF_001CB0F0,완전히 엉망이야...,It's all messed up...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB0F0,21,,,reviewed_text_pool,4974277320616c6c206d65737365642075702e2e2e
+ELF_001CB108,야! 저건 우리 집이잖아!,Hey! That's MY HOUSE!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB108,21,,,reviewed_text_pool,4865792120546861742773204d5920484f55534521
+ELF_001CB120,여기 망가지면 아빠가,Dad will KILL ME if it,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB120,22,,,reviewed_text_pool,4461642077696c6c204b494c4c204d45206966206974
+ELF_001CB138,날 죽일 거야!,gets trashed!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB138,13,,,reviewed_text_pool,67657473207472617368656421
+ELF_001CB148,"좋아, 말이 되네.","OK, this makes sense.",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB148,21,,,reviewed_text_pool,4f4b2c2074686973206d616b65732073656e73652e
+ELF_001CB160,데드 구피는,Dead Guppy loves going,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB160,22,,,reviewed_text_pool,44656164204775707079206c6f76657320676f696e67
+ELF_001CB178,미트 월드에 가는 걸 좋아하지.,to Meat World.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB178,14,,,reviewed_text_pool,746f204d65617420576f726c642e
+ELF_001CB188,이제 판도라만,Pandora is the only one,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB188,23,,,reviewed_text_pool,50616e646f726120697320746865206f6e6c79206f6e65
+ELF_001CB1A0,안 보여. 분명,still missing. She must,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB1A0,23,,,reviewed_text_pool,7374696c6c206d697373696e672e20536865206d757374
+ELF_001CB1B8,어딘가 여기 있을 거야.,be here somewhere.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB1B8,18,,,reviewed_text_pool,6265206865726520736f6d6577686572652e
+ELF_001CB1CC,저게 몰록이군!,So this is Moloch!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB1CC,18,,,reviewed_text_pool,536f2074686973206973204d6f6c6f636821
+ELF_001CB1E0,끝장내 주겠어!,He's going down!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB1E0,16,,,reviewed_text_pool,4865277320676f696e6720646f776e21
+ELF_001CB1F4,"마티, 괜찮아?!","Marty, are you OK?!",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB1F4,19,,,reviewed_text_pool,4d617274792c2061726520796f75204f4b3f21
+ELF_001CB208,"{BYTE_AB}, {BYTE_86}, {BYTE_BB}로","Use {BYTE_AB}, {BYTE_86}, {BYTE_BB}",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB208,11,,{BYTE_AB} {BYTE_86} {BYTE_BB},reviewed_text_pool,55736520ab2c20862c20bb
+ELF_001CB214,총을 바꾼다.,to change guns.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB214,15,,,reviewed_text_pool,746f206368616e67652067756e732e
+ELF_001CB224,배고파 보이는데!,He looks hungry!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB224,16,,,reviewed_text_pool,4865206c6f6f6b732068756e67727921
+ELF_001CB238,막히지 않은 길은,This is the only way,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB238,20,,,reviewed_text_pool,5468697320697320746865206f6e6c7920776179
+ELF_001CB250,여기뿐이야.,that isn't blocked.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB250,19,,,reviewed_text_pool,746861742069736e277420626c6f636b65642e
+ELF_001CB264,상자에서 나온 끈적이가,The goop from the box,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB264,21,,,reviewed_text_pool,54686520676f6f702066726f6d2074686520626f78
+ELF_001CB27C,길을 막고 있어.,is blocking my way.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB27C,19,,,reviewed_text_pool,697320626c6f636b696e67206d79207761792e
+ELF_001CB290,이거 정말 안 좋은데.,This is soo not good.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB290,21,,,reviewed_text_pool,5468697320697320736f6f206e6f7420676f6f642e
+ELF_001CB2A8,순수한 악 냄새야...,Smells like Pure Evil...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB2A8,24,,,reviewed_text_pool,536d656c6c73206c696b652050757265204576696c2e2e2e
+ELF_001CB2C4,아니면 젖은 개 냄새거나.,or it could be wet dog.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB2C4,23,,,reviewed_text_pool,6f7220697420636f756c642062652077657420646f672e
+ELF_001CB2DC,그 작은 상자에 악마가,How did so many demons,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB2DC,22,,,reviewed_text_pool,486f772064696420736f206d616e792064656d6f6e73
+ELF_001CB2F4,어떻게 이렇게 많이 들어갔지?,fit in there?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB2F4,13,,,reviewed_text_pool,66697420696e2074686572653f
+ELF_001CB304,평생 외출금지겠네.,I'm grounded for life.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB304,22,,,reviewed_text_pool,49276d2067726f756e64656420666f72206c6966652e
+ELF_001CB31C,군사학교만 아니면 다행이고.,If not military school.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB31C,23,,,reviewed_text_pool,4966206e6f74206d696c6974617279207363686f6f6c2e
+ELF_001CB334,판도라는 어디 있지?,Where's Pandora?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB334,16,,,reviewed_text_pool,576865726527732050616e646f72613f
+ELF_001CB348,스미스와 웨스턴은?,And Smith and Weston?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB348,21,,,reviewed_text_pool,416e6420536d69746820616e6420576573746f6e3f
+ELF_001CB360,저거 빨갛게 꿈틀대는데.,That's red and pulsing.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB360,23,,,reviewed_text_pool,5468617427732072656420616e642070756c73696e672e
+ELF_001CB378,원래 저렇진 않았어.,It didn't used to be.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB378,21,,,reviewed_text_pool,4974206469646e2774207573656420746f2062652e
+ELF_001CB390,이건 처리해야겠어.,Gotta take care of this.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB390,24,,,reviewed_text_pool,476f7474612074616b652063617265206f6620746869732e
+ELF_001CB3AC,대체 어디서부터 하지?,Where do I even start?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB3AC,22,,,reviewed_text_pool,576865726520646f2049206576656e2073746172743f
+ELF_001CB3C4,데드 구피부터 도와야 해.,I should help Dead Guppy.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB3C4,25,,,reviewed_text_pool,492073686f756c642068656c7020446561642047757070792e
+ELF_001CB3E0,불쌍한 마티.,Poor Marty.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB3E0,11,,,reviewed_text_pool,506f6f72204d617274792e
+ELF_001CB3EC,"으, 십 냄새가 배었어.","Ugh, I smell like Seep.",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB3EC,23,,,reviewed_text_pool,5567682c204920736d656c6c206c696b6520536565702e
+ELF_001CB404,십 냄새는 못 참겠어!,I can't handle the Seep!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB404,24,,,reviewed_text_pool,492063616e27742068616e646c6520746865205365657021
+ELF_001CB420,벌써 끝낼 순 없어!,Not so soon!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB420,12,,,reviewed_text_pool,4e6f7420736f20736f6f6e21
+ELF_001CB430,"버텨, 십. 내가 도와줄게. {BYTE_92}","Hang on, Seep. I{BYTE_92}ll help you.",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB430,29,,{BYTE_92},reviewed_text_pool,48616e67206f6e2c20536565702e2049926c6c2068656c7020796f752e
+ELF_001CB450,마티에게 도움이 필요해.,Marty needs help.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB450,17,,,reviewed_text_pool,4d61727479206e656564732068656c702e
+ELF_001CB464,마티를 더 도와야 해.,I should still help Marty.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB464,26,,,reviewed_text_pool,492073686f756c64207374696c6c2068656c70204d617274792e
+ELF_001CB480,스미스와 웨스턴은,Wonder what Smith and,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB480,21,,,reviewed_text_pool,576f6e646572207768617420536d69746820616e64
+ELF_001CB498,뭘 하고 있을까?,Weston are up to?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB498,17,,,reviewed_text_pool,576573746f6e2061726520757020746f3f
+ELF_001CB4AC,DJ는 영혼을 써서,DJ can use Souls to open,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB4AC,24,,,reviewed_text_pool,444a2063616e2075736520536f756c7320746f206f70656e
+ELF_001CB4C8,이런 아이도어를 열 수 있다.,Eyedoors like this one.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB4C8,23,,,reviewed_text_pool,457965646f6f7273206c696b652074686973206f6e652e
+ELF_001CB4E0,십의 정신 조각!,Seep's Psyche Piece!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB4E0,20,,,reviewed_text_pool,5365657027732050737963686520506965636521
+ELF_001CB4F8,이걸 찾고 있었어.,This is what I'm looking for.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB4F8,29,,,reviewed_text_pool,5468697320697320776861742049276d206c6f6f6b696e6720666f722e
+ELF_001CB518,이제 원래 주인에게,Now to get it back to,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB518,21,,,reviewed_text_pool,4e6f7720746f20676574206974206261636b20746f
+ELF_001CB530,돌려주자.,its rightful owner.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB530,19,,,reviewed_text_pool,69747320726967687466756c206f776e65722e
+ELF_001CB544,여긴 십이,This is one of Seep's,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB544,21,,,reviewed_text_pool,54686973206973206f6e65206f6620536565702773
+ELF_001CB55C,좋아하는 은신처 중 하나야.,favorite hideouts.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB55C,18,,,reviewed_text_pool,6661766f7269746520686964656f7574732e
+ELF_001CB570,{BYTE_A4}로 점프한 뒤,Press {BYTE_A4} to jump,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB570,15,,{BYTE_A4},reviewed_text_pool,507265737320a420746f206a756d70
+ELF_001CB580,공중에서 {BYTE_A4}를 누르고,and hold {BYTE_A4} in the air,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB580,21,,{BYTE_A4},reviewed_text_pool,616e6420686f6c6420a420696e2074686520616972
+ELF_001CB598,활공해 건너간다.,to Hover across.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB598,16,,,reviewed_text_pool,746f20486f766572206163726f73732e
+ELF_001CB5AC,내가 왜,What am I doing in,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB5AC,18,,,reviewed_text_pool,5768617420616d204920646f696e6720696e
+ELF_001CB5C0,십의 동네에 있지?,Seep's neighborhood?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB5C0,20,,,reviewed_text_pool,536565702773206e65696768626f72686f6f643f
+ELF_001CB5D8,찾던 구피가,There's the Guppy,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB5D8,17,,,reviewed_text_pool,5468657265277320746865204775707079
+ELF_001CB5EC,저기 있네.,I'm looking for.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB5EC,16,,,reviewed_text_pool,49276d206c6f6f6b696e6720666f722e
+ELF_001CB600,DJ는 일부 물줄기를 얼려,DJ can freeze certain water,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB600,27,,,reviewed_text_pool,444a2063616e20667265657a65206365727461696e207761746572
+ELF_001CB61C,발판으로 만들 수 있다.,jets to form platforms.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB61C,23,,,reviewed_text_pool,6a65747320746f20666f726d20706c6174666f726d732e
+ELF_001CB634,말이 되네.,This makes sense.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB634,17,,,reviewed_text_pool,54686973206d616b65732073656e73652e
+ELF_001CB648,스티그마르타는 학교를 좋아하지.,Stigmartha LIKES school.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB648,24,,,reviewed_text_pool,537469676d6172746861204c494b4553207363686f6f6c2e
+ELF_001CB664,다시 학교네.,Back at school.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB664,15,,,reviewed_text_pool,4261636b206174207363686f6f6c2e
+ELF_001CB674,마티를 찾아 나가야 해.,Gotta find Marty and get out.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB674,29,,,reviewed_text_pool,476f7474612066696e64204d6172747920616e6420676574206f75742e
+ELF_001CB694,뭐?? 우리가 밀리고 있어!,What?? We're losing!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB694,20,,,reviewed_text_pool,576861743f3f205765277265206c6f73696e6721
+ELF_001CB6AC,이걸 뒤집어야 해!,I need to change that!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB6AC,22,,,reviewed_text_pool,49206e65656420746f206368616e6765207468617421
+ELF_001CB6C4,이걸로 느려지겠지!,This'll slow 'em down!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB6C4,22,,,reviewed_text_pool,54686973276c6c20736c6f772027656d20646f776e21
+ELF_001CB6DC,불.,Fire.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB6DC,5,,,reviewed_text_pool,466972652e
+ELF_001CB6E4,인류 최고의 발명품.,Man's greatest invention.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB6E4,25,,,reviewed_text_pool,4d616e277320677265617465737420696e76656e74696f6e2e
+ELF_001CB700,"뛰기 싫을 땐,","When you don't want to run,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB700,27,,,reviewed_text_pool,5768656e20796f7520646f6e27742077616e7420746f2072756e2c
+ELF_001CB71C,이걸 들고 버텨.,stand your ground with this.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB71C,28,,,reviewed_text_pool,7374616e6420796f75722067726f756e64207769746820746869732e
+ELF_001CB73C,주머니에 로켓 몇 발쯤은,You can never go wrong with a,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB73C,29,,,reviewed_text_pool,596f752063616e206e6576657220676f2077726f6e6720776974682061
+ELF_001CB75C,언제나 옳지.,few rockets in your pockets.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB75C,28,,,reviewed_text_pool,66657720726f636b65747320696e20796f757220706f636b6574732e
+ELF_001CB77C,이건 명품이야. 보내기,This is a beauty. We hate,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB77C,25,,,reviewed_text_pool,546869732069732061206265617574792e2057652068617465
+ELF_001CB798,정말 아깝네.,to let her go.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB798,14,,,reviewed_text_pool,746f206c65742068657220676f2e
+ELF_001CB7A8,뭐야...?,What the...?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB7A8,12,,,reviewed_text_pool,57686174207468652e2e2e3f
+ELF_001CB7B8,너희 어떻게 여기 왔어?,How did you guys get here?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB7B8,26,,,reviewed_text_pool,486f772064696420796f7520677579732067657420686572653f
+ELF_001CB7D4,악마를 죽이면,Kill demons to release,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB7D4,22,,,reviewed_text_pool,4b696c6c2064656d6f6e7320746f2072656c65617365
+ELF_001CB7EC,영혼이 나온다.,their Souls.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB7EC,12,,,reviewed_text_pool,746865697220536f756c732e
+ELF_001CB7FC,사신인 DJ는,"As a reaper, DJ collects",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB7FC,24,,,reviewed_text_pool,41732061207265617065722c20444a20636f6c6c65637473
+ELF_001CB818,영혼을 자동으로 모은다.,Souls automatically.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB818,20,,,reviewed_text_pool,536f756c73206175746f6d61746963616c6c792e
+ELF_001CB830,오른쪽 아래에,The bottom right corner,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB830,23,,,reviewed_text_pool,54686520626f74746f6d20726967687420636f726e6572
+ELF_001CB848,보유 영혼 수가 표시된다.,shows how many he has.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB848,22,,,reviewed_text_pool,73686f777320686f77206d616e79206865206861732e
+ELF_001CB860,아이도어를 열 영혼이 부족하면,If DJ doesn't have enough Souls,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB860,31,,,reviewed_text_pool,496620444a20646f65736e2774206861766520656e6f75676820536f756c73
+ELF_001CB880,필요한 수를,"for an Eyedoor,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB880,15,,,reviewed_text_pool,666f7220616e20457965646f6f722c
+ELF_001CB890,오른쪽 아래에서,check the bottom right corner,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB890,29,,,reviewed_text_pool,636865636b2074686520626f74746f6d20726967687420636f726e6572
+ELF_001CB8B0,확인한다.,to see how many he needs.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB8B0,25,,,reviewed_text_pool,746f2073656520686f77206d616e79206865206e656564732e
+ELF_001CB8CC,공중에서 {BYTE_7F} 또는 {BYTE_A4}를 다시 눌러,Press {BYTE_7F} or {BYTE_A4} again in midair,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB8CC,28,,{BYTE_7F} {BYTE_A4},reviewed_text_pool,5072657373207f206f7220a420616761696e20696e206d6964616972
+ELF_001CB8EC,다음 서까래로 스윙한다.,to swing on the next rafter.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB8EC,28,,,reviewed_text_pool,746f207377696e67206f6e20746865206e657874207261667465722e
+ELF_001CB90C,{BYTE_A4} 또는 {BYTE_7F}로,Press {BYTE_A4} or {BYTE_7F} to leap,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB90C,20,,{BYTE_A4} {BYTE_7F},reviewed_text_pool,507265737320a4206f72207f20746f206c656170
+ELF_001CB924,훅에서 뛰어내린 뒤 {BYTE_A4} 또는 {BYTE_7F},"off a hook, then press {BYTE_A4} or {BYTE_7F}",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB924,29,,{BYTE_A4} {BYTE_7F},reviewed_text_pool,6f6666206120686f6f6b2c207468656e20707265737320a4206f72207f
+ELF_001CB944,로 다음 훅을 잡는다.,to grab the next one.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB944,21,,,reviewed_text_pool,746f206772616220746865206e657874206f6e652e
+ELF_001CB95C,C4 햄스터는 특별한,C4 Hamsters use a special,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB95C,25,,,reviewed_text_pool,43342048616d7374657273207573652061207370656369616c
+ELF_001CB978,탄약을 사용한다.,kind of ammo.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB978,13,,,reviewed_text_pool,6b696e64206f6620616d6d6f2e
+ELF_001CB988,DJ는 주변 물체를,DJ gets Combo Points for,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB988,24,,,reviewed_text_pool,444a206765747320436f6d626f20506f696e747320666f72
+ELF_001CB9A4,파괴하면 콤보 점수를 얻는다.,destroying things in the world.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB9A4,31,,,reviewed_text_pool,64657374726f79696e67207468696e677320696e2074686520776f726c642e
+ELF_001CB9C4,악마를 처치해도,Killing demons also gives,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB9C4,25,,,reviewed_text_pool,4b696c6c696e672064656d6f6e7320616c736f206769766573
+ELF_001CB9E0,콤보 점수를 얻는다.,DJ Combo Points.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB9E0,16,,,reviewed_text_pool,444a20436f6d626f20506f696e74732e
+ELF_001CB9F4,콤보가 길수록,Longer combos increase the,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CB9F4,26,,,reviewed_text_pool,4c6f6e67657220636f6d626f7320696e63726561736520746865
+ELF_001CBA10,콤보 배수가 증가한다.,Combo Multiplier.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBA10,17,,,reviewed_text_pool,436f6d626f204d756c7469706c6965722e
+ELF_001CBA24,녀석들이 저렇게 좋아하지만,I'd feel bad if they,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBA24,20,,,reviewed_text_pool,492764206665656c206261642069662074686579
+ELF_001CBA3C,않았어도 좀 미안했을 텐데.,didn't enjoy it so much.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBA3C,24,,,reviewed_text_pool,6469646e277420656e6a6f7920697420736f206d7563682e
+ELF_001CBAB4,잠깐 틈났을 때,Better stock up while,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBAB4,21,,,reviewed_text_pool,4265747465722073746f636b207570207768696c65
+ELF_001CBACC,보급 좀 해 두자!,I have a second!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBACC,16,,,reviewed_text_pool,4920686176652061207365636f6e6421
+ELF_001CBAE0,또 온다!,Here they come again!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBAE0,21,,,reviewed_text_pool,48657265207468657920636f6d6520616761696e21
+ELF_001CBAF8,일부 공격은 회피로만,Some attacks can only be,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBAF8,24,,,reviewed_text_pool,536f6d652061747461636b732063616e206f6e6c79206265
+ELF_001CBB14,{BYTE_89}를 눌러 피할 수 있다.,avoided by dodging with {BYTE_89},dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBB14,25,,{BYTE_89},reviewed_text_pool,61766f6964656420627920646f6467696e6720776974682089
+ELF_001CBB30,{BYTE_AC}를 누르면 스트레이프.,Hold {BYTE_AC} to Strafe.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBB30,17,,{BYTE_AC},reviewed_text_pool,486f6c6420ac20746f205374726166652e
+ELF_001CBB44,적에게 록온도 된다!,It also locks onto enemies!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBB44,27,,,reviewed_text_pool,497420616c736f206c6f636b73206f6e746f20656e656d69657321
+ELF_001CBB60,"{BYTE_AC}로 스트레이프 중,","While strafing with {BYTE_AC},",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBB60,22,,{BYTE_AC},reviewed_text_pool,5768696c65207374726166696e67207769746820ac2c
+ELF_001CBB78,{BYTE_F7}를 눌러 대상을 바꾼다.,tap {BYTE_F7} to change targets.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBB78,24,,{BYTE_F7},reviewed_text_pool,74617020f720746f206368616e676520746172676574732e
+ELF_001CBB94,{BYTE_F7}를 누르면 자유 시점.,Hold {BYTE_F7} to Free Look.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBB94,20,,{BYTE_F7},reviewed_text_pool,486f6c6420f720746f2046726565204c6f6f6b2e
+ELF_001CBBAC,{BYTE_F7}를 짧게 눌러,Tap {BYTE_F7} quickly to,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBBAC,16,,{BYTE_F7},reviewed_text_pool,54617020f720717569636b6c7920746f
+ELF_001CBBC0,카메라를 DJ 뒤로 맞춘다.,center the camera behind DJ.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBBC0,28,,,reviewed_text_pool,63656e746572207468652063616d65726120626568696e6420444a2e
+ELF_001CBBE0,{BYTE_B1}를 눌러,Press {BYTE_B1} to see how many,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBBE0,23,,{BYTE_B1},reviewed_text_pool,507265737320b120746f2073656520686f77206d616e79
+ELF_001CBBF8,"체력 확장, 무기","Health Extenders, Weapon",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBBF8,24,,,reviewed_text_pool,4865616c746820457874656e646572732c20576561706f6e
+ELF_001CBC14,"위젯, 어시스트 확장,","Widgets, Assist Extenders,",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBC14,26,,,reviewed_text_pool,576964676574732c2041737369737420457874656e646572732c
+ELF_001CBC30,영혼 수를 확인한다.,and Souls DJ has.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBC30,17,,,reviewed_text_pool,616e6420536f756c7320444a206861732e
+ELF_001CBC44,콤보 점수를 더 얻으면,Score more combo points,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBC44,23,,,reviewed_text_pool,53636f7265206d6f726520636f6d626f20706f696e7473
+ELF_001CBC5C,어시스트가 늘어난다!,to get more Assists!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBC5C,20,,,reviewed_text_pool,746f20676574206d6f7265204173736973747321
+ELF_001CBC74,일부 물체는,Some objects are triggered,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBC74,26,,,reviewed_text_pool,536f6d65206f626a656374732061726520747269676765726564
+ELF_001CBC90,DJ의 무기로 작동한다...,by DJ's weapons...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBC90,18,,,reviewed_text_pool,627920444a277320776561706f6e732e2e2e
+ELF_001CBCA4,낫 같은 걸로!,like his Scythe!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBCA4,16,,,reviewed_text_pool,6c696b65206869732053637974686521
+ELF_001CBCB8,미니 DJ를 얻으면,Miniature DJs give DJ an,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBCB8,24,,,reviewed_text_pool,4d696e69617475726520444a73206769766520444a20616e
+ELF_001CBCD4,"컨티뉴가 하나 늘어난다! 단,",extra Continue! But he,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBCD4,22,,,reviewed_text_pool,657874726120436f6e74696e75652120427574206865
+ELF_001CBCEC,최대 4개까지만 보유 가능.,can't have more than four.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBCEC,26,,,reviewed_text_pool,63616e27742068617665206d6f7265207468616e20666f75722e
+ELF_001CBD08,저 더미에서,He's getting more stuff,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD08,23,,,reviewed_text_pool,486527732067657474696e67206d6f7265207374756666
+ELF_001CBD20,계속 뭔가 꺼내고 있어!,from those piles!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD20,17,,,reviewed_text_pool,66726f6d2074686f73652070696c657321
+ELF_001CBD34,깜빡이는 체력 바를,Watch carefully for flashing,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD34,28,,,reviewed_text_pool,5761746368206361726566756c6c7920666f7220666c617368696e67
+ELF_001CBD54,잘 봐. 그건,health bars. They indicate,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD54,26,,,reviewed_text_pool,6865616c746820626172732e205468657920696e646963617465
+ELF_001CBD70,적이 공격에 취약한,when an enemy is vulnerable,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD70,27,,,reviewed_text_pool,7768656e20616e20656e656d792069732076756c6e657261626c65
+ELF_001CBD8C,순간을 뜻한다.,to attack.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD8C,10,,,reviewed_text_pool,746f2061747461636b2e
+ELF_001CBD98,가스 냄새야!,I smell gas!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBD98,12,,,reviewed_text_pool,4920736d656c6c2067617321
+ELF_001CBDA8,여기 덥네!,It's warm in here!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBDA8,18,,,reviewed_text_pool,49742773207761726d20696e206865726521
+ELF_001CBDBC,"어, 저 위에 뭐지?","Hey, what's up there?",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBDBC,21,,,reviewed_text_pool,4865792c207768617427732075702074686572653f
+ELF_001CBDD4,더 높은 곳으로 가야 해.,Gotta get to higher ground.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBDD4,27,,,reviewed_text_pool,476f7474612067657420746f206869676865722067726f756e642e
+ELF_001CBDF0,저길 어떻게 건너지?,How do I get across there?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBDF0,26,,,reviewed_text_pool,486f7720646f204920676574206163726f73732074686572653f
+ELF_001CBE0C,십이 어딘가 여기 있어.,Seep's here somewhere.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE0C,22,,,reviewed_text_pool,536565702773206865726520736f6d6577686572652e
+ELF_001CBE24,볼로냐 소시지 냄새...,Smells like bologna...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE24,22,,,reviewed_text_pool,536d656c6c73206c696b6520626f6c6f676e612e2e2e
+ELF_001CBE3C,"""소가 스테이크가 되는 법""","""How a Cow Becomes a Steak""",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE3C,27,,,reviewed_text_pool,22486f77206120436f77204265636f6d6573206120537465616b22
+ELF_001CBE58,구피가 제일 좋아하는 놀이기구.,Guppy's favorite ride.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE58,22,,,reviewed_text_pool,47757070792773206661766f7269746520726964652e
+ELF_001CBE70,여기 춥네.,It's cold in here.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE70,18,,,reviewed_text_pool,4974277320636f6c6420696e20686572652e
+ELF_001CBE84,이상한데! 선생들이,Weird! What are,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE84,15,,,reviewed_text_pool,576569726421205768617420617265
+ELF_001CBE94,대체 뭘 피우는 거야?,the teachers smoking?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBE94,21,,,reviewed_text_pool,74686520746561636865727320736d6f6b696e673f
+ELF_001CBEAC,여기가 바로,So this is the,dialogue_tutorial,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001CBEAC,14,,,reviewed_text_pool,536f207468697320697320746865
+ELF_001CBEBC,여자 화장실...,girls' bathroom...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBEBC,18,,,reviewed_text_pool,6769726c73272062617468726f6f6d2e2e2e
+ELF_001CBED0,우웩!,Gross!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBED0,6,,,reviewed_text_pool,47726f737321
+ELF_001CBED8,좀 아플지도.,This may hurt.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBED8,14,,,reviewed_text_pool,54686973206d617920687572742e
+ELF_001CBEE8,이 악취는 뭐야?,What is that stench?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBEE8,20,,,reviewed_text_pool,576861742069732074686174207374656e63683f
+ELF_001CBF00,상자 미로네!,A maze of crates!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF00,17,,,reviewed_text_pool,41206d617a65206f662063726174657321
+ELF_001CBF14,여긴 어디야?,Where am I?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF14,11,,,reviewed_text_pool,576865726520616d20493f
+ELF_001CBF20,별거 아니었네.,That wasn't so bad.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF20,19,,,reviewed_text_pool,54686174207761736e277420736f206261642e
+ELF_001CBF34,이제 판도라를 찾자.,Now to look for Pandora.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF34,24,,,reviewed_text_pool,4e6f7720746f206c6f6f6b20666f722050616e646f72612e
+ELF_001CBF50,냄새가 끔찍해.,It smells awful.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF50,16,,,reviewed_text_pool,497420736d656c6c7320617766756c2e
+ELF_001CBF64,저게 뭐지?,What is that?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF64,13,,,reviewed_text_pool,5768617420697320746861743f
+ELF_001CBF74,여긴 대체 뭐 하는 곳이야?,What is this place?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF74,19,,,reviewed_text_pool,57686174206973207468697320706c6163653f
+ELF_001CBF88,좋은 냄새가 나는데...,Smells good here...,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF88,19,,,reviewed_text_pool,536d656c6c7320676f6f6420686572652e2e2e
+ELF_001CBF9C,죽은 악마 냄새.,like dead demon.,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBF9C,16,,,reviewed_text_pool,6c696b6520646561642064656d6f6e2e
+ELF_001CBFB0,"휴, 제대로 탔네!","Whew, what a ride!",dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFB0,18,,,reviewed_text_pool,576865772c20776861742061207269646521
+ELF_001CBFC4,속 시원하다!,Satisfying!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFC4,11,,,reviewed_text_pool,53617469736679696e6721
+ELF_001CBFD0,야호!,Whee!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFD0,5,,,reviewed_text_pool,5768656521
+ELF_001CBFD8,십!,Seep!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFD8,5,,,reviewed_text_pool,5365657021
+ELF_001CBFE0,데드 구피!,Dead Guppy!,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFE0,11,,,reviewed_text_pool,4465616420477570707921
+ELF_001CBFEC,스티그마르타?,Stigmartha?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFEC,11,,,reviewed_text_pool,537469676d61727468613f
+ELF_001CBFF8,얘들 왜 이래?,What's wrong with them?,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CBFF8,23,,,reviewed_text_pool,5768617427732077726f6e672077697468207468656d3f
+ELF_001CC010,완료: %s,Completed: %s,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CC010,13,,%s,reviewed_text_pool,436f6d706c657465643a202573
+ELF_001CC020,완료,Completed,dialogue_tutorial,untranslated,,EBOOT.decrypted.elf,0x001CC020,9,,,reviewed_text_pool,436f6d706c65746564
+ELF_001CC1B0,놀라운 성적. 보너스 위젯!,Amazing Grade. Bonus Widget!,result,untranslated,,EBOOT.decrypted.elf,0x001CC1B0,28,,,reviewed_text_pool,416d617a696e672047726164652e20426f6e75732057696467657421
+ELF_001CC1D0,%dx %s,%dx %s,result,untranslated,,EBOOT.decrypted.elf,0x001CC1D0,6,,%d %s,reviewed_text_pool,256478202573
+ELF_001CC1D8,%dx,%dx,result,untranslated,,EBOOT.decrypted.elf,0x001CC1D8,3,,%d,reviewed_text_pool,256478
+ELF_001D4381,일시정지,Paused,menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D4381,6,32,,ui_template_stride_0x6c_text_capacity_32,506175736564
+ELF_001D43ED,옵션...,Options...,menu,untranslated,,EBOOT.decrypted.elf,0x001D43ED,10,32,,ui_template_stride_0x6c_text_capacity_32,4f7074696f6e732e2e2e
+ELF_001D4459,레벨 재시작,Restart Level,menu,untranslated,,EBOOT.decrypted.elf,0x001D4459,13,32,,ui_template_stride_0x6c_text_capacity_32,52657374617274204c6576656c
+ELF_001D44C5,박물관으로 돌아가기,Return to Museum,menu,untranslated,,EBOOT.decrypted.elf,0x001D44C5,16,32,,ui_template_stride_0x6c_text_capacity_32,52657475726e20746f204d757365756d
+ELF_001D4531,게임 저장,Save Game,menu,untranslated,,EBOOT.decrypted.elf,0x001D4531,9,32,,ui_template_stride_0x6c_text_capacity_32,536176652047616d65
+ELF_001D459D,게임 종료,Quit Game,menu,untranslated,,EBOOT.decrypted.elf,0x001D459D,9,32,,ui_template_stride_0x6c_text_capacity_32,517569742047616d65
+ELF_001D4609,계속 {BYTE_BA},resume {BYTE_BA},menu,untranslated,,EBOOT.decrypted.elf,0x001D4609,8,32,{BYTE_BA},ui_template_stride_0x6c_text_capacity_32,726573756d6520ba
+ELF_001D4675,옵션,Options,menu,untranslated,,EBOOT.decrypted.elf,0x001D4675,7,32,,ui_template_stride_0x6c_text_capacity_32,4f7074696f6e73
+ELF_001D46E1,게임 설정...,Gameplay...,menu,untranslated,,EBOOT.decrypted.elf,0x001D46E1,11,32,,ui_template_stride_0x6c_text_capacity_32,47616d65706c61792e2e2e
+ELF_001D474D,오디오...,Audio...,menu,untranslated,,EBOOT.decrypted.elf,0x001D474D,8,32,,ui_template_stride_0x6c_text_capacity_32,417564696f2e2e2e
+ELF_001D47B9,비디오...,Video...,menu,untranslated,,EBOOT.decrypted.elf,0x001D47B9,8,32,,ui_template_stride_0x6c_text_capacity_32,566964656f2e2e2e
+ELF_001D4825,뒤로 {BYTE_BA},back {BYTE_BA},menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D4825,6,32,{BYTE_BA},ui_template_stride_0x6c_text_capacity_32,6261636b20ba
+ELF_001D4891,게임 설정,Gameplay,menu,untranslated,,EBOOT.decrypted.elf,0x001D4891,8,32,,ui_template_stride_0x6c_text_capacity_32,47616d65706c6179
+ELF_001D48FD,조준 반전: ,Invert Aiming: ,menu,untranslated,,EBOOT.decrypted.elf,0x001D48FD,15,32,,ui_template_stride_0x6c_text_capacity_32,496e766572742041696d696e673a20
+ELF_001D4969,록온: ,Lock On: ,menu,untranslated,,EBOOT.decrypted.elf,0x001D4969,9,32,,ui_template_stride_0x6c_text_capacity_32,4c6f636b204f6e3a20
+ELF_001D49D5,자유 시점: ,Free Look: ,menu,untranslated,,EBOOT.decrypted.elf,0x001D49D5,11,32,,ui_template_stride_0x6c_text_capacity_32,46726565204c6f6f6b3a20
+ELF_001D4A41,DJ 독백: ,DJ Monologue: ,menu,untranslated,,EBOOT.decrypted.elf,0x001D4A41,14,32,,ui_template_stride_0x6c_text_capacity_32,444a204d6f6e6f6c6f6775653a20
+ELF_001D4AAD,저장 {BYTE_A4},save {BYTE_A4},menu,untranslated,duplicate_source_text: 3,EBOOT.decrypted.elf,0x001D4AAD,6,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,7361766520a4
+ELF_001D4B19,뒤로 {BYTE_BA},back {BYTE_BA},menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D4B19,6,32,{BYTE_BA},ui_template_stride_0x6c_text_capacity_32,6261636b20ba
+ELF_001D4B85,오디오,Audio,menu,untranslated,,EBOOT.decrypted.elf,0x001D4B85,5,32,,ui_template_stride_0x6c_text_capacity_32,417564696f
+ELF_001D4BF1,음악 음량: ,Music Volume: ,menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D4BF1,14,32,,ui_template_stride_0x6c_text_capacity_32,4d7573696320566f6c756d653a20
+ELF_001D4C5D,효과음 음량: ,Sound Volume: ,menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D4C5D,14,32,,ui_template_stride_0x6c_text_capacity_32,536f756e6420566f6c756d653a20
+ELF_001D4CC9,저장 {BYTE_A4},save {BYTE_A4},menu,untranslated,duplicate_source_text: 3,EBOOT.decrypted.elf,0x001D4CC9,6,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,7361766520a4
+ELF_001D4D35,뒤로 {BYTE_BA},back {BYTE_BA},menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D4D35,6,32,{BYTE_BA},ui_template_stride_0x6c_text_capacity_32,6261636b20ba
+ELF_001D4DA1,비디오,Video,menu,untranslated,,EBOOT.decrypted.elf,0x001D4DA1,5,32,,ui_template_stride_0x6c_text_capacity_32,566964656f
+ELF_001D4E0D,밝기: ,Brightness: ,menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D4E0D,12,32,,ui_template_stride_0x6c_text_capacity_32,4272696768746e6573733a20
+ELF_001D4E79,저장 {BYTE_A4},save {BYTE_A4},menu,untranslated,duplicate_source_text: 3,EBOOT.decrypted.elf,0x001D4E79,6,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,7361766520a4
+ELF_001D4EE5,뒤로 {BYTE_BA},back {BYTE_BA},menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D4EE5,6,32,{BYTE_BA},ui_template_stride_0x6c_text_capacity_32,6261636b20ba
+ELF_001D4F51,정말 게임을,Are you sure you,menu,untranslated,duplicate_source_text: 3,EBOOT.decrypted.elf,0x001D4F51,16,32,,ui_template_stride_0x6c_text_capacity_32,41726520796f75207375726520796f75
+ELF_001D4FBD,종료할까요?,want to quit?,menu,untranslated,,EBOOT.decrypted.elf,0x001D4FBD,13,32,,ui_template_stride_0x6c_text_capacity_32,77616e7420746f20717569743f
+ELF_001D5029,아니요,No,menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D5029,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D5095,예,Yes,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D5095,3,32,,ui_template_stride_0x6c_text_capacity_32,596573
+ELF_001D5101,정말 이 레벨을,Are you sure you,menu,untranslated,duplicate_source_text: 3,EBOOT.decrypted.elf,0x001D5101,16,32,,ui_template_stride_0x6c_text_capacity_32,41726520796f75207375726520796f75
+ELF_001D516D,처음부터 다시,want to restart,menu,untranslated,,EBOOT.decrypted.elf,0x001D516D,15,32,,ui_template_stride_0x6c_text_capacity_32,77616e7420746f2072657374617274
+ELF_001D51D9,시작할까요?,the level?,menu,untranslated,,EBOOT.decrypted.elf,0x001D51D9,10,32,,ui_template_stride_0x6c_text_capacity_32,746865206c6576656c3f
+ELF_001D5245,아니요,No,menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D5245,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D52B1,예,Yes,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D52B1,3,32,,ui_template_stride_0x6c_text_capacity_32,596573
+ELF_001D531D,정말 박물관으로,Are you sure you,menu,untranslated,duplicate_source_text: 3,EBOOT.decrypted.elf,0x001D531D,16,32,,ui_template_stride_0x6c_text_capacity_32,41726520796f75207375726520796f75
+ELF_001D5389,돌아가시겠습니까,want to return,menu,untranslated,,EBOOT.decrypted.elf,0x001D5389,14,32,,ui_template_stride_0x6c_text_capacity_32,77616e7420746f2072657475726e
+ELF_001D53F5,?,to the museum?,menu,untranslated,,EBOOT.decrypted.elf,0x001D53F5,14,32,,ui_template_stride_0x6c_text_capacity_32,746f20746865206d757365756d3f
+ELF_001D5461,아니요,No,menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D5461,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D54CD,예,Yes,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D54CD,3,32,,ui_template_stride_0x6c_text_capacity_32,596573
+ELF_001D55A5,A,A,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D55A5,1,32,,ui_template_stride_0x6c_text_capacity_32,41
+ELF_001D567D,A,A,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D567D,1,32,,ui_template_stride_0x6c_text_capacity_32,41
+ELF_001D5755,A,A,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D5755,1,32,,ui_template_stride_0x6c_text_capacity_32,41
+ELF_001D582D,A,A,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D582D,1,32,,ui_template_stride_0x6c_text_capacity_32,41
+ELF_001D5899,A,A,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D5899,1,32,,ui_template_stride_0x6c_text_capacity_32,41
+ELF_001D5905,DJ의 진행 상황을 저장할까요?,Save DJ's progress?,menu,untranslated,,EBOOT.decrypted.elf,0x001D5905,19,32,,ui_template_stride_0x6c_text_capacity_32,5361766520444a27732070726f67726573733f
+ELF_001D5971,예,Yes,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D5971,3,32,,ui_template_stride_0x6c_text_capacity_32,596573
+ELF_001D59DD,아니요,No,menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D59DD,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D5A49,일시정지,Paused,menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D5A49,6,32,,ui_template_stride_0x6c_text_capacity_32,506175736564
+ELF_001D5AB5,저장이 중단되었습니다.,Save Interrupted.,menu,untranslated,,EBOOT.decrypted.elf,0x001D5AB5,17,32,,ui_template_stride_0x6c_text_capacity_32,5361766520496e7465727275707465642e
+ELF_001D5B21,다시 시도할까요?,Do you wish to retry?,menu,untranslated,,EBOOT.decrypted.elf,0x001D5B21,21,32,,ui_template_stride_0x6c_text_capacity_32,446f20796f75207769736820746f2072657472793f
+ELF_001D5B8D,예,Yes,menu,untranslated,duplicate_source_text: 5,EBOOT.decrypted.elf,0x001D5B8D,3,32,,ui_template_stride_0x6c_text_capacity_32,596573
+ELF_001D5BF9,아니요,No,menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D5BF9,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D5CD1,{BYTE_A4},{BYTE_A4},menu,untranslated,duplicate_source_text: 4,EBOOT.decrypted.elf,0x001D5CD1,1,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,a4
+ELF_001D5E15,{BYTE_A4},{BYTE_A4},menu,untranslated,duplicate_source_text: 4,EBOOT.decrypted.elf,0x001D5E15,1,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,a4
+ELF_001D5FC5,{BYTE_A4},{BYTE_A4},menu,untranslated,duplicate_source_text: 4,EBOOT.decrypted.elf,0x001D5FC5,1,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,a4
+ELF_001D61E1,{BYTE_A4},{BYTE_A4},menu,untranslated,duplicate_source_text: 4,EBOOT.decrypted.elf,0x001D61E1,1,32,{BYTE_A4},ui_template_stride_0x6c_text_capacity_32,a4
+ELF_001D8E51,권총을 업그레이드할까요?,Upgrade Pistols?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D8E51,16,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520506973746f6c733f
+ELF_001D8EBD,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D8EBD,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D8F29,공격력과,Increases damage and,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D8F29,20,32,,ui_template_stride_0x6c_text_capacity_32,496e637265617365732064616d61676520616e64
+ELF_001D8F95,연사 속도 증가!,rate of fire!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D8F95,13,32,,ui_template_stride_0x6c_text_capacity_32,72617465206f66206669726521
+ELF_001D9001,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9001,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001D906D,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D906D,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D90D9,권총을 업그레이드할까요?,Upgrade Pistols?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D90D9,16,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520506973746f6c733f
+ELF_001D9145,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D9145,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D91B1,공격력과,Increases damage and,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D91B1,20,32,,ui_template_stride_0x6c_text_capacity_32,496e637265617365732064616d61676520616e64
+ELF_001D921D,연사 속도 증가!,rate of fire!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D921D,13,32,,ui_template_stride_0x6c_text_capacity_32,72617465206f66206669726521
+ELF_001D9289,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9289,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001D92F5,냉동총을 업그레이드할까요?,Upgrade Freeze Gun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D92F5,19,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520467265657a652047756e3f
+ELF_001D9361,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D9361,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D93CD,도탄 사격!,Bouncing shots!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D93CD,15,32,,ui_template_stride_0x6c_text_capacity_32,426f756e63696e672073686f747321
+ELF_001D9439,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9439,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001D94A5,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D94A5,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D9511,냉동총을 업그레이드할까요?,Upgrade Freeze Gun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9511,19,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520467265657a652047756e3f
+ELF_001D957D,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D957D,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D95E9,도탄 사격!,Bouncing shots!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D95E9,15,32,,ui_template_stride_0x6c_text_capacity_32,426f756e63696e672073686f747321
+ELF_001D9655,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9655,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001D96C1,샷건을 업그레이드할까요?,Upgrade Shotgun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D96C1,16,32,,ui_template_stride_0x6c_text_capacity_32,557067726164652053686f7467756e3f
+ELF_001D972D,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D972D,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D9799,"더 센 피해, 더 큰 재미!","More damage, more fun!",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9799,22,32,,ui_template_stride_0x6c_text_capacity_32,4d6f72652064616d6167652c206d6f72652066756e21
+ELF_001D9805,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9805,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001D9871,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D9871,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D98DD,샷건을 업그레이드할까요?,Upgrade Shotgun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D98DD,16,32,,ui_template_stride_0x6c_text_capacity_32,557067726164652053686f7467756e3f
+ELF_001D9949,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D9949,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D99B5,"더 센 피해, 더 큰 재미!","More damage, more fun!",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D99B5,22,32,,ui_template_stride_0x6c_text_capacity_32,4d6f72652064616d6167652c206d6f72652066756e21
+ELF_001D9A21,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9A21,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001D9A8D,체인건을 업그레이드할까요?,Upgrade Chain Gun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9A8D,18,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520436861696e2047756e3f
+ELF_001D9AF9,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D9AF9,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D9B65,시동 시간 단축!,Reduces start-up time!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9B65,22,32,,ui_template_stride_0x6c_text_capacity_32,526564756365732073746172742d75702074696d6521
+ELF_001D9BD1,화력 증가!,Increases firepower!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9BD1,20,32,,ui_template_stride_0x6c_text_capacity_32,496e637265617365732066697265706f77657221
+ELF_001D9C3D,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9C3D,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001D9CA9,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001D9CA9,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001D9D15,체인건을 업그레이드할까요?,Upgrade Chain Gun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9D15,18,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520436861696e2047756e3f
+ELF_001D9D81,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D9D81,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001D9DED,시동 시간 단축!,Reduces start-up time!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9DED,22,32,,ui_template_stride_0x6c_text_capacity_32,526564756365732073746172742d75702074696d6521
+ELF_001D9E59,화력 증가!,Increases firepower!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9E59,20,32,,ui_template_stride_0x6c_text_capacity_32,496e637265617365732066697265706f77657221
+ELF_001D9EC5,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001D9EC5,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001D9F31,로켓을 업그레이드할까요?,Upgrade Rockets?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001D9F31,16,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520526f636b6574733f
+ELF_001D9F9D,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001D9F9D,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DA009,로켓 두 발 동시 발사!,Fire two rockets at once!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA009,25,32,,ui_template_stride_0x6c_text_capacity_32,466972652074776f20726f636b657473206174206f6e636521
+ELF_001DA075,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DA075,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DA0E1,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DA0E1,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DA14D,로켓을 업그레이드할까요?,Upgrade Rockets?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA14D,16,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520526f636b6574733f
+ELF_001DA1B9,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DA1B9,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DA225,로켓 두 발 동시 발사!,Fire two rockets at once!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA225,25,32,,ui_template_stride_0x6c_text_capacity_32,466972652074776f20726f636b657473206174206f6e636521
+ELF_001DA291,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DA291,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001DA2FD,전기총을 업그레이드할까요?,Upgrade Electric Gun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA2FD,21,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520456c6563747269632047756e3f
+ELF_001DA369,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DA369,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DA3D5,여러 적을 연결해,Chain multiple enemies,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA3D5,22,32,,ui_template_stride_0x6c_text_capacity_32,436861696e206d756c7469706c6520656e656d696573
+ELF_001DA441,한 번에 감전!,in one shocking arc!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA441,20,32,,ui_template_stride_0x6c_text_capacity_32,696e206f6e652073686f636b696e672061726321
+ELF_001DA4AD,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DA4AD,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DA519,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DA519,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DA585,전기총을 업그레이드할까요?,Upgrade Electric Gun?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA585,21,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520456c6563747269632047756e3f
+ELF_001DA5F1,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DA5F1,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DA65D,여러 적을 연결해,Chain multiple enemies,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA65D,22,32,,ui_template_stride_0x6c_text_capacity_32,436861696e206d756c7469706c6520656e656d696573
+ELF_001DA6C9,한 번에 감전!,in one shocking arc!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA6C9,20,32,,ui_template_stride_0x6c_text_capacity_32,696e206f6e652073686f636b696e672061726321
+ELF_001DA735,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DA735,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001DA7A1,화염방사기를 업그레이드할까요?,Upgrade Flamethrower?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA7A1,21,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520466c616d657468726f7765723f
+ELF_001DA80D,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DA80D,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DA879,"사거리 증가,",Longer range and,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA879,16,32,,ui_template_stride_0x6c_text_capacity_32,4c6f6e6765722072616e676520616e64
+ELF_001DA8E5,화상 효과 강화!,better burn!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DA8E5,12,32,,ui_template_stride_0x6c_text_capacity_32,626574746572206275726e21
+ELF_001DA951,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DA951,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DA9BD,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DA9BD,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DAA29,화염방사기를 업그레이드할까요?,Upgrade Flamethrower?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAA29,21,32,,ui_template_stride_0x6c_text_capacity_32,5570677261646520466c616d657468726f7765723f
+ELF_001DAA95,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DAA95,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DAB01,"사거리 증가,",Longer range and,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAB01,16,32,,ui_template_stride_0x6c_text_capacity_32,4c6f6e6765722072616e676520616e64
+ELF_001DAB6D,화상 효과 강화!,better burn!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAB6D,12,32,,ui_template_stride_0x6c_text_capacity_32,626574746572206275726e21
+ELF_001DABD9,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DABD9,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001DAC45,C4 햄스터를 업그레이드할까요?,Upgrade C4 Hamsters?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAC45,20,32,,ui_template_stride_0x6c_text_capacity_32,557067726164652043342048616d73746572733f
+ELF_001DACB1,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DACB1,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DAD1D,첫 햄스터는 내파!,One hamster implodes!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAD1D,21,32,,ui_template_stride_0x6c_text_capacity_32,4f6e652068616d7374657220696d706c6f64657321
+ELF_001DAD89,둘째는 폭발!,The second explodes!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAD89,20,32,,ui_template_stride_0x6c_text_capacity_32,546865207365636f6e64206578706c6f64657321
+ELF_001DADF5,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DADF5,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DAE61,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DAE61,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DAECD,C4 햄스터를 업그레이드할까요?,Upgrade C4 Hamsters?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAECD,20,32,,ui_template_stride_0x6c_text_capacity_32,557067726164652043342048616d73746572733f
+ELF_001DAF39,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DAF39,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DAFA5,첫 햄스터는 내파!,One hamster implodes!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DAFA5,21,32,,ui_template_stride_0x6c_text_capacity_32,4f6e652068616d7374657220696d706c6f64657321
+ELF_001DB011,둘째는 폭발!,The second explodes!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB011,20,32,,ui_template_stride_0x6c_text_capacity_32,546865207365636f6e64206578706c6f64657321
+ELF_001DB07D,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DB07D,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001DB0E9,방어막을 살까요?,Buy Shield?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB0E9,11,32,,ui_template_stride_0x6c_text_capacity_32,42757920536869656c643f
+ELF_001DB155,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DB155,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DB1C1,"DJ가 피해를 받으면,","When DJ takes damage, hold",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB1C1,26,32,,ui_template_stride_0x6c_text_capacity_32,5768656e20444a2074616b65732064616d6167652c20686f6c64
+ELF_001DB22D,{BYTE_89}를 눌러 방어막 충전.,{BYTE_89} to recharge his shield.,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB22D,25,32,{BYTE_89},ui_template_stride_0x6c_text_capacity_32,8920746f2072656368617267652068697320736869656c642e
+ELF_001DB299,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DB299,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DB305,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DB305,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DB371,방어막을 살까요?,Buy Shield?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB371,11,32,,ui_template_stride_0x6c_text_capacity_32,42757920536869656c643f
+ELF_001DB3DD,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DB3DD,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DB449,"DJ가 피해를 받으면,","When DJ takes damage, hold",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB449,26,32,,ui_template_stride_0x6c_text_capacity_32,5768656e20444a2074616b65732064616d6167652c20686f6c64
+ELF_001DB4B5,{BYTE_89}를 눌러 방어막 충전.,{BYTE_89} to recharge his shield.,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB4B5,25,32,{BYTE_89},ui_template_stride_0x6c_text_capacity_32,8920746f2072656368617267652068697320736869656c642e
+ELF_001DB521,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DB521,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001DB58D,낫 기술을 살까요?,Buy Scythe Moves?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB58D,17,32,,ui_template_stride_0x6c_text_capacity_32,42757920536379746865204d6f7665733f
+ELF_001DB5F9,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DB5F9,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DB665,"새 기술:  {BYTE_7F}, {BYTE_7F}, {BYTE_A4} 길게","New move:  {BYTE_7F}, {BYTE_7F}, hold {BYTE_A4}",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB665,23,32,{BYTE_7F} {BYTE_7F} {BYTE_A4},ui_template_stride_0x6c_text_capacity_32,4e6577206d6f76653a20207f2c207f2c20686f6c6420a4
+ELF_001DB6D1,"새 기술:  {BYTE_7F}, {BYTE_7F}, {BYTE_89} 길게","New move:  {BYTE_7F}, {BYTE_7F}, hold {BYTE_89}",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB6D1,23,32,{BYTE_7F} {BYTE_7F} {BYTE_89},ui_template_stride_0x6c_text_capacity_32,4e6577206d6f76653a20207f2c207f2c20686f6c642089
+ELF_001DB73D,"새 기술:  {BYTE_7F}, {BYTE_7F}, {BYTE_7F} 길게","New move:  {BYTE_7F}, {BYTE_7F}, hold {BYTE_7F}",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB73D,23,32,{BYTE_7F} {BYTE_7F} {BYTE_7F},ui_template_stride_0x6c_text_capacity_32,4e6577206d6f76653a20207f2c207f2c20686f6c64207f
+ELF_001DB7A9,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DB7A9,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DB815,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DB815,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DB881,낫 기술을 살까요?,Buy Scythe Moves?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB881,17,32,,ui_template_stride_0x6c_text_capacity_32,42757920536379746865204d6f7665733f
+ELF_001DB8ED,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DB8ED,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DB959,"새 기술:  {BYTE_7F}, {BYTE_7F}, {BYTE_A4} 길게","New move:  {BYTE_7F}, {BYTE_7F}, hold {BYTE_A4}",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB959,23,32,{BYTE_7F} {BYTE_7F} {BYTE_A4},ui_template_stride_0x6c_text_capacity_32,4e6577206d6f76653a20207f2c207f2c20686f6c6420a4
+ELF_001DB9C5,"새 기술:  {BYTE_7F}, {BYTE_7F}, {BYTE_89} 길게","New move:  {BYTE_7F}, {BYTE_7F}, hold {BYTE_89}",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DB9C5,23,32,{BYTE_7F} {BYTE_7F} {BYTE_89},ui_template_stride_0x6c_text_capacity_32,4e6577206d6f76653a20207f2c207f2c20686f6c642089
+ELF_001DBA31,"새 기술:  {BYTE_7F}, {BYTE_7F}, {BYTE_7F} 길게","New move:  {BYTE_7F}, {BYTE_7F}, hold {BYTE_7F}",upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBA31,23,32,{BYTE_7F} {BYTE_7F} {BYTE_7F},ui_template_stride_0x6c_text_capacity_32,4e6577206d6f76653a20207f2c207f2c20686f6c64207f
+ELF_001DBA9D,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DBA9D,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+ELF_001DBB09,낫을 업그레이드할까요?,Upgrade Scythe?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBB09,15,32,,ui_template_stride_0x6c_text_capacity_32,55706772616465205363797468653f
+ELF_001DBB75,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DBB75,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DBBE1,낫 공격으로,Scythe attacks reflect,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBBE1,22,32,,ui_template_stride_0x6c_text_capacity_32,5363797468652061747461636b73207265666c656374
+ELF_001DBC4D,적의 탄환 반사!,enemy shots!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBC4D,12,32,,ui_template_stride_0x6c_text_capacity_32,656e656d792073686f747321
+ELF_001DBCB9,좋아!,Yes!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DBCB9,4,32,,ui_template_stride_0x6c_text_capacity_32,59657321
+ELF_001DBD25,아니,No,upgrade_menu,untranslated,duplicate_source_text: 16,EBOOT.decrypted.elf,0x001DBD25,2,32,,ui_template_stride_0x6c_text_capacity_32,4e6f
+ELF_001DBD91,낫을 업그레이드할까요?,Upgrade Scythe?,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBD91,15,32,,ui_template_stride_0x6c_text_capacity_32,55706772616465205363797468653f
+ELF_001DBDFD,위젯 X개 필요,Costs X Widgets,upgrade_menu,untranslated,duplicate_source_text: 22,EBOOT.decrypted.elf,0x001DBDFD,15,32,,ui_template_stride_0x6c_text_capacity_32,436f73747320582057696467657473
+ELF_001DBE69,낫 공격으로,Scythe attacks reflect,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBE69,22,32,,ui_template_stride_0x6c_text_capacity_32,5363797468652061747461636b73207265666c656374
+ELF_001DBED5,적의 탄환 반사!,enemy shots!,upgrade_menu,untranslated,duplicate_source_text: 2,EBOOT.decrypted.elf,0x001DBED5,12,32,,ui_template_stride_0x6c_text_capacity_32,656e656d792073686f747321
+ELF_001DBF41,너무 비싸!,Too Expensive!,upgrade_menu,untranslated,duplicate_source_text: 11,EBOOT.decrypted.elf,0x001DBF41,14,32,,ui_template_stride_0x6c_text_capacity_32,546f6f20457870656e7369766521
+SCHOOL_D2_00AF4250,여기가 바로,So this is the,level_embedded_dialogue,untranslated,duplicate_source_text: 2,PSP_GAME/USRDIR/STREAMS/SCHOOL_D2.STR,0x00AF4250,14,,,serialized_string_usage_not_yet_traced,536f207468697320697320746865
+SCHOOL_D2_00AF4268,여자 화장실,girls' bathroom,level_embedded_dialogue,untranslated,,PSP_GAME/USRDIR/STREAMS/SCHOOL_D2.STR,0x00AF4268,15,,,serialized_string_usage_not_yet_traced,6769726c73272062617468726f6f6d
+UI_BINARY_00000830,START 버튼을 누르세요,Press START Button,title_menu,untranslated,,PSP_GAME/USRDIR/STREAMS/UI_BINARY.STR,0x00000830,18,,,serialized_string_usage_not_yet_traced,507265737320535441525420427574746f6e
+UI_BINARY_0000084D,새 게임,New Game,title_menu,untranslated,,PSP_GAME/USRDIR/STREAMS/UI_BINARY.STR,0x0000084D,8,,,serialized_string_usage_not_yet_traced,4e65772047616d65
+UI_BINARY_00000856,게임 불러오기,Load Game,title_menu,untranslated,,PSP_GAME/USRDIR/STREAMS/UI_BINARY.STR,0x00000856,9,,,serialized_string_usage_not_yet_traced,4c6f61642047616d65

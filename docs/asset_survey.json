@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "BOOTABLE": 1,
+    "CATEGORY": "UG",
+    "DISC_ID": "ULUS10027",
+    "DISC_NUMBER": 1,
+    "DISC_TOTAL": 1,
+    "DISC_VERSION": "1.01",
+    "PARENTAL_LEVEL": 5,
+    "PSP_SYSTEM_VER": "1.50",
+    "REGION": 32768,
+    "TITLE": "Death, Jr."
+  },
+  "file_types": {
+    ".PNG": {
+      "files": 3,
+      "bytes": 447198
+    },
+    ".PMF": {
+      "files": 26,
+      "bytes": 99917824
+    },
+    ".SFO": {
+      "files": 2,
+      "bytes": 2052
+    },
+    ".BIN": {
+      "files": 5,
+      "bytes": 18756281
+    },
+    ".PXD": {
+      "files": 2,
+      "bytes": 1779728
+    },
+    ".PRX": {
+      "files": 13,
+      "bytes": 524344
+    },
+    ".AT3": {
+      "files": 12,
+      "bytes": 6417788
+    },
+    ".STR": {
+      "files": 23,
+      "bytes": 277805056
+    }
+  },
+  "boot_bin_all_zero": true,
+  "decrypted_elf_sha256": "e521c889dd57db58fe0b081a8c653a750f8c5bf9db6cf184f3714be4d44057f1",
+  "decrypted_elf_size": 2434281,
+  "pxd_texture_count": 80,
+  "fonts": [
+    {
+      "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+      "chunk_offset": 168972,
+      "chunk_size_with_header": 176320,
+      "name": "dj_font",
+      "width": 256,
+      "height": 512,
+      "depth_field": 8,
+      "palette_offset": 169168,
+      "pixels_offset": 170192,
+      "palette_sha256": "86c8ef29609febb2a35c907ed118b7eb2f1028de1a26cc18420359d341d8bdfb",
+      "pixels_sha256": "51b074fc2b70bd9b52471e617e781f88bb19b6f412a1bd3fab1309bd1da6d03a",
+      "preview": "extracted/assets/fonts/GLOBAL_00_dj_font.png",
+      "verification": "Base mip swizzle inverse is byte-identical; no game rebuild or runtime proof"
+    },
+    {
+      "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+      "chunk_offset": 976380,
+      "chunk_size_with_header": 176320,
+      "name": "dj_font",
+      "width": 256,
+      "height": 512,
+      "depth_field": 8,
+      "palette_offset": 976576,
+      "pixels_offset": 977600,
+      "palette_sha256": "86c8ef29609febb2a35c907ed118b7eb2f1028de1a26cc18420359d341d8bdfb",
+      "pixels_sha256": "51b074fc2b70bd9b52471e617e781f88bb19b6f412a1bd3fab1309bd1da6d03a",
+      "preview": "extracted/assets/fonts/UIENGINE_99_dj_font.png",
+      "verification": "Base mip swizzle inverse is byte-identical; no game rebuild or runtime proof"
+    }
+  ],
+  "text_pool_candidate_count_not_workload": 283,
+  "menu_record_candidate_count_not_workload": 57,
+  "text_pool_non_ascii_bytes": [
+    127,
+    134,
+    137,
+    146,
+    164,
+    171,
+    172,
+    177,
+    186,
+    187,
+    247
+  ],
+  "dependencies": {
+    "Pillow": "12.3.0",
+    "capstone": "5.0.7"
+  },
+  "runtime": "Not performed",
+  "full_corpus": "Unresolved",
+  "confirmed_local_copy_limit": "31 payload bytes plus NUL at ELF VA 0xD9308..0xD9354; other consumers unresolved"
+}

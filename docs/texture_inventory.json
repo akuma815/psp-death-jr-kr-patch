@@ -1,0 +1,722 @@
+[
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 28,
+    "chunk_size_with_header": 2752,
+    "name": "umd_front",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 2780,
+    "chunk_size_with_header": 6848,
+    "name": "TEX_Assist_Extender",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 9628,
+    "chunk_size_with_header": 6848,
+    "name": "TEX_WP_WIDGET_UG",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 16476,
+    "chunk_size_with_header": 6848,
+    "name": "TEX_DJ_Health_Extender",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 23324,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_Laser_y",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 26076,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_Laser_o",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 28828,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_Laser_p",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 31580,
+    "chunk_size_with_header": 2752,
+    "name": "trailbat",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 34332,
+    "chunk_size_with_header": 2752,
+    "name": "trailblur",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 37084,
+    "chunk_size_with_header": 2752,
+    "name": "soultrail",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 39836,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_Enemy_Trail",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 42588,
+    "chunk_size_with_header": 2000,
+    "name": "trail",
+    "width": 32,
+    "height": 16,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 44588,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_Scythe",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 47340,
+    "chunk_size_with_header": 2752,
+    "name": "meteor_shadow",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 50092,
+    "chunk_size_with_header": 2752,
+    "name": "buddy",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 52844,
+    "chunk_size_with_header": 2752,
+    "name": "scorch",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 55596,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_BLOOD",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 58348,
+    "chunk_size_with_header": 2752,
+    "name": "bullet_impact02",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 61100,
+    "chunk_size_with_header": 2752,
+    "name": "vomit_splat",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 63852,
+    "chunk_size_with_header": 2752,
+    "name": "lightning_scrying",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 66604,
+    "chunk_size_with_header": 2752,
+    "name": "lightning_boss2",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 69356,
+    "chunk_size_with_header": 2752,
+    "name": "lightning_core_u",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 72108,
+    "chunk_size_with_header": 2752,
+    "name": "lightning_boss3",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 74860,
+    "chunk_size_with_header": 2752,
+    "name": "lightning_boss",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 77612,
+    "chunk_size_with_header": 2752,
+    "name": "lightning_core",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 80364,
+    "chunk_size_with_header": 2752,
+    "name": "shadowTexture",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 83116,
+    "chunk_size_with_header": 12208,
+    "name": "health_fill3",
+    "width": 256,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 95324,
+    "chunk_size_with_header": 12208,
+    "name": "health_empty3",
+    "width": 256,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 107532,
+    "chunk_size_with_header": 12208,
+    "name": "health_fill2",
+    "width": 256,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 119740,
+    "chunk_size_with_header": 12208,
+    "name": "health_empty2",
+    "width": 256,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 131948,
+    "chunk_size_with_header": 6752,
+    "name": "health_fill1",
+    "width": 128,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 138700,
+    "chunk_size_with_header": 6752,
+    "name": "health_empty1",
+    "width": 128,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 145452,
+    "chunk_size_with_header": 4048,
+    "name": "health_fill0",
+    "width": 64,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 149500,
+    "chunk_size_with_header": 4048,
+    "name": "health_empty0",
+    "width": 64,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 153548,
+    "chunk_size_with_header": 4288,
+    "name": "exclamation_indicator",
+    "width": 32,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 157836,
+    "chunk_size_with_header": 4288,
+    "name": "question_indicator",
+    "width": 32,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 162124,
+    "chunk_size_with_header": 6848,
+    "name": "arrow_indicator",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 168972,
+    "chunk_size_with_header": 176320,
+    "name": "dj_font",
+    "width": 256,
+    "height": 512,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 345292,
+    "chunk_size_with_header": 2752,
+    "name": "TalkMarty",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 348044,
+    "chunk_size_with_header": 2752,
+    "name": "TalkSnW",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 350796,
+    "chunk_size_with_header": 2752,
+    "name": "TalkPandora",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 353548,
+    "chunk_size_with_header": 12240,
+    "name": "assistbkg",
+    "width": 128,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 365788,
+    "chunk_size_with_header": 45008,
+    "name": "reportcardbkg",
+    "width": 256,
+    "height": 128,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 410796,
+    "chunk_size_with_header": 45008,
+    "name": "pausebkg",
+    "width": 256,
+    "height": 128,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 455804,
+    "chunk_size_with_header": 7360,
+    "name": "hit_indicator",
+    "width": 32,
+    "height": 128,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 463164,
+    "chunk_size_with_header": 6848,
+    "name": "question_mark",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 470012,
+    "chunk_size_with_header": 6848,
+    "name": "hamster_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 476860,
+    "chunk_size_with_header": 6848,
+    "name": "flamethrower_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 483708,
+    "chunk_size_with_header": 6848,
+    "name": "electric_gun_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 490556,
+    "chunk_size_with_header": 6848,
+    "name": "rocket_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 497404,
+    "chunk_size_with_header": 6848,
+    "name": "bammer_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 504252,
+    "chunk_size_with_header": 6848,
+    "name": "shotgun_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 511100,
+    "chunk_size_with_header": 6848,
+    "name": "freeze_gun_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 517948,
+    "chunk_size_with_header": 6848,
+    "name": "pistol_icon",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 524796,
+    "chunk_size_with_header": 2752,
+    "name": "TEX_FX_MMGHOST",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 527548,
+    "chunk_size_with_header": 1968,
+    "name": "ammo_bar_small",
+    "width": 64,
+    "height": 8,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 529516,
+    "chunk_size_with_header": 4048,
+    "name": "bone",
+    "width": 64,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 533564,
+    "chunk_size_with_header": 2752,
+    "name": "assist5_fill",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 536316,
+    "chunk_size_with_header": 6848,
+    "name": "assist_full",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 543164,
+    "chunk_size_with_header": 2752,
+    "name": "assist5",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 545916,
+    "chunk_size_with_header": 6848,
+    "name": "assist_empty",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 552764,
+    "chunk_size_with_header": 2752,
+    "name": "assist_timer",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 555516,
+    "chunk_size_with_header": 6848,
+    "name": "assist_timer_bar",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 562364,
+    "chunk_size_with_header": 6848,
+    "name": "assist_meter",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 569212,
+    "chunk_size_with_header": 23232,
+    "name": "assist_bar",
+    "width": 128,
+    "height": 128,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 592444,
+    "chunk_size_with_header": 1728,
+    "name": "tooth_fill",
+    "width": 16,
+    "height": 16,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 594172,
+    "chunk_size_with_header": 2752,
+    "name": "health_skull",
+    "width": 32,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 596924,
+    "chunk_size_with_header": 6848,
+    "name": "health_meter",
+    "width": 64,
+    "height": 64,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/GLOBAL/GLOBAL_00.PXD",
+    "chunk_offset": 603772,
+    "chunk_size_with_header": 23232,
+    "name": "health_bar",
+    "width": 128,
+    "height": 128,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 28,
+    "chunk_size_with_header": 176080,
+    "name": "menu1_bkg_p2",
+    "width": 512,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 176108,
+    "chunk_size_with_header": 176080,
+    "name": "menu1_chain_p2",
+    "width": 512,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 352188,
+    "chunk_size_with_header": 176080,
+    "name": "loadgameb_bkg_p2",
+    "width": 512,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 528268,
+    "chunk_size_with_header": 176080,
+    "name": "st_layer_1",
+    "width": 512,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 704348,
+    "chunk_size_with_header": 88768,
+    "name": "loadgameb_prop_p2",
+    "width": 256,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 793116,
+    "chunk_size_with_header": 2240,
+    "name": "fade_top",
+    "width": 8,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 795356,
+    "chunk_size_with_header": 2240,
+    "name": "fade_bottom",
+    "width": 8,
+    "height": 32,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 797596,
+    "chunk_size_with_header": 88768,
+    "name": "bw_logo_glow",
+    "width": 256,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 886364,
+    "chunk_size_with_header": 88768,
+    "name": "bw_logo",
+    "width": 256,
+    "height": 256,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 975132,
+    "chunk_size_with_header": 1248,
+    "name": "white_pixel",
+    "width": 1,
+    "height": 1,
+    "depth_field": 8
+  },
+  {
+    "path": "PSP_GAME/USRDIR/LEVELS/UIENGINE/UIENGINE_99.PXD",
+    "chunk_offset": 976380,
+    "chunk_size_with_header": 176320,
+    "name": "dj_font",
+    "width": 256,
+    "height": 512,
+    "depth_field": 8
+  }
+]

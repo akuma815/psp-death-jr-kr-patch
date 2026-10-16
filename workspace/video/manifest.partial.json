@@ -1,0 +1,626 @@
+[
+  {
+    "source": "PSP_GAME/ICON1.PMF",
+    "source_sha256": "521cdc42ba7d4b362e5fec46d87cc73cf8be7c337fb49c9978b5ea420326497f",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 217,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\ICON1.wav",
+        "oma": "audio_atrac\\ICON1_ch0.oma",
+        "wav_sha256": "2e19da6c73725942fcb34af68f8a3acc72e708ff19285dd3a7d2ae56c797058d"
+      }
+    ],
+    "mp4": "editable_mp4\\ICON1.mp4",
+    "mp4_sha256": "e660a9be5e164aff5985c4c4eb6032bb7c8819dee8369d40a46453b710564fce",
+    "frames": 299,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\ICON1.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:10.03, start: 0.000000, bitrate: 284 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 144x80 [SAR 1:1 DAR 9:5], 85 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/ASSIST_EXTEND.PMF",
+    "source_sha256": "f95534e113a6caeb280b0eceebf3db66f887f6e757892df0e318d7ecb65f2af1",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 128,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\ASSIST_EXTEND.wav",
+        "oma": "audio_atrac\\ASSIST_EXTEND_ch0.oma",
+        "wav_sha256": "2cfde4e34502d5c16e7e5eccf3e9aa8b91136298b5e6c14fa301b961aa20acff"
+      }
+    ],
+    "mp4": "editable_mp4\\ASSIST_EXTEND.mp4",
+    "mp4_sha256": "c7fd1aaf2f24a87a9ba509351393131fa01ef35d80531c7c89505089a65176da",
+    "frames": 174,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\ASSIST_EXTEND.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.90, start: 0.000000, bitrate: 800 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 615 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 188 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/CREDITS.PMF",
+    "source_sha256": "592603d4b86a50bce23ed0d09a8317ae593e44b34dc4476ca128c4bc6d4318d7",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 7287,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\CREDITS.wav",
+        "oma": "audio_atrac\\CREDITS_ch0.oma",
+        "wav_sha256": "7dd74ee523d0ae26c4c164b4faa04dc11135307fd5140aaf4f26c06fa3b8fa53"
+      }
+    ],
+    "mp4": "editable_mp4\\CREDITS.mp4",
+    "mp4_sha256": "a0eee9e7669b8def68860c0145e6f05eb24d1adb1f1221d14ce6318c38057bd6",
+    "frames": 10138,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\CREDITS.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:05:38.36, start: 0.000000, bitrate: 996 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 797 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/DJ_TEST.PMF",
+    "source_sha256": "a3b58151762d1b5a7b0ca6806597d74d218dcb65e2b8584eeabae12ca367b0da",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 650,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\DJ_TEST.wav",
+        "oma": "audio_atrac\\DJ_TEST_ch0.oma",
+        "wav_sha256": "9afca91f79f455e3ee1e04af54b25fdefb255fb27dbbfc0420a8b0cf65a7efe3"
+      }
+    ],
+    "mp4": "editable_mp4\\DJ_TEST.mp4",
+    "mp4_sha256": "3b5d69abf113957ea0036dbcea973cb50cc0945c38cce215985b79690a73cee3",
+    "frames": 901,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\DJ_TEST.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:30.14, start: 0.000000, bitrate: 715 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 523 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 186 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/ELECTRIC_BOSS.PMF",
+    "source_sha256": "5af576899875459f13be9691a9b5f1ef3f04528094590a30ae16dcb6bf1dc478",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 240,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\ELECTRIC_BOSS.wav",
+        "oma": "audio_atrac\\ELECTRIC_BOSS_ch0.oma",
+        "wav_sha256": "51873cb066ae62479b53e091ff4be490c21f8f3ddbd71c25267e05acf0f13ef7"
+      }
+    ],
+    "mp4": "editable_mp4\\ELECTRIC_BOSS.mp4",
+    "mp4_sha256": "b2cf99cbe0e006a147ca7b91e5aa9b8b02d0dcb6fd017fceab1794229f15a6ef",
+    "frames": 331,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\ELECTRIC_BOSS.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:11.10, start: 0.000000, bitrate: 1013 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 823 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 185 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/FIRE_BOSS.PMF",
+    "source_sha256": "8269ad3e905699f059523b9a8eb25a0f49a816485626046beb16e9aaa3419d83",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 111,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\FIRE_BOSS.wav",
+        "oma": "audio_atrac\\FIRE_BOSS_ch0.oma",
+        "wav_sha256": "06d2fafc3df0514aff3064e1ed122fe4d42110d053dc441ac5933ec0d34e0061"
+      }
+    ],
+    "mp4": "editable_mp4\\FIRE_BOSS.mp4",
+    "mp4_sha256": "35cfe821eb5c9b835f61caec9ce8ce5dd45b11061b77cdff03c04ef80f3bae16",
+    "frames": 151,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\FIRE_BOSS.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.11, start: 0.000000, bitrate: 1054 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 865 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 190 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/GAMEEND.PMF",
+    "source_sha256": "f4dbbe90f8868ac2b8b5b3c5cf2d1f17b1f5777cf80f27a1a03c462a2694316b",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 1342,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\GAMEEND.wav",
+        "oma": "audio_atrac\\GAMEEND_ch0.oma",
+        "wav_sha256": "213cc801ffad834f42b3a35e9ece1913b36736ce2191b93128507b5f9d23355f"
+      }
+    ],
+    "mp4": "editable_mp4\\GAMEEND.mp4",
+    "mp4_sha256": "6edbe5736e29c1ed55548d0ccfeb6ad6ce34380c6a14dfdc199df700ce17d206",
+    "frames": 1865,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\GAMEEND.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:01:02.28, start: 0.000000, bitrate: 926 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 722 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 197 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/GAMEINTRO.PMF",
+    "source_sha256": "6bc87466ec76d416aa37b35923883c7067ab491d29bb079f1a0f269dd8c04997",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 3938,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\GAMEINTRO.wav",
+        "oma": "audio_atrac\\GAMEINTRO_ch0.oma",
+        "wav_sha256": "62d09c5f371b29bbe3a367bd3bb03f2234de3f175e36fdd9ad5605ba3fc58a97"
+      }
+    ],
+    "mp4": "editable_mp4\\GAMEINTRO.mp4",
+    "mp4_sha256": "299ac0fef830653cd51034c15f7493111cd875fda0204375f72fd9a57b65518f",
+    "frames": 5478,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\GAMEINTRO.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:03:02.83, start: 0.000000, bitrate: 1211 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 1009 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 195 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/GUPPYFLASHBACK.PMF",
+    "source_sha256": "44d881b234e39f4fe4d0de0e06334a28dd59a67d7d4f65c32ad8a4b0bf8d4569",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 386,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\GUPPYFLASHBACK.wav",
+        "oma": "audio_atrac\\GUPPYFLASHBACK_ch0.oma",
+        "wav_sha256": "a41a46c1236e68bd9d267537c8a9f4f6cce57aa51938430890a30d66f7e8b2b0"
+      }
+    ],
+    "mp4": "editable_mp4\\GUPPYFLASHBACK.mp4",
+    "mp4_sha256": "40e770afb7170fe49610642045b378dbe104290f45aa7e4c52af27f8b6a62f4b",
+    "frames": 534,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\GUPPYFLASHBACK.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:17.88, start: 0.000000, bitrate: 1005 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 809 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/GUPPYFREED.PMF",
+    "source_sha256": "a6b6c1972f4c1c533ac23d0940f19dd586ad10e5725a4f930f437c009df637ff",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 129,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\GUPPYFREED.wav",
+        "oma": "audio_atrac\\GUPPYFREED_ch0.oma",
+        "wav_sha256": "7f3b0e35483b8d71b1098f855bca662bb1ccbbdcd509d54bd1c64d47798c8366"
+      }
+    ],
+    "mp4": "editable_mp4\\GUPPYFREED.mp4",
+    "mp4_sha256": "60a15247e219ef2cb9055343dd7f669d564c88574e94f4da8195aa3211556833",
+    "frames": 176,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\GUPPYFREED.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.94, start: 0.000000, bitrate: 1046 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 859 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/GUPPYPORTALS.PMF",
+    "source_sha256": "adf62e0a09bccbdd2ea75f7096af599079846bc9c0b5bd3139a592c9be19cb71",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 176,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\GUPPYPORTALS.wav",
+        "oma": "audio_atrac\\GUPPYPORTALS_ch0.oma",
+        "wav_sha256": "3403e0bf4e5b15512608c87d8e0f6f4a65d29bfd55eb8329862b8936e35e2336"
+      }
+    ],
+    "mp4": "editable_mp4\\GUPPYPORTALS.mp4",
+    "mp4_sha256": "49e7f7013bf7d158b8fc12ee771b6f6aa0a870bb47d3e7427366efe88c924982",
+    "frames": 242,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\GUPPYPORTALS.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:08.13, start: 0.000000, bitrate: 1021 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 830 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/HEALTH_EXTEND.PMF",
+    "source_sha256": "f95534e113a6caeb280b0eceebf3db66f887f6e757892df0e318d7ecb65f2af1",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 128,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\HEALTH_EXTEND.wav",
+        "oma": "audio_atrac\\HEALTH_EXTEND_ch0.oma",
+        "wav_sha256": "2cfde4e34502d5c16e7e5eccf3e9aa8b91136298b5e6c14fa301b961aa20acff"
+      }
+    ],
+    "mp4": "editable_mp4\\HEALTH_EXTEND.mp4",
+    "mp4_sha256": "c7fd1aaf2f24a87a9ba509351393131fa01ef35d80531c7c89505089a65176da",
+    "frames": 174,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\HEALTH_EXTEND.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.90, start: 0.000000, bitrate: 800 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 615 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 188 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/MARTYFLASHBACK.PMF",
+    "source_sha256": "3208bab73d3c1d1cd11b849a8da67c742dfdf590086f7f260e1698907f4a8ce1",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 417,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\MARTYFLASHBACK.wav",
+        "oma": "audio_atrac\\MARTYFLASHBACK_ch0.oma",
+        "wav_sha256": "42c9af2f4c4c259252f8efc3704630989b9deacd645c4c713f72c4b41efc8164"
+      }
+    ],
+    "mp4": "editable_mp4\\MARTYFLASHBACK.mp4",
+    "mp4_sha256": "635b7bf7ff6e24a7049f4c415b17b0d59ba8938c46d32f886657682a7d319235",
+    "frames": 577,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\MARTYFLASHBACK.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:19.32, start: 0.000000, bitrate: 1013 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 816 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 193 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/MARTYFREED.PMF",
+    "source_sha256": "a3d6a563c3938ea4887034e4c6646eeba65afa04cee19b00775be7f74dc1bbfa",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 189,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\MARTYFREED.wav",
+        "oma": "audio_atrac\\MARTYFREED_ch0.oma",
+        "wav_sha256": "f81f8103649e92aae40d3cea894e906a2e5f96200f722f5ffd25d2add816d110"
+      }
+    ],
+    "mp4": "editable_mp4\\MARTYFREED.mp4",
+    "mp4_sha256": "39d4d99268360ac0fcad2cb2be430db8859bcb1c4e5fbf4b915eb2d2eedc30dd",
+    "frames": 260,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\MARTYFREED.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:08.73, start: 0.000000, bitrate: 1054 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 862 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/MARTYPORTALS.PMF",
+    "source_sha256": "0dff9233999e531369664c81529cebd1e5e8b3360b67faf00c2ce34fc10ca640",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 176,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\MARTYPORTALS.wav",
+        "oma": "audio_atrac\\MARTYPORTALS_ch0.oma",
+        "wav_sha256": "ded26388f9187a4960938b270dc3bb7e1c9982f220b24684cd8725edd6b6dff8"
+      }
+    ],
+    "mp4": "editable_mp4\\MARTYPORTALS.mp4",
+    "mp4_sha256": "c448f0d2b42370ec2d9c22d63af817320b89b5c5d09aa5ef9ddbfc4241f6b54f",
+    "frames": 242,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\MARTYPORTALS.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:08.13, start: 0.000000, bitrate: 1028 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 838 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/MOLOCH.PMF",
+    "source_sha256": "323aed7244f36d1c2b7b8600b6f83d52caac88b924fc6c2c717e0d50b537c387",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 418,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\MOLOCH.wav",
+        "oma": "audio_atrac\\MOLOCH_ch0.oma",
+        "wav_sha256": "e13bad2122c905f674c58f437de7d647c82aeb8bc9dc42b826adbf21409b27a8"
+      }
+    ],
+    "mp4": "editable_mp4\\MOLOCH.mp4",
+    "mp4_sha256": "e1fd895a746fb79f80cf19fa3849a55a14ceddbd1a13b90c4e18dd177b06c898",
+    "frames": 578,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\MOLOCH.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:19.37, start: 0.000000, bitrate: 1008 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 813 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/REUNITED.PMF",
+    "source_sha256": "097bc65b2c7b0e336b5b1f9776e81903ecb140b759423ba55f7bc0aba70bb219",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 276,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\REUNITED.wav",
+        "oma": "audio_atrac\\REUNITED_ch0.oma",
+        "wav_sha256": "a243f825af3ffb67f7cdc70c3b11a98dfdc49db1a40946603265c2b75bdbd0db"
+      }
+    ],
+    "mp4": "editable_mp4\\REUNITED.mp4",
+    "mp4_sha256": "ae5b1dba0ef263725503c39703e373593d6238d7f4fe6087239e1523f08a73bf",
+    "frames": 381,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\REUNITED.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:12.77, start: 0.000000, bitrate: 981 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 805 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 173 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/SAVE_GAME.PMF",
+    "source_sha256": "0bd1f37d0a50c39349ab08d470512dd30d370ce24eb771e02db314cd052e0f39",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 110,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\SAVE_GAME.wav",
+        "oma": "audio_atrac\\SAVE_GAME_ch0.oma",
+        "wav_sha256": "56db705b43b2ccacbd423c4ca0119459e70fdf777d9d126ed04208ea0973f242"
+      }
+    ],
+    "mp4": "editable_mp4\\SAVE_GAME.mp4",
+    "mp4_sha256": "5262dabffb58359b6315b23ec3c8574167407933bb23c442400dce9f719e19da",
+    "frames": 149,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\SAVE_GAME.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.06, start: 0.000000, bitrate: 103 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 144x80 [SAR 1:1 DAR 9:5], 94 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/SEEPFLASHBACK.PMF",
+    "source_sha256": "9e6ac27788b8f61914b1319b51ff82c88c824accc76a8d2d069330592f458159",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 518,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\SEEPFLASHBACK.wav",
+        "oma": "audio_atrac\\SEEPFLASHBACK_ch0.oma",
+        "wav_sha256": "82d675e580d18f469d579767cf3f5a5cb60a578dcb1d2cc5990cb18f8efbe54a"
+      }
+    ],
+    "mp4": "editable_mp4\\SEEPFLASHBACK.mp4",
+    "mp4_sha256": "d7ab57574fc930822022a1bc06e0e5b8d00da6d7d0d9fda44121d3732bed77a3",
+    "frames": 718,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\SEEPFLASHBACK.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:24.01, start: 0.000000, bitrate: 1000 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 802 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 193 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/SEEPFREED.PMF",
+    "source_sha256": "f669ec47f42976abc36498fc1f85d924fd5a6721c7ba0385f5eeb9887e705635",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 176,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\SEEPFREED.wav",
+        "oma": "audio_atrac\\SEEPFREED_ch0.oma",
+        "wav_sha256": "d2ee23bf5c1631a494f1ea3048660da8527be67da4a2f1a6cec37d40ec0d1d8a"
+      }
+    ],
+    "mp4": "editable_mp4\\SEEPFREED.mp4",
+    "mp4_sha256": "395ee6d53721280e0a2d29589010c25d9a7c2ea2545f0e2ae8ec463033a79909",
+    "frames": 242,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\SEEPFREED.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:08.13, start: 0.000000, bitrate: 1057 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 865 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/SEEPPORTALS.PMF",
+    "source_sha256": "609e5e0b30ff85265a0f966f9ad1d01bf8be4569597d6df1e9f1ddaa0f37bd65",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 176,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\SEEPPORTALS.wav",
+        "oma": "audio_atrac\\SEEPPORTALS_ch0.oma",
+        "wav_sha256": "8295a3bcc689ecdaf2129310279c9214591cf5baa892f4e941830ca63f52bd34"
+      }
+    ],
+    "mp4": "editable_mp4\\SEEPPORTALS.mp4",
+    "mp4_sha256": "35122cda2a37e88727d0001f1bdc3b5bfa39d62fad5467f68557546c7f1dae85",
+    "frames": 242,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\SEEPPORTALS.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:08.13, start: 0.000000, bitrate: 1027 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 835 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/SOUL_PIECE.PMF",
+    "source_sha256": "59f617fbfcc408a196a56a4203d579535434848acdcd7e21963d18757abd0682",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 128,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\SOUL_PIECE.wav",
+        "oma": "audio_atrac\\SOUL_PIECE_ch0.oma",
+        "wav_sha256": "69d0c88cfc5a74454fdc22c097358a4ecc715004a338f60df316de924e98fb09"
+      }
+    ],
+    "mp4": "editable_mp4\\SOUL_PIECE.mp4",
+    "mp4_sha256": "4d92c1d02062b8bd248680148503fb7237bef4b03a245e7388d4f32730915260",
+    "frames": 174,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\SOUL_PIECE.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.90, start: 0.000000, bitrate: 819 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 633 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/STARTUP.PMF",
+    "source_sha256": "52a5d4982badbce35fdd818095ee2ebdef6b90a319807448126dc17ee6f4f544",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 322,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\STARTUP.wav",
+        "oma": "audio_atrac\\STARTUP_ch0.oma",
+        "wav_sha256": "5b96c7719cbeb3f074a8042bbcebb9b1572903edc3727dc36424d8516cfb7e0c"
+      }
+    ],
+    "mp4": "editable_mp4\\STARTUP.mp4",
+    "mp4_sha256": "c6df109276d6ab31544201333208a813ae3e6963ab34d03be7cc25932af8a2e5",
+    "frames": 445,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\STARTUP.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:14.91, start: 0.000000, bitrate: 948 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 753 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/TITLES.PMF",
+    "source_sha256": "e489781e9dee55d55af309b9c2d3d695519333e2156ed45a66a8ede5d8581ef3",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 554,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\TITLES.wav",
+        "oma": "audio_atrac\\TITLES_ch0.oma",
+        "wav_sha256": "f459ccb8cef46f378ffa4c8bcd0c9c02e77787cb43ce018b38d17cfc146a35ab"
+      }
+    ],
+    "mp4": "editable_mp4\\TITLES.mp4",
+    "mp4_sha256": "db094edcc0fc2ec26e4ed49a9864a6eae2289e2f7133a2996e812d43ad97b199",
+    "frames": 768,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\TITLES.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:25.68, start: 0.000000, bitrate: 949 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 744 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 199 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/UMD_MOVIE.PMF",
+    "source_sha256": "521cdc42ba7d4b362e5fec46d87cc73cf8be7c337fb49c9978b5ea420326497f",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 217,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\UMD_MOVIE.wav",
+        "oma": "audio_atrac\\UMD_MOVIE_ch0.oma",
+        "wav_sha256": "2e19da6c73725942fcb34af68f8a3acc72e708ff19285dd3a7d2ae56c797058d"
+      }
+    ],
+    "mp4": "editable_mp4\\UMD_MOVIE.mp4",
+    "mp4_sha256": "e660a9be5e164aff5985c4c4eb6032bb7c8819dee8369d40a46453b710564fce",
+    "frames": 299,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\UMD_MOVIE.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:10.03, start: 0.000000, bitrate: 284 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 144x80 [SAR 1:1 DAR 9:5], 85 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  },
+  {
+    "source": "PSP_GAME/USRDIR/FMV/WEAPON_UPGRADE.PMF",
+    "source_sha256": "69d0b29f6e3c6ea88154bd7ecbedac305d517db0d19011e82eb100c151f09b0e",
+    "first_pts_90khz": {
+      "video": 90000,
+      "0": 85820
+    },
+    "audio": [
+      {
+        "channel": 0,
+        "frames": 128,
+        "offset_seconds": -0.04644444444444444,
+        "wav": "audio_wav\\WEAPON_UPGRADE.wav",
+        "oma": "audio_atrac\\WEAPON_UPGRADE_ch0.oma",
+        "wav_sha256": "3256bcae78cb70b74e4a50286063b27e396833581e62badaa4450af5dcef56e7"
+      }
+    ],
+    "mp4": "editable_mp4\\WEAPON_UPGRADE.mp4",
+    "mp4_sha256": "9d26a9eb4dd5f91e893c8071299c6d60af397a1c16089c10ca197cfeb990658e",
+    "frames": 174,
+    "video_frame_match": true,
+    "decode_check": "PASS",
+    "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Downloads\\Korean Traslate Project\\Games\\Death Jr\\workspace\\video\\editable_mp4\\WEAPON_UPGRADE.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:00:05.90, start: 0.000000, bitrate: 808 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(progressive), 480x272 [SAR 1:1 DAR 30:17], 623 kb/s, 29.97 fps, 29.97 tbr, 90k tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 189 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n"
+  }
+]

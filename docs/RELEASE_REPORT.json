@@ -1,0 +1,33 @@
+{
+  "name": "DeathJr_KR_Patch_Final_20260926",
+  "source": {
+    "bytes": 435159040,
+    "sha256": "625c03e32b6757eb4e1ac382f43592d86778b3c943d4f26b95f1134ceee85ea3",
+    "id": "ULUS10027",
+    "version": "1.01"
+  },
+  "target": {
+    "bytes": 477913088,
+    "sha256": "c1ed1625cd3f9dac362655af0d332d49470fdab592c23cb5d81b778f4d52b842"
+  },
+  "patch": {
+    "file": "DeathJr_KR_Final_20260926.xdelta",
+    "bytes": 38745226,
+    "sha256": "e1c8d672355e6c41a712ba38c07d9502cfcb1c3496f68bcaad7c905b794f0394"
+  },
+  "translation_rows": 708,
+  "movie_subtitles": 59,
+  "subtitled_movies": [
+    "GAMEINTRO",
+    "GAMEEND",
+    "REUNITED",
+    "TITLES"
+  ],
+  "csv_sha256": "7d59b51d601c640ebcddd1bde9a0689879ab0310b13f5beef3c2733a572b2ec5",
+  "runtime_full_game": "NOT VERIFIED",
+  "xdelta_apply": "PASS: byte-for-byte equal",
+  "unicode_space_apply_cmd": "PASS",
+  "source_unchanged": "PASS",
+  "existing_output_rejection": "PASS",
+  "wrong_source_rejection": "PASS"
+}

@@ -1,0 +1,11 @@
+{
+  "entry_id": "dj_monologue_what_happened",
+  "source_file": "PSP_GAME/SYSDIR/EBOOT.BIN",
+  "decrypted_file_offset": 1879484,
+  "source_text": "What happened?",
+  "source_hex": "576861742068617070656e65643f00",
+  "translation": "무슨 일이야?",
+  "state": "needs_review",
+  "build_policy": "first-dialogue visibility PoC only; not release eligible",
+  "context": "User identifies this as the first gameplay line; actual scene timing awaits user test."
+}

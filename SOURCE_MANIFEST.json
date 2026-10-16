@@ -1,0 +1,744 @@
+{
+  "date": "2026-10-16",
+  "project": "데스 주니어",
+  "files": [
+    {
+      "path": "scripts/build_final_009.py",
+      "source": "scripts/build_final_009.py",
+      "bytes": 212,
+      "sha256": "f8eb4f91cc56b2b241110666dd5d51694fc25d2f7692f836d1054dd47b051cdb"
+    },
+    {
+      "path": "scripts/build_firstline_poc.py",
+      "source": "scripts/build_firstline_poc.py",
+      "bytes": 15573,
+      "sha256": "515f60180e2b55ff1323d69a97edf8912724117ca858ef131c60139a8870656e"
+    },
+    {
+      "path": "scripts/build_korean.py",
+      "source": "scripts/build_korean.py",
+      "bytes": 19400,
+      "sha256": "5fc7d877b81cb2fd86d11c8f06c086e3a039593bc4e9cb38c169a6b42871654c"
+    },
+    {
+      "path": "scripts/build_movie_iso.py",
+      "source": "scripts/build_movie_iso.py",
+      "bytes": 6552,
+      "sha256": "b56df1df6c0e14e4d7e2b61a969f83a1c911ec2c140f465b6d4187f1fdf72bc8"
+    },
+    {
+      "path": "scripts/build_movie_iso_007.py",
+      "source": "scripts/build_movie_iso_007.py",
+      "bytes": 7993,
+      "sha256": "1d4f5dd39c5129992f3d326eb017c5fc09cb12c14f411ceb0e1e557196818d0b"
+    },
+    {
+      "path": "scripts/build_updated_008.py",
+      "source": "scripts/build_updated_008.py",
+      "bytes": 1954,
+      "sha256": "e234b7e053825b3b40bc4d3fed1ebe95e1d131eecc3eb58e6de2f6c39cdeef8a"
+    },
+    {
+      "path": "scripts/burn_movie_subtitles.py",
+      "source": "scripts/burn_movie_subtitles.py",
+      "bytes": 8069,
+      "sha256": "463d5f2b17a8de31573737e03510fef53ac810e984c07730c39134c89d6ad58f"
+    },
+    {
+      "path": "scripts/export_english_script.py",
+      "source": "scripts/export_english_script.py",
+      "bytes": 6907,
+      "sha256": "bc732bbef2ddb4c0546d46067f0f0cf857705af0566d09a74a7b20e4dea8b4ec"
+    },
+    {
+      "path": "scripts/export_movies.py",
+      "source": "scripts/export_movies.py",
+      "bytes": 5006,
+      "sha256": "4ce6a91ee3ba019d6b64aea8280cc0f87eb3f2af7ebca19e21f1e84a7e8fc16c"
+    },
+    {
+      "path": "scripts/extract_iso.py",
+      "source": "scripts/extract_iso.py",
+      "bytes": 3123,
+      "sha256": "bfd718d75f405fb8fb1c0ea93bc0d0befa645731e936bb954eb11a06320cafff"
+    },
+    {
+      "path": "scripts/kr_runtime.c",
+      "source": "scripts/kr_runtime.c",
+      "bytes": 3946,
+      "sha256": "7ad09edccaf2999e2f47498baed82e868f6bb08b80d46c69eddedb1a74358747"
+    },
+    {
+      "path": "scripts/make_release_dist.py",
+      "source": "scripts/make_release_dist.py",
+      "bytes": 10925,
+      "sha256": "741bbfb2a38a06b0924589b93571bc5c361c9a6d5f7594cd802217f5508d0652"
+    },
+    {
+      "path": "scripts/prepare_movie_dialogue.py",
+      "source": "scripts/prepare_movie_dialogue.py",
+      "bytes": 6259,
+      "sha256": "ac882c6c16ac52a15d5c18af5a600ccff15fc86ac6054880f9a668e87d797098"
+    },
+    {
+      "path": "scripts/preview_korean.py",
+      "source": "scripts/preview_korean.py",
+      "bytes": 1496,
+      "sha256": "b6606dfd1d565cadf6b706e3ee54fff7058390da5d8908d8f48207965d79906b"
+    },
+    {
+      "path": "scripts/recheck_movie_clips.py",
+      "source": "scripts/recheck_movie_clips.py",
+      "bytes": 1303,
+      "sha256": "e5f375f762d130199eb3830dde055d451422dba5a3f6283f976f7d61b8a4250a"
+    },
+    {
+      "path": "scripts/test_korean_runtime.py",
+      "source": "scripts/test_korean_runtime.py",
+      "bytes": 8063,
+      "sha256": "677e25949d0617ee9f6125058065f873f79a456089223f49c95acb13d90b1674"
+    },
+    {
+      "path": "scripts/transcribe_movies.py",
+      "source": "scripts/transcribe_movies.py",
+      "bytes": 1706,
+      "sha256": "aa495d7fe23bba92a5072f310202f71f43056e617a5bcccfae60b4f96107e7a3"
+    },
+    {
+      "path": "scripts/verify_movie_packets.py",
+      "source": "scripts/verify_movie_packets.py",
+      "bytes": 6103,
+      "sha256": "6ad42e39c0064d28439d565850dda5310907486348bfcc1bba0af820b3da1983"
+    },
+    {
+      "path": "scripts/verify_source.ps1",
+      "source": "scripts/verify_source.ps1",
+      "bytes": 686,
+      "sha256": "7f3ed916092f5f9da72bd34178497bffc080163082a5a466dcf7b649048db667"
+    },
+    {
+      "path": "scripts/verify_translation_csv.py",
+      "source": "scripts/verify_translation_csv.py",
+      "bytes": 1296,
+      "sha256": "4c157fd8214f6ec6dfd4778ec9388944d493bc99c48277af44fe438e04ec9268"
+    },
+    {
+      "path": "docs/FONT_MEASUREMENT.md",
+      "source": "docs/FONT_MEASUREMENT.md",
+      "bytes": 5551,
+      "sha256": "080a008d8c7b6892a21e2362cc43b8cfc83201954442ef4c63df5b462058a483"
+    },
+    {
+      "path": "docs/HANDOFF_2026-09-13.md",
+      "source": "docs/HANDOFF_2026-09-13.md",
+      "bytes": 30475,
+      "sha256": "75af0a7d5068018e91d35d5bb3443d591e395c994279254db8ad077ec3198462"
+    },
+    {
+      "path": "docs/HANDOFF_2026-09-20.md",
+      "source": "docs/HANDOFF_2026-09-20.md",
+      "bytes": 31104,
+      "sha256": "38698103110c556918437cfc77066510bf819bd49595a6ddd233005bde148f40"
+    },
+    {
+      "path": "docs/HANDOFF_2026-09-21.md",
+      "source": "docs/HANDOFF_2026-09-21.md",
+      "bytes": 6809,
+      "sha256": "7ad3ed5014dcd8a02d115510652d93b40b775bd675e5c74e0192086caaba151f"
+    },
+    {
+      "path": "docs/HANDOFF_2026-09-26.md",
+      "source": "docs/HANDOFF_2026-09-26.md",
+      "bytes": 5083,
+      "sha256": "bd25ac60ece2d48f442a9d537e43826158638a18e702850263fb2906bb0e7852"
+    },
+    {
+      "path": "docs/INITIAL_SURVEY.md",
+      "source": "docs/INITIAL_SURVEY.md",
+      "bytes": 8885,
+      "sha256": "d1a76d6d827450ea40bd1018d0d68034609c74a1acb5a08596bd3450cb72a506"
+    },
+    {
+      "path": "docs/INSERTION_003.md",
+      "source": "docs/INSERTION_003.md",
+      "bytes": 6117,
+      "sha256": "53aa35083f6dc3221ceb8dd9479f2fc66d7a94adc629b533a04213d71ba9d320"
+    },
+    {
+      "path": "docs/POC_FIRSTLINE_001.md",
+      "source": "docs/POC_FIRSTLINE_001.md",
+      "bytes": 7203,
+      "sha256": "f43ae8bb34273dd44291964dd1a1ff6232069f3ae787dfebc8a5167eac867997"
+    },
+    {
+      "path": "docs/asset_survey.json",
+      "source": "docs/asset_survey.json",
+      "bytes": 2876,
+      "sha256": "dff8b9e3e148dcf59fd7b5073ede246c18a66611e2e27eaeada394821b279b57"
+    },
+    {
+      "path": "docs/english_script_export_report.json",
+      "source": "docs/english_script_export_report.json",
+      "bytes": 9633,
+      "sha256": "2fef6117dcff84b93f148d713fc97577d7b868588e257f6dc73b9e68971aa545"
+    },
+    {
+      "path": "docs/font_measurement.json",
+      "source": "docs/font_measurement.json",
+      "bytes": 102954,
+      "sha256": "92ce987eec56819f9c619300889e1c9ab6c4af9af92c9b1109d898bb42576c7a"
+    },
+    {
+      "path": "docs/iso_inventory.json",
+      "source": "docs/iso_inventory.json",
+      "bytes": 22460,
+      "sha256": "fb91c3cf638f9ec081ac4dd355fa32de6337d87981415b50e10c47d3c2ecea68"
+    },
+    {
+      "path": "docs/param_sfo.json",
+      "source": "docs/param_sfo.json",
+      "bytes": 238,
+      "sha256": "c47b6fd0073206bbbd4ba5c2d445829b6c3a53b77b6d72ba5e3cf8ae72c1e3ae"
+    },
+    {
+      "path": "docs/texture_inventory.json",
+      "source": "docs/texture_inventory.json",
+      "bytes": 18084,
+      "sha256": "b92d6fe92a2ef6f3e014993ea9104096947961a6c6af8cdc3277c3538517d89e"
+    },
+    {
+      "path": "workspace/text/DeathJr_English_Script.csv",
+      "source": "workspace/text/DeathJr_English_Script.csv",
+      "bytes": 117112,
+      "sha256": "e1597292413fd41eada49fd27cb3bfee0904ba47b80871521fe01cbc41b2114e"
+    },
+    {
+      "path": "workspace/text/DeathJr_English_Script_Korean.csv",
+      "source": "workspace/text/DeathJr_English_Script_Korean.csv",
+      "bytes": 132105,
+      "sha256": "7d59b51d601c640ebcddd1bde9a0689879ab0310b13f5beef3c2733a572b2ec5"
+    },
+    {
+      "path": "workspace/text/TRANSLATION_README.md",
+      "source": "workspace/text/TRANSLATION_README.md",
+      "bytes": 3429,
+      "sha256": "68009b2057809a0c1f3ac29285ce8516676ed83f40278b9aae269f760981a5d3"
+    },
+    {
+      "path": "workspace/text/english_script_source.json",
+      "source": "workspace/text/english_script_source.json",
+      "bytes": 316161,
+      "sha256": "393af600153b6f4daf5bd67c4ac263213b5e0cb5e56bd8b131b641266a064008"
+    },
+    {
+      "path": "workspace/text/firstline.json",
+      "source": "workspace/text/firstline.json",
+      "bytes": 460,
+      "sha256": "5e27cff305c9933a7e7d1c81561757119b2715d0731fe5b2260e8f4ecd41e224"
+    },
+    {
+      "path": "workspace/video/CATALOG.md",
+      "source": "workspace/video/CATALOG.md",
+      "bytes": 2802,
+      "sha256": "74c03a4bb2eb830cbb765028b60cf6068a79a779bb291228a997829af0cef0c4"
+    },
+    {
+      "path": "workspace/video/README.md",
+      "source": "workspace/video/README.md",
+      "bytes": 3322,
+      "sha256": "206355f776e5e5ae1413e5ce1351c5209d70c001ca09e4a9c646b202ba60a01f"
+    },
+    {
+      "path": "workspace/video/manifest.json",
+      "source": "workspace/video/manifest.json",
+      "bytes": 45299,
+      "sha256": "516404d927c8bfa1c9b6b02e7f59e56396078a86913d2cf467f5a711cc3167b1"
+    },
+    {
+      "path": "workspace/video/manifest.partial.json",
+      "source": "workspace/video/manifest.partial.json",
+      "bytes": 43768,
+      "sha256": "eee33cdb63efc4cf4bb0dd4adb2c626dff04078bd55aaa7cd772cb7b845ec6bf"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/README.md",
+      "source": "workspace/video/subtitled_001_kyobo24/README.md",
+      "bytes": 2567,
+      "sha256": "ab2d19d425b506566fa0121a5cbc2630ed2e09e62f90d205ff1297ced3655907"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/manifest.json",
+      "source": "workspace/video/subtitled_001_kyobo24/manifest.json",
+      "bytes": 18568,
+      "sha256": "3a3eef73a7ae6831035aa919fd7dc246838c418213b493356ad3dd0276ce1db9"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/manifest.partial.json",
+      "source": "workspace/video/subtitled_001_kyobo24/manifest.partial.json",
+      "bytes": 18480,
+      "sha256": "b13175b9b78fb56fb3f8bf0336abeea952af4b31cbc96f18c7b02b9eb95126c6"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/GAMEEND.srt",
+      "source": "workspace/video/subtitled_001_kyobo24/srt/GAMEEND.srt",
+      "bytes": 207,
+      "sha256": "a25e8d271c37a13869449ca6ca7e43ea1520baca66bc789a68bdd9d330d11376"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/GAMEINTRO.srt",
+      "source": "workspace/video/subtitled_001_kyobo24/srt/GAMEINTRO.srt",
+      "bytes": 3203,
+      "sha256": "5ba82916edb7af1234df2e4f357bda544cd8c182144800650023051d13cebc99"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/REUNITED.srt",
+      "source": "workspace/video/subtitled_001_kyobo24/srt/REUNITED.srt",
+      "bytes": 436,
+      "sha256": "d3dc677f336d015a32ab61dd6e0edea4f8bead48ce97c9e2f7e1a4f4bb03c15f"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/TITLES.srt",
+      "source": "workspace/video/subtitled_001_kyobo24/srt/TITLES.srt",
+      "bytes": 57,
+      "sha256": "17055ff9c69adf9101de6d563a9f97c824883df4ecb5469076c32cd33df263c1"
+    },
+    {
+      "path": "workspace/video/transcription/COVERAGE.md",
+      "source": "workspace/video/transcription/COVERAGE.md",
+      "bytes": 1972,
+      "sha256": "a495e4cafa0275000b85b4fa948239f8fc94833e2f8d77da49cfbd6667c1e267"
+    },
+    {
+      "path": "workspace/video/transcription/DeathJr_Movie_Dialogue_Korean.csv",
+      "source": "workspace/video/transcription/DeathJr_Movie_Dialogue_Korean.csv",
+      "bytes": 23055,
+      "sha256": "6667f45e7d6b6bf2ad5d71e09eee108a88bbaeb80650f7cf07083723ec24953e"
+    },
+    {
+      "path": "workspace/video/transcription/README.md",
+      "source": "workspace/video/transcription/README.md",
+      "bytes": 4570,
+      "sha256": "66009660e990ebef3cdc379f6b4a626d425b792577eb127ec8dfe77ae16155ed"
+    },
+    {
+      "path": "workspace/video/transcription/coverage.json",
+      "source": "workspace/video/transcription/coverage.json",
+      "bytes": 20229,
+      "sha256": "b776efe832fea76788caf9ef30b666b922580c5c5dc49313723668cf4d61e9fd"
+    },
+    {
+      "path": "workspace/video/transcription/curated_rows.json",
+      "source": "workspace/video/transcription/curated_rows.json",
+      "bytes": 37261,
+      "sha256": "678f8862026a4ce05b86c515af43cd5fca4cd30b50a16f9e59121592822ff8e2"
+    },
+    {
+      "path": "workspace/video/transcription/korean_translation_001.json",
+      "source": "workspace/video/transcription/korean_translation_001.json",
+      "bytes": 2962,
+      "sha256": "14db4bf03f9b7f053566ada1d85257eb19aadb530e712589920b19f3a5c5bdd8"
+    },
+    {
+      "path": "workspace/video/transcription/requirements-transcription.txt",
+      "source": "workspace/video/transcription/requirements-transcription.txt",
+      "bytes": 422,
+      "sha256": "3820d6f1cc8d29b181727e57dd5e5755719f7b5f2c44f863d0a485c62b7c456a"
+    },
+    {
+      "path": "workspace/video/transcription/translation_validation.json",
+      "source": "workspace/video/transcription/translation_validation.json",
+      "bytes": 436,
+      "sha256": "c1c8e2061e08c480b1f9aff9ff040799358274845978c1a4ea36ae892c64e468"
+    },
+    {
+      "path": "workspace/video/transcription/validation.json",
+      "source": "workspace/video/transcription/validation.json",
+      "bytes": 592,
+      "sha256": "5366450c8b40b128c5f4b7f433495bbb701de43d03df08cc4278f38654274790"
+    },
+    {
+      "path": "tools/pmf_mux_007/AtracReader.cs",
+      "source": "tools/pmf_mux_007/AtracReader.cs",
+      "bytes": 8292,
+      "sha256": "f177fd292549003e3f83d0aa45d87383a64e6b0f92c97e92337865980e0ec581"
+    },
+    {
+      "path": "tools/pmf_mux_007/ElementaryStreamIndex.cs",
+      "source": "tools/pmf_mux_007/ElementaryStreamIndex.cs",
+      "bytes": 4657,
+      "sha256": "262ff5e4a5b465a1b7099adf7eeaddc34aa858b8a29b2fa759da189345290ec0"
+    },
+    {
+      "path": "tools/pmf_mux_007/MpsMuxer.cs",
+      "source": "tools/pmf_mux_007/MpsMuxer.cs",
+      "bytes": 76359,
+      "sha256": "c8808a8a90c3c3320acdb791c0b3a2d5d16f121b3b6ba4c1391cec1046cb30b4"
+    },
+    {
+      "path": "tools/pmf_mux_007/Mux.csproj",
+      "source": "tools/pmf_mux_007/Mux.csproj",
+      "bytes": 211,
+      "sha256": "71315f89bb7cc18684353be9719b76ba70fa7a67022a325d2aa84f223e649372"
+    },
+    {
+      "path": "tools/pmf_mux_007/Program.cs",
+      "source": "tools/pmf_mux_007/Program.cs",
+      "bytes": 759,
+      "sha256": "5239ed09ed3b78475019081ae87bcf91b517432f059c0165fa3f690073ad0cf3"
+    },
+    {
+      "path": "tools/pmf_mux_007/obj/Mux.csproj.nuget.dgspec.json",
+      "source": "tools/pmf_mux_007/obj/Mux.csproj.nuget.dgspec.json",
+      "bytes": 2105,
+      "sha256": "d0f911d509e75bd5e5db75a0625c6e2cdce7f4517785bc7057535fd282e0da51"
+    },
+    {
+      "path": "tools/pmf_mux_007/obj/Mux.csproj.nuget.g.props",
+      "source": "tools/pmf_mux_007/obj/Mux.csproj.nuget.g.props",
+      "bytes": 1136,
+      "sha256": "96423cfb986f2bad732713e0568fcb1dc5bac7848d24e1794bb4b9c02f1d834d"
+    },
+    {
+      "path": "tools/pmf_mux_007/obj/Mux.csproj.nuget.g.targets",
+      "source": "tools/pmf_mux_007/obj/Mux.csproj.nuget.g.targets",
+      "bytes": 150,
+      "sha256": "971cc9b535384849b5c661d776cd7a80833a416265e32e8968e06c367368b8b5"
+    },
+    {
+      "path": "tools/pmf_mux_007/obj/project.assets.json",
+      "source": "tools/pmf_mux_007/obj/project.assets.json",
+      "bytes": 1964,
+      "sha256": "4dc78ba5a7354fda52af9bf407ed3a51063d180e94f71b450fb2b6e2f2d6dc7b"
+    },
+    {
+      "path": "tools/pmf_mux_007/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "source": "tools/pmf_mux_007/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "bytes": 198,
+      "sha256": "f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e"
+    },
+    {
+      "path": "tools/pmf_mux_007/obj/Debug/net8.0/Mux.AssemblyInfo.cs",
+      "source": "tools/pmf_mux_007/obj/Debug/net8.0/Mux.AssemblyInfo.cs",
+      "bytes": 957,
+      "sha256": "f8f4c545be7a3e2c20a174a15a6404eeda5bd281e36ea43d4a85b15aedc4267d"
+    },
+    {
+      "path": "tools/pmf_mux_local/AtracReader.cs",
+      "source": "tools/pmf_mux_local/AtracReader.cs",
+      "bytes": 8292,
+      "sha256": "f177fd292549003e3f83d0aa45d87383a64e6b0f92c97e92337865980e0ec581"
+    },
+    {
+      "path": "tools/pmf_mux_local/ElementaryStreamIndex.cs",
+      "source": "tools/pmf_mux_local/ElementaryStreamIndex.cs",
+      "bytes": 4657,
+      "sha256": "262ff5e4a5b465a1b7099adf7eeaddc34aa858b8a29b2fa759da189345290ec0"
+    },
+    {
+      "path": "tools/pmf_mux_local/MpsMuxer.cs",
+      "source": "tools/pmf_mux_local/MpsMuxer.cs",
+      "bytes": 75795,
+      "sha256": "67e8dd87721f905627273c039cf34b35787dfbd312d12bbe441b44641b539bbe"
+    },
+    {
+      "path": "tools/pmf_mux_local/Mux.csproj",
+      "source": "tools/pmf_mux_local/Mux.csproj",
+      "bytes": 211,
+      "sha256": "71315f89bb7cc18684353be9719b76ba70fa7a67022a325d2aa84f223e649372"
+    },
+    {
+      "path": "tools/pmf_mux_local/Program.cs",
+      "source": "tools/pmf_mux_local/Program.cs",
+      "bytes": 759,
+      "sha256": "5239ed09ed3b78475019081ae87bcf91b517432f059c0165fa3f690073ad0cf3"
+    },
+    {
+      "path": "tools/pmf_mux_local/obj/Mux.csproj.nuget.dgspec.json",
+      "source": "tools/pmf_mux_local/obj/Mux.csproj.nuget.dgspec.json",
+      "bytes": 2115,
+      "sha256": "cf0d21bec6c45445d0a21e84121750920533f14fc74db6a0b4c640fb827774d0"
+    },
+    {
+      "path": "tools/pmf_mux_local/obj/Mux.csproj.nuget.g.props",
+      "source": "tools/pmf_mux_local/obj/Mux.csproj.nuget.g.props",
+      "bytes": 1136,
+      "sha256": "96423cfb986f2bad732713e0568fcb1dc5bac7848d24e1794bb4b9c02f1d834d"
+    },
+    {
+      "path": "tools/pmf_mux_local/obj/Mux.csproj.nuget.g.targets",
+      "source": "tools/pmf_mux_local/obj/Mux.csproj.nuget.g.targets",
+      "bytes": 150,
+      "sha256": "971cc9b535384849b5c661d776cd7a80833a416265e32e8968e06c367368b8b5"
+    },
+    {
+      "path": "tools/pmf_mux_local/obj/project.assets.json",
+      "source": "tools/pmf_mux_local/obj/project.assets.json",
+      "bytes": 1970,
+      "sha256": "1ace8f68b36b06d7bcf09d57760a24f69687e506d881a187874682f5e81d384b"
+    },
+    {
+      "path": "tools/pmf_mux_local/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "source": "tools/pmf_mux_local/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "bytes": 198,
+      "sha256": "f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e"
+    },
+    {
+      "path": "tools/pmf_mux_local/obj/Debug/net8.0/Mux.AssemblyInfo.cs",
+      "source": "tools/pmf_mux_local/obj/Debug/net8.0/Mux.AssemblyInfo.cs",
+      "bytes": 957,
+      "sha256": "f8f4c545be7a3e2c20a174a15a6404eeda5bd281e36ea43d4a85b15aedc4267d"
+    },
+    {
+      "path": "tools/pmftools-plus/LICENSE",
+      "source": "tools/pmftools-plus/LICENSE",
+      "bytes": 1366,
+      "sha256": "431d9c464f1b342e3fd92d8f79fdb9f196c86cc4aff74d9fa52421489b9aaa70"
+    },
+    {
+      "path": "tools/pmftools-plus/NOTICE.txt",
+      "source": "tools/pmftools-plus/NOTICE.txt",
+      "bytes": 768,
+      "sha256": "82b8f588e01bc823b1d275972aed88189acf8ceced3e8b900454db22c00845ae"
+    },
+    {
+      "path": "tools/pmftools-plus/README.md",
+      "source": "tools/pmftools-plus/README.md",
+      "bytes": 5259,
+      "sha256": "545f2153d632c1d02a636ed251eea14a4570efbb1d3b1aa78ace14c8391ec09d"
+    },
+    {
+      "path": "tools/pmftools-plus/src/get_duration/build.bat",
+      "source": "tools/pmftools-plus/src/get_duration/build.bat",
+      "bytes": 113,
+      "sha256": "ceffab3deaa240a19f77b01bf20f70fdf3d9afb9043c9537b9ad27a2c151c8c8"
+    },
+    {
+      "path": "tools/pmftools-plus/src/get_duration/get_duration.py",
+      "source": "tools/pmftools-plus/src/get_duration/get_duration.py",
+      "bytes": 730,
+      "sha256": "ba9a8560c249c382639c96bef13f2607738feda9ee4793b4912129d182082f96"
+    },
+    {
+      "path": "tools/pmftools-plus/src/get_duration/requirements.txt",
+      "source": "tools/pmftools-plus/src/get_duration/requirements.txt",
+      "bytes": 13,
+      "sha256": "83d300101c8c77891d33c94f65ddef7c2196e740194a0312fee05f5958b05777"
+    },
+    {
+      "path": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf.sln",
+      "source": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf.sln",
+      "bytes": 1448,
+      "sha256": "1b66a17ecd2e7c5c1bd28a4bd8d0ee03accdf35e0df75e6ec9a92732b0acb37e"
+    },
+    {
+      "path": "tools/pmftools-plus/src/Mps2Pmf/build.bat",
+      "source": "tools/pmftools-plus/src/Mps2Pmf/build.bat",
+      "bytes": 148,
+      "sha256": "15e7666fed643b9c5ea54858ce9a5013aaa42ff5fb4c1c29bb78d8c9505279bb"
+    },
+    {
+      "path": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf/Mps2Pmf.cpp",
+      "source": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf/Mps2Pmf.cpp",
+      "bytes": 9980,
+      "sha256": "7b6fe0f1b55314d87bcb953a868944d7ba8939f80b2033ff06b8650626bd2c1f"
+    },
+    {
+      "path": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf/cxxopts.hpp",
+      "source": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf/cxxopts.hpp",
+      "bytes": 52387,
+      "sha256": "35577f198a2f139f72448b46e5514839306b1c612c8c3e18a6c6b2d3e2de0baa"
+    },
+    {
+      "path": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf/pmf.h",
+      "source": "tools/pmftools-plus/src/Mps2Pmf/Mps2Pmf/pmf.h",
+      "bytes": 22556,
+      "sha256": "e3ebcc500a6e546345bdd6d877cab239a578d48a4d906f63967fee4aee041cc0"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/LICENSE",
+      "source": "tools/pmftools-plus/src/oMPSComposer/LICENSE",
+      "bytes": 1098,
+      "sha256": "2b11a377bb29b3f05e47bdacc8995955bd3e78739821f934682f1d7a6489c8e7"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/build.bat",
+      "source": "tools/pmftools-plus/src/oMPSComposer/build.bat",
+      "bytes": 90,
+      "sha256": "263c8513e226a408b48b26f0a7762c26a3ab950e3b3e7cdb0fa34e1c363b6a80"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Program.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Program.cs",
+      "bytes": 15647,
+      "sha256": "4e192944efca15edda68bc6542d2634314e1eab2e307290b335c9691a81d961f"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/oMPSComposer.csproj",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/oMPSComposer.csproj",
+      "bytes": 512,
+      "sha256": "af3347bfe2e061b4caa26573fa0f88dd2f468b0e76c27d8f8b974bbf4e4c21d6"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/AtracReader.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/AtracReader.cs",
+      "bytes": 8291,
+      "sha256": "fe003d3c0522aa242d2602db0c0d94804bc318064fe61d40c308a70fa7e7abd7"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/AudioEncoder.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/AudioEncoder.cs",
+      "bytes": 1553,
+      "sha256": "daf1f51ae23395b52929a8459062077197e046c8298c6ba9f494364d4ef4b3f7"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/VideoEncoder.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/VideoEncoder.cs",
+      "bytes": 5435,
+      "sha256": "3c81d8aa4dfe6d7e11dad7f9132b47dfad61bd6b901151b439db44a77f345356"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/VideoOptions.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Encoder/VideoOptions.cs",
+      "bytes": 532,
+      "sha256": "35fc614dbeef362ef7260946784ca212701c0caaeb9bed57283b238ed6b82df1"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Muxer/ElementaryStreamIndex.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Muxer/ElementaryStreamIndex.cs",
+      "bytes": 4657,
+      "sha256": "262ff5e4a5b465a1b7099adf7eeaddc34aa858b8a29b2fa759da189345290ec0"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Muxer/MpsMuxer.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Muxer/MpsMuxer.cs",
+      "bytes": 75795,
+      "sha256": "8cb7ea1c8b3f9696bb068b8a1a03fadea215af60e6bdbd5d944aeb62da634e3c"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
+      "bytes": 194,
+      "sha256": "0c2eadb59d40b199250a3c2e0c3119180c9f0c00e069bf51bb7bb39c9b2eeefb"
+    },
+    {
+      "path": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Properties/AssemblyInfo.cs",
+      "source": "tools/pmftools-plus/src/oMPSComposer/oMPSComposer/Properties/AssemblyInfo.cs",
+      "bytes": 291,
+      "sha256": "dc021e429f119ad75291dd35d6c99ea9f74115d43171332c2d5e0b65ba4aa84d"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/Program.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/Program.cs",
+      "bytes": 1948,
+      "sha256": "cf08f517feea2ae3e478eeab74a13f0fa52552746c73b6df6246a4d136ecafc8"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/README.md",
+      "source": "tools/pmftools-plus/src/psmfdump/README.md",
+      "bytes": 262,
+      "sha256": "9f964ef82d3c3924a5e80b9a88dbed8737ac4e78c6fdb1d3bbdbf541245448a6"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/build.bat",
+      "source": "tools/pmftools-plus/src/psmfdump/build.bat",
+      "bytes": 108,
+      "sha256": "caa340a5aaaaee23b81924e41b7c2521e0abb9b06f0cd75f7c41aa914ee4fd15"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/psmfdump.csproj",
+      "source": "tools/pmftools-plus/src/psmfdump/psmfdump.csproj",
+      "bytes": 504,
+      "sha256": "59f4fc3823e39863620d6411ea80592229d3a3eb745a3857ccf323850dcd767d"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/format/Atrac3Plus.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/format/Atrac3Plus.cs",
+      "bytes": 9204,
+      "sha256": "6e1b3f911352c22c866f4d1c42b98701afcb0b22095c41976fef0e57c31cc6e8"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/format/Mpeg2Stream.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/format/Mpeg2Stream.cs",
+      "bytes": 3000,
+      "sha256": "f1c88e3aef0bf933ce9c6691a1a05394ba241df5a1fb2d61f4b4dadfd32462e6"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/format/MpegStream.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/format/MpegStream.cs",
+      "bytes": 32550,
+      "sha256": "3a4211c48f60b3d1c0e5e1fe7be3fcbacfb1463f47d2ea1400030be0b7112f33"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/format/SonyPmfStream.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/format/SonyPmfStream.cs",
+      "bytes": 9660,
+      "sha256": "0dbfc6ccdf14bf2a85b2ca241347babe24d8111993605fc34344b7af91b50614"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+      "bytes": 198,
+      "sha256": "ac9ddb5ee1d6adc61057f3029bf0242b3f619f1f85d4cc8ffa956b76ea48d939"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/obj/Debug/net7.0/psmfdump.AssemblyInfo.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/obj/Debug/net7.0/psmfdump.AssemblyInfo.cs",
+      "bytes": 1013,
+      "sha256": "8999d520fa2e45ef340bf815a167e8d3405bd0c3912a1aaead06486d6a6a6dc3"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/ByteConversion.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/ByteConversion.cs",
+      "bytes": 8914,
+      "sha256": "5aca3e7d674d4e3bf019638f1e9182d72e23de64b6a979dc45f1b52ed1f3c87c"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/CalculatingOffsetDescription.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/CalculatingOffsetDescription.cs",
+      "bytes": 314,
+      "sha256": "361f9b01be403769ef43fbfd404382361b86085c1c7823e9885fc573da7ef4f0"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/Constants.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/Constants.cs",
+      "bytes": 11953,
+      "sha256": "0edc7a383a39fb9e9828634e7226333d4d19f2c46d6f4ae8f191b75a78cfeb22"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/FileUtil.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/FileUtil.cs",
+      "bytes": 27301,
+      "sha256": "3754337b8a5847d14e485e2f7d25b9d68e713030c6c740dd361137cff1e9c738"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/MathUtil.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/MathUtil.cs",
+      "bytes": 663,
+      "sha256": "6ff818559cebb6b86c8bb3b2da23d8b25e7ba4dfd1d5a50fc1efc2b732b347c8"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/OffsetDescription.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/OffsetDescription.cs",
+      "bytes": 236,
+      "sha256": "9b9ae08978e9f6bc6a29fa266bfc4071f14e4fd4df52bee807a4fb3d3341fd61"
+    },
+    {
+      "path": "tools/pmftools-plus/src/psmfdump/util/ParseFile.cs",
+      "source": "tools/pmftools-plus/src/psmfdump/util/ParseFile.cs",
+      "bytes": 72495,
+      "sha256": "3c441a3a3f887c2e0da527149663cafe120d5dae14bda878b595e78597fefe19"
+    },
+    {
+      "path": "tools/pmftools-plus/src/scripts/pmftools-plus.bat",
+      "source": "tools/pmftools-plus/src/scripts/pmftools-plus.bat",
+      "bytes": 27258,
+      "sha256": "5a3740906e9cd340a958cf361ff10509291f283b2462e2fc7cbfd0e26d1efa40"
+    },
+    {
+      "path": "docs/PROJECT_NOTES.md",
+      "source": "README.md",
+      "bytes": 5446,
+      "sha256": "72f08b1d285f9bf798be97e00d2d6ccc30f31fcd8e28e8e6c7b4a5b9bd6bb9c5"
+    }
+  ]
+}

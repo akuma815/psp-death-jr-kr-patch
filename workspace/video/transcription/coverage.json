@@ -1,0 +1,581 @@
+[
+  {
+    "file": "ICON1.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " ."
+      ],
+      "large-v3-turbo_no_vad": [
+        " Thank you."
+      ]
+    },
+    "wav_sha256": "2e19da6c73725942fcb34af68f8a3acc72e708ff19285dd3a7d2ae56c797058d"
+  },
+  {
+    "file": "ASSIST_EXTEND.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " MUSIC"
+      ],
+      "large-v3-turbo_no_vad": [
+        " ."
+      ]
+    },
+    "wav_sha256": "2cfde4e34502d5c16e7e5eccf3e9aa8b91136298b5e6c14fa301b961aa20acff"
+  },
+  {
+    "file": "CREDITS.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " You",
+        " Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+        " oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+        " I don't know what I'm doing right now, I'm just trying to figure out what I'm doing right now.",
+        " You"
+      ],
+      "large-v3-turbo_no_vad": [
+        " I'll see you next time.",
+        " Thank you.",
+        " Thank you.",
+        " We'll be right back.",
+        " Thank you.",
+        " Thank you.",
+        " Thank you.",
+        " Oh, my God.",
+        " Thank you.",
+        " Thank you.",
+        " Thank you.",
+        " Thank you."
+      ]
+    },
+    "wav_sha256": "7dd74ee523d0ae26c4c164b4faa04dc11135307fd5140aaf4f26c06fa3b8fa53"
+  },
+  {
+    "file": "DJ_TEST.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " I'll see you guys in the next video.",
+        " you"
+      ],
+      "large-v3-turbo_no_vad": [
+        " We'll see you next time.",
+        " Thank you."
+      ]
+    },
+    "wav_sha256": "9afca91f79f455e3ee1e04af54b25fdefb255fb27dbbfc0420a8b0cf65a7efe3"
+  },
+  {
+    "file": "ELECTRIC_BOSS.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " This is a production of WGBH, and this is a production of WGBH."
+      ]
+    },
+    "wav_sha256": "51873cb066ae62479b53e091ff4be490c21f8f3ddbd71c25267e05acf0f13ef7"
+  },
+  {
+    "file": "FIRE_BOSS.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Music"
+      ],
+      "large-v3-turbo_no_vad": [
+        " ."
+      ]
+    },
+    "wav_sha256": "06d2fafc3df0514aff3064e1ed122fe4d42110d053dc441ac5933ec0d34e0061"
+  },
+  {
+    "file": "GAMEEND.mp4",
+    "dialogue_rows": 3,
+    "status": "dialogue_draft",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [
+        " The most powerful weapon in the world"
+      ],
+      "medium.en_no_vad": [
+        " And now",
+        " I'd found the key to defeatin' Moloch, the most powerful weapon in the world!",
+        " Ah...crap."
+      ],
+      "large-v3-turbo_no_vad": [
+        " I don't know how to do it.",
+        " I don't know how to do it.",
+        " I don't know how to do it.",
+        " I don't know how to do it.",
+        " I don't know how to do it.",
+        " I don't know how to do it.",
+        " I don't know how to do it.",
+        " I don't know what to do.",
+        " I found the key to beating Moloch, the most powerful weapon in the world!",
+        " Ah, crap."
+      ]
+    },
+    "wav_sha256": "213cc801ffad834f42b3a35e9ece1913b36736ce2191b93128507b5f9d23355f"
+  },
+  {
+    "file": "GAMEINTRO.mp4",
+    "dialogue_rows": 48,
+    "status": "dialogue_draft",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [
+        " File in class, and give me your reports by the end of the day.",
+        " Move it, Molly.",
+        " Oh, God.",
+        " We'll start in the archives.",
+        " Becky, stop hitting Max.",
+        " Oh, hi!",
+        " We should stay with the class.",
+        " Damn it.",
+        " Now I'm all nervous.",
+        " See?",
+        " Come on, guys.",
+        " What am I supposed to write a report about?",
+        " What we didn't learn today?",
+        " You suck, Stigmarther.",
+        " Dead Guppy's not scared.",
+        " I do not suck.",
+        " We're going to get arrested again.",
+        " Put a cork in it.",
+        " There is a cork in it.",
+        " Ah, gross! Repulsive!",
+        " I tire of this discussion.",
+        " You volunteered to write the report for our group, Marty.",
+        " Complaining is futile.",
+        " Let us find more stimulating amusement.",
+        " Like that!",
+        " An artifact estimated to be thousands of years old.",
+        " Attempts to open it have failed.",
+        " The mysteries may never be known.",
+        " Wicked.",
+        " stop it Pandora whomever locked that box obviously didn't want it opened again",
+        " weird I can open anything this is boring it's just a stupid box",
+        " Marty let's roll whatever let's jam we're gonna get grounded for this yeah",
+        " whatever anybody got a smoke I'll be back for you what was that noise what",
+        " it wasn't me that one was me"
+      ],
+      "medium.en_no_vad": [
+        " File in class and give me your reports by the end of the day. Move it, Molly.",
+        " Oh, God. We'll start in the archives. Becky, stop hitting Max.",
+        " Hi!",
+        " We should stay with the class.",
+        " Dammit.",
+        " Now I'm all nervous.",
+        " See?",
+        " Come on guys, what am I supposed to write a report about?",
+        " What we didn't learn today?",
+        " You suck, Stigmartha.",
+        " Dead Guppy's not scared.",
+        " I do not suck.",
+        " We're gonna get arrested again.",
+        " Put a cork in it.",
+        " There is a cork in it.",
+        " Ah, gross! Repulsive! I tire of this discussion!",
+        " You volunteered to write the report for our group, Marty. Complaining is futile.",
+        " Let us find more stimulating amusement.",
+        " Like that!",
+        " Oops!",
+        " An artifact estimated to be thousands of years old.",
+        " Attempts to open it have failed.",
+        " The mysteries may never be known.",
+        " Ooh, wicked.",
+        " Stop it, Pandora. Whomever locked that box obviously didn't want it opened again.",
+        " It won't open!",
+        " That's weird. I can open anything.",
+        " This is boring. It's just a stupid box. Marty, let's roll!",
+        " Whatever. Let's jam.",
+        " We're gonna get grounded for this.",
+        " Yeah, whatever. Anybody got a smoke?",
+        " oh",
+        " I'll be back for you",
+        " What was that noise what it wasn't me nope that one was me",
+        " Huh?",
+        " Huh?",
+        " Aaaah!",
+        " Aaaah!",
+        " Aaaah!",
+        " Aaaah!",
+        " Huh?",
+        " Huh?"
+      ],
+      "large-v3-turbo_no_vad": [
+        " File in class and give me your reports by the end of the day.",
+        " Move it, Molly.",
+        " Oh, God.",
+        " We'll start in the archives.",
+        " Becky, stop hitting Max.",
+        " Hi!",
+        " We should stay with the class.",
+        " Damn it. Now I'm all nervous.",
+        " See?",
+        " Come on, guys. What am I supposed to write a report about?",
+        " What we didn't learn today?",
+        " You suck, Stigmarta. Dead Guppy's not scared.",
+        " I do not suck.",
+        " We're gonna get arrested again.",
+        " Put a cork in it.",
+        " There is a cork in it.",
+        " Aw, gross!",
+        " Repulsive! I tire of this discussion. You volunteered to write the report for our group Marty.",
+        " Complaining is futile. Let us find more stimulating amusement.",
+        " Like that?",
+        " Oops!",
+        " An artifact estimated to be thousands of years old. Attempts to open it have failed.",
+        " The mysteries may never be known.",
+        " Ooh, wicked.",
+        " stop it pandora whomever locked that box obviously didn't want it opened again",
+        " it won't open that's weird i can open anything this is boring it's just a stupid box",
+        " marty let's roll whatever let's jam",
+        " we're gonna get grounded for this yeah whatever anybody get a smoke",
+        " I'll be back for you.",
+        " Giddy up!",
+        " If you want an A, leave me alone.",
+        " Hey, DJ.",
+        " What was that noise?",
+        " What? It wasn't me.",
+        " Oops, that one was me.",
+        " Huh?",
+        " Huh?",
+        " Ah!",
+        " Ah!",
+        " Ah!",
+        " Ah!",
+        " Ah!",
+        " Huh?",
+        " Huh?",
+        " Huh?"
+      ]
+    },
+    "wav_sha256": "62d09c5f371b29bbe3a367bd3bb03f2234de3f175e36fdd9ad5605ba3fc58a97"
+  },
+  {
+    "file": "GUPPYFLASHBACK.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [
+        " you"
+      ],
+      "medium.en_no_vad": [
+        " Music"
+      ],
+      "large-v3-turbo_no_vad": [
+        " This video is brought to you by S.T.A.L.A."
+      ]
+    },
+    "wav_sha256": "a41a46c1236e68bd9d267537c8a9f4f6cce57aa51938430890a30d66f7e8b2b0"
+  },
+  {
+    "file": "GUPPYFREED.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " ."
+      ]
+    },
+    "wav_sha256": "7f3b0e35483b8d71b1098f855bca662bb1ccbbdcd509d54bd1c64d47798c8366"
+  },
+  {
+    "file": "GUPPYPORTALS.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " ."
+      ],
+      "large-v3-turbo_no_vad": [
+        " Hello everyone, welcome back to my channel."
+      ]
+    },
+    "wav_sha256": "3403e0bf4e5b15512608c87d8e0f6f4a65d29bfd55eb8329862b8936e35e2336"
+  },
+  {
+    "file": "HEALTH_EXTEND.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " MUSIC"
+      ],
+      "large-v3-turbo_no_vad": [
+        " ."
+      ]
+    },
+    "wav_sha256": "2cfde4e34502d5c16e7e5eccf3e9aa8b91136298b5e6c14fa301b961aa20acff"
+  },
+  {
+    "file": "MARTYFLASHBACK.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " This video is brought to you by S.T.A.L.A."
+      ]
+    },
+    "wav_sha256": "42c9af2f4c4c259252f8efc3704630989b9deacd645c4c713f72c4b41efc8164"
+  },
+  {
+    "file": "MARTYFREED.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " You"
+      ]
+    },
+    "wav_sha256": "f81f8103649e92aae40d3cea894e906a2e5f96200f722f5ffd25d2add816d110"
+  },
+  {
+    "file": "MARTYPORTALS.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " ."
+      ],
+      "large-v3-turbo_no_vad": [
+        " Hello everyone."
+      ]
+    },
+    "wav_sha256": "ded26388f9187a4960938b270dc3bb7e1c9982f220b24684cd8725edd6b6dff8"
+  },
+  {
+    "file": "MOLOCH.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " I'll see you next time."
+      ]
+    },
+    "wav_sha256": "e13bad2122c905f674c58f437de7d647c82aeb8bc9dc42b826adbf21409b27a8"
+  },
+  {
+    "file": "REUNITED.mp4",
+    "dialogue_rows": 7,
+    "status": "dialogue_draft",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [
+        " DJ! Hey! Uh, wow! We were looking all over for you in the bathroom stalls.",
+        " Inside locked, but we were looking for you nonetheless. So good to see you."
+      ],
+      "medium.en_no_vad": [
+        " DJ! Hey, uh, wow!",
+        " We were looking all over for you in the bathroom stalls.",
+        " Inside locked, but we were looking for you nonetheless.",
+        " So good to see you."
+      ],
+      "large-v3-turbo_no_vad": [
+        " DJ! Hey! Uh, wow! We were looking all over for you in the bathroom stalls.",
+        " Inside, locked, but we were looking for you nonetheless. So good to see you."
+      ]
+    },
+    "wav_sha256": "a243f825af3ffb67f7cdc70c3b11a98dfdc49db1a40946603265c2b75bdbd0db"
+  },
+  {
+    "file": "SAVE_GAME.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thank you."
+      ],
+      "large-v3-turbo_no_vad": [
+        " You"
+      ]
+    },
+    "wav_sha256": "56db705b43b2ccacbd423c4ca0119459e70fdf777d9d126ed04208ea0973f242"
+  },
+  {
+    "file": "SEEPFLASHBACK.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [
+        " you"
+      ],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " This video is brought to you by the"
+      ]
+    },
+    "wav_sha256": "82d675e580d18f469d579767cf3f5a5cb60a578dcb1d2cc5990cb18f8efbe54a"
+  },
+  {
+    "file": "SEEPFREED.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " ."
+      ],
+      "large-v3-turbo_no_vad": [
+        " You"
+      ]
+    },
+    "wav_sha256": "d2ee23bf5c1631a494f1ea3048660da8527be67da4a2f1a6cec37d40ec0d1d8a"
+  },
+  {
+    "file": "SEEPPORTALS.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " ."
+      ],
+      "large-v3-turbo_no_vad": [
+        " Hello everyone, welcome back to my channel."
+      ]
+    },
+    "wav_sha256": "8295a3bcc689ecdaf2129310279c9214591cf5baa892f4e941830ca63f52bd34"
+  },
+  {
+    "file": "SOUL_PIECE.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " MUSIC"
+      ],
+      "large-v3-turbo_no_vad": [
+        " ."
+      ]
+    },
+    "wav_sha256": "69d0c88cfc5a74454fdc22c097358a4ecc715004a338f60df316de924e98fb09"
+  },
+  {
+    "file": "STARTUP.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " Thanks for watching!"
+      ],
+      "large-v3-turbo_no_vad": [
+        " I"
+      ]
+    },
+    "wav_sha256": "5b96c7719cbeb3f074a8042bbcebb9b1572903edc3727dc36424d8516cfb7e0c"
+  },
+  {
+    "file": "TITLES.mp4",
+    "dialogue_rows": 1,
+    "status": "dialogue_draft",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [
+        " Hey, the bus is here."
+      ],
+      "medium.en_no_vad": [
+        " Dijay, the bus is here."
+      ],
+      "large-v3-turbo_no_vad": [
+        " DJ, the bus is here."
+      ]
+    },
+    "wav_sha256": "f459ccb8cef46f378ffa4c8bcd0c9c02e77787cb43ce018b38d17cfc146a35ab"
+  },
+  {
+    "file": "UMD_MOVIE.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " ."
+      ],
+      "large-v3-turbo_no_vad": [
+        " Thank you."
+      ]
+    },
+    "wav_sha256": "2e19da6c73725942fcb34af68f8a3acc72e708ff19285dd3a7d2ae56c797058d"
+  },
+  {
+    "file": "WEAPON_UPGRADE.mp4",
+    "dialogue_rows": 0,
+    "status": "no_reliable_dialogue_detected",
+    "note": "ASR 모델 비교에 따른 분류; 전편 청취 확인 아님. 무대사 확정으로 해석하지 말 것.",
+    "raw_candidates": {
+      "medium.en": [],
+      "medium.en_no_vad": [
+        " MUSIC"
+      ],
+      "large-v3-turbo_no_vad": [
+        " ."
+      ]
+    },
+    "wav_sha256": "3256bcae78cb70b74e4a50286063b27e396833581e62badaa4450af5dcef56e7"
+  }
+]
