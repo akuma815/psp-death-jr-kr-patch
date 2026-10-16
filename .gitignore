@@ -32,3 +32,7 @@ __pycache__/
 *.utoc
 *.uasset
 *.uexp
+
+tools/python/
+.zig-cache/
+.zig-global-cache/

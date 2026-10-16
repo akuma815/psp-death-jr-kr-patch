@@ -9,6 +9,7 @@ The full-game safety of these slot assignments is NOT established.
 """
 from pathlib import Path
 import argparse
+import os
 import hashlib
 import importlib.metadata
 import json
@@ -21,7 +22,7 @@ from fontTools.ttLib import TTFont
 
 ROOT = Path(__file__).resolve().parents[1]
 BUILD = ROOT / 'build/001_firstline_kyobo24'
-FONT = ROOT.parents[1] / 'Font/KyoboHandwriting2019.ttf'
+FONT = Path(os.environ.get('DEATHJR_FONT', str(ROOT.parents[1] / 'Font/KyoboHandwriting2019.ttf')))
 FONT_HASH = '92ed8baae0b00321994560281650f7a6ade89dcef6f8848fa511391720ce9aa5'
 ELF_HASH = 'e521c889dd57db58fe0b081a8c653a750f8c5bf9db6cf184f3714be4d44057f1'
 # syllable, temporary byte, original glyph index, measured source u/v/width

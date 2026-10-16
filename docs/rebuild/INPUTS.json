@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-16",
+  "sourceSHA256": "625c03e32b6757eb4e1ac382f43592d86778b3c943d4f26b95f1134ceee85ea3",
+  "sourceBytes": 435159040,
+  "targetSHA256": "c1ed1625cd3f9dac362655af0d332d49470fdab592c23cb5d81b778f4d52b842",
+  "files": [
+    {
+      "path": "workspace/text/DeathJr_English_Script_Korean.csv",
+      "bytes": 132105,
+      "sha256": "7d59b51d601c640ebcddd1bde9a0689879ab0310b13f5beef3c2733a572b2ec5"
+    },
+    {
+      "path": "workspace/text/english_script_source.json",
+      "bytes": 316161,
+      "sha256": "393af600153b6f4daf5bd67c4ac263213b5e0cb5e56bd8b131b641266a064008"
+    },
+    {
+      "path": "workspace/video/transcription/DeathJr_Movie_Dialogue_Korean.csv",
+      "bytes": 23055,
+      "sha256": "6667f45e7d6b6bf2ad5d71e09eee108a88bbaeb80650f7cf07083723ec24953e"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/manifest.json",
+      "bytes": 18568,
+      "sha256": "3a3eef73a7ae6831035aa919fd7dc246838c418213b493356ad3dd0276ce1db9"
+    },
+    {
+      "path": "workspace/video/verified_pmf_007/manifest.json",
+      "bytes": 2185,
+      "sha256": "8a20a190086796a6b526aab59e57b6bacbc81b5cc63cf64d04fc427b7839c2a4"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/GAMEINTRO.srt",
+      "bytes": 3203,
+      "sha256": "5ba82916edb7af1234df2e4f357bda544cd8c182144800650023051d13cebc99"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/GAMEEND.srt",
+      "bytes": 207,
+      "sha256": "a25e8d271c37a13869449ca6ca7e43ea1520baca66bc789a68bdd9d330d11376"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/REUNITED.srt",
+      "bytes": 436,
+      "sha256": "d3dc677f336d015a32ab61dd6e0edea4f8bead48ce97c9e2f7e1a4f4bb03c15f"
+    },
+    {
+      "path": "workspace/video/subtitled_001_kyobo24/srt/TITLES.srt",
+      "bytes": 57,
+      "sha256": "17055ff9c69adf9101de6d563a9f97c824883df4ecb5469076c32cd33df263c1"
+    },
+    {
+      "path": "inputs/restore_original_elf.json",
+      "bytes": 135397,
+      "sha256": "c11e9b45c482a5fd5afd20886fa14b2b9140b9d60b2fc70d0ed6328db2db3fea"
+    }
+  ],
+  "font": {
+    "name": "KyoboHandwriting2019.ttf",
+    "sha256": "92ed8baae0b00321994560281650f7a6ade89dcef6f8848fa511391720ce9aa5",
+    "included": false
+  },
+  "releaseURL": "https://github.com/akuma815/psp-death-jr-kr-patch/releases/download/final-20260926/psp-death-jr-kr-patch-final-20260926.zip",
+  "releaseSHA256": "1b3ee58e728cd07267329944619f92e0ca64ed8ad6e1c2ea452f38a71fdfaf8f",
+  "originalOrMovieBinariesIncluded": false,
+  "assetRecovery": "Cached subtitled PMFs recovered from the pinned public final-release patch. Original decrypted ELF recovered by sparse inverse writes, then text/runtime rebuilt from source."
+}

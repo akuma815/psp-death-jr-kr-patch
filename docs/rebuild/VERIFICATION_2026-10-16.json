@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "sourceSHA256": "625c03e32b6757eb4e1ac382f43592d86778b3c943d4f26b95f1134ceee85ea3",
+  "finalSHA256": "c1ed1625cd3f9dac362655af0d332d49470fdab592c23cb5d81b778f4d52b842",
+  "finalBytes": 477913088,
+  "textAndRuntimeBuiltFromSource": true,
+  "translationRows": 708,
+  "cpuCases": 1422,
+  "frozenMoviesRecoveredFromPublicPatch": 4,
+  "logicalFilesVerified": 86,
+  "originalUnchanged": true,
+  "runtimeSceneOrFullPlaythrough": "not performed",
+  "date": "2026-10-16",
+  "realDownloadedApplyPS1": "PASS",
+  "downloadedReleaseSHA256": "1b3ee58e728cd07267329944619f92e0ca64ed8ad6e1c2ea452f38a71fdfaf8f",
+  "wrongSourceRejected": {
+    "sha256": "644a57ff208d17ee4ec22ff06546f6d1e66bb3c88ca5f6ea91abb9e8edc22ff1",
+    "byRealReleaseHelper": true,
+    "byNewRebuilder": true
+  },
+  "existingOutputRejected": true,
+  "publicReleaseRequiredForFrozenMovieRecovery": true,
+  "externalFontRequired": "KyoboHandwriting2019.ttf"
+}

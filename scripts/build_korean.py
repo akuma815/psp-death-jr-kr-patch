@@ -221,7 +221,7 @@ dj_data:
 '''
     save(BUILD/'entry.S',asm.encode())
     save(BUILD/'link.ld',('ENTRY(dj_entry)\nSECTIONS { . = 0x%x; .text : { entry.o(.text) *(.text*) } .rodata : { *(.rodata*) } .data : { *(.data*) *(.sdata*) } .bss : { *(.bss*) *(.sbss*) *(COMMON) } /DISCARD/ : { *(.MIPS.abiflags) *(.reginfo) *(.pdr) *(.comment) *(.note*) } }'%BASE).encode())
-    zig=ROOT/'tools/python/ziglang/zig.exe'
+    zig=Path(os.environ.get('DEATHJR_ZIG', str(ROOT/'tools/python/ziglang/zig.exe')))
     # Assembly .incbin inputs are not tracked reliably by shared Zig caches.
     # Each new output directory owns its cache so updated text enters the ELF.
     compiler_env=os.environ.copy()
